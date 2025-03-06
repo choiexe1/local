@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "4강 컴퓨터의 입출력",
+      "path": "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md"
+    },
+    {
       "basename": "2강 세계화의 역사와 현실",
       "path": "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md"
+    },
+    {
+      "basename": "Dart 문법 기초",
+      "path": "Programming/Dart 문법 기초.md"
+    },
+    {
+      "basename": "2강 컴퓨터의 구성",
+      "path": "Lectures/25년 1학기/파이썬 프로그래밍/2강 컴퓨터의 구성.md"
+    },
+    {
+      "basename": "1강 컴퓨터의 이해",
+      "path": "Lectures/25년 1학기/파이썬 프로그래밍/1강 컴퓨터의 이해.md"
     },
     {
       "basename": "5강 순차 구조",
@@ -15,18 +31,6 @@
     {
       "basename": "3강 파이썬의 이해",
       "path": "Lectures/25년 1학기/파이썬 프로그래밍/3강 파이썬의 이해.md"
-    },
-    {
-      "basename": "2강 컴퓨터의 구성",
-      "path": "Lectures/25년 1학기/파이썬 프로그래밍/2강 컴퓨터의 구성.md"
-    },
-    {
-      "basename": "1강 컴퓨터의 이해",
-      "path": "Lectures/25년 1학기/파이썬 프로그래밍/1강 컴퓨터의 이해.md"
-    },
-    {
-      "basename": "Dart 문법 기초",
-      "path": "Programming/Dart 문법 기초.md"
     }
   ],
   "omittedPaths": [],
