@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Git 개요.md",
+                "file": "Lectures/25년 1학기/파이썬 프로그래밍/8강 체크포인트 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git 개요"
+              "title": "8강 체크포인트 1"
             }
           }
         ]
@@ -180,9 +180,10 @@
   "active": "5fbc86f353c33114",
   "lastOpenFiles": [
     "Programming/Dart 문법 기초.md",
+    "Lectures/25년 1학기/파이썬 프로그래밍/8강 체크포인트 1.md",
     "Programming/Git 개요.md",
-    "무제.md",
     "그로스로그 온보딩.md",
+    "무제.md",
     "Lectures/25년 1학기/컴퓨터의 이해",
     "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md",
     "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md",
