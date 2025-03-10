@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "그로스로그 온보딩.md",
+                "file": "Programming/Git 기초.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "그로스로그 온보딩"
+              "title": "Git 기초"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5
   },
   "right": {
     "id": "6672983a5ddb5c32",
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "그로스로그 온보딩.md",
+                "file": "Programming/Git 기초.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "그로스로그 온보딩 의 개요"
+              "title": "Git 기초 의 개요"
             }
           }
         ],
@@ -182,6 +182,7 @@
   "active": "58d180b77f9faa54",
   "lastOpenFiles": [
     "그로스로그 온보딩.md",
+    "Programming/Git 기초.md",
     "Lectures/25년 1학기/컴퓨터의 이해",
     "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md",
     "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md",
