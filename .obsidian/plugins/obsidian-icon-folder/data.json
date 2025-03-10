@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBadgeCheck",
+      "LiAsterisk",
       "LiAppWindowMac",
       "LiUniversity",
       "📖"
@@ -33,5 +35,6 @@
     "useInternalPlugins": false
   },
   "Programming": "LiAppWindowMac",
-  "Lectures": "LiUniversity"
+  "Lectures": "LiUniversity",
+  "Personal": "LiAsterisk"
 }
