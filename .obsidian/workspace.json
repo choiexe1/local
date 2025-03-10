@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/25년 1학기/파이썬 프로그래밍/2강 컴퓨터의 구성.md",
+                "file": "Programming/Git 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2강 컴퓨터의 구성 의 백링크"
+              "title": "Git 기초 의 백링크"
             }
           },
           {
@@ -159,8 +159,7 @@
               "title": "개요"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
