@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1e379b5c9b7318a",
+        "id": "25390ce43ca5ff1f",
         "type": "tabs",
         "children": [
           {
-            "id": "3cebf7c60b68d6bf",
+            "id": "0333a89e3f7111a4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,8 +175,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cebf7c60b68d6bf",
+  "active": "0333a89e3f7111a4",
   "lastOpenFiles": [
+    "무제.md",
     "Programming/Git 기초.md",
     "그로스로그 온보딩.md",
     "Lectures/25년 1학기/컴퓨터의 이해",
