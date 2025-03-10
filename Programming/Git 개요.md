@@ -28,8 +28,12 @@
 
 ## 핵심 개념
 - Repository (저장소)
-	- Remote Repository (원격 저장소)
-	- Local Repository (로컬 저장소)
-	- Branch (브랜치)
+	- Remote Repository (원격 저장소): 원격(Github)에 존재하는 저장소를 의미
+	- Local Repository (로컬 저장소): 내 컴퓨터에 존재하는 저장소를 의미
+	- Fork (포크): 하나의 소프트웨어 소스 코드를 통째로 복사해서, 독립적인 소프트웨어를 개발하려는 용도로 복제하는 것
+	- Branch (브랜치): 소프트웨어의 특정 변경 시점을 기준으로 새로운 가지를 만듦
 		- Commit (커밋)
 		- Push (푸시)
+		- Pull (풀)
+
+## Repository
