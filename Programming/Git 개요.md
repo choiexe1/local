@@ -30,11 +30,11 @@
 - Repository (저장소): 소스코드 저장소
 	- Remote Repository (원격 저장소): 원격(Github)에 존재하는 저장소를 의미
 	- Local Repository (로컬 저장소): 내 컴퓨터에 존재하는 저장소를 의미, `git clone` 명령어를 통해 다운로드 받은 저장소
-- Fork (포크): 하나의 소프트웨어 소스 코드를 통째로 복사해서, 독립적인 소프트웨어를 개발하려는 용도로 복제하는 것
+- Fork (포크): 하나의 소프트웨어 소스 코드를 통째로 복사해서, 독립적인 소프트웨어를 개발하려는 용도로 복제하는 것^[[위키피디아 - 포크 (소프트웨어 개발)](https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%81%AC_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EA%B0%9C%EB%B0%9C))]
 - Branch (브랜치): 소프트웨어의 특정 변경 시점을 기준으로 새로운 가지를 만듦, 분기점
 		- Commit (커밋): 로컬의 변경 사항을 저장
 		- Push (푸시): 변경 사항을 원격 저장소에 밀어넣는다. 원격 저장소에 변경 사항이 추가된다.
 		- Pull (풀): 로컬 저장소와 원격 저장소의 변경 시점을 비교해서, 원격 저장소에 변경 사항을 로컬 저장소에 반영한다.
 
-## 참고
-- [Learn Git Branching](https://learngitbranching.js.org/?locale=ko): 웹 기반으로 무료 Git 브랜치를 배울 수 있는 웹 사이트
+## 도움 되는 자료
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=ko): 웹 기반으로 무료 Git 브랜칭을 배울 수 있는 웹 사이트
