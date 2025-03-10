@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25390ce43ca5ff1f",
+        "id": "f023e45d43b37599",
         "type": "tabs",
         "children": [
           {
-            "id": "0333a89e3f7111a4",
+            "id": "5fbc86f353c33114",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Git 개요.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Git 개요"
+              "title": "새 탭"
             }
           }
         ]
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Git 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Git 개요 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -178,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0333a89e3f7111a4",
+  "active": "5fbc86f353c33114",
   "lastOpenFiles": [
-    "무제.md",
     "Programming/Git 개요.md",
+    "무제.md",
     "그로스로그 온보딩.md",
     "Lectures/25년 1학기/컴퓨터의 이해",
     "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md",
