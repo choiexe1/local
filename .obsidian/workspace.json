@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-03-11.md",
-                "mode": "source",
+                "file": "Programming/Git/Git 개요.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-11"
+              "title": "Git 개요"
             }
           }
         ]
@@ -179,10 +179,10 @@
   },
   "active": "0b1e16d48cd12e78",
   "lastOpenFiles": [
-    "Programming/Git/Git 2.md",
+    "Programming/Git/Git 명령어와 컨벤션.md",
     "Programming/Git/Git 개요.md",
-    "Programming/Dart/Dart 문법 기초.md",
     "Daily/2025-03-11.md",
+    "Programming/Dart/Dart 문법 기초.md",
     "Daily",
     "Personal/무제",
     "Programming/Git",
