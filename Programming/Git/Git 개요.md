@@ -60,3 +60,4 @@
 
 ## 도움 되는 자료
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=ko): 웹 기반으로 무료 Git 브랜칭을 배울 수 있는 웹 사이트
+- [Backlog - Git Tutorial](https://backlog.com/ja/git-tutorial): Git을 학습할 수 있는 웹 문서
