@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dada507bc9b007d9",
+        "id": "f24ff7f4f11333e8",
         "type": "tabs",
         "children": [
           {
-            "id": "9d1f6eafc3bb285f",
+            "id": "10c87dcbfe2447b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-03-11.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-03-11"
+              "title": "새 탭"
             }
           }
         ]
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2025-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-03-11 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -151,13 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-03-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-11 의 개요"
+              "title": "개요"
             }
           }
         ],
@@ -181,14 +175,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9d1f6eafc3bb285f",
+  "active": "10c87dcbfe2447b8",
   "lastOpenFiles": [
+    "Schedule/2025-03-22 GL 3기 리더십 트레이닝.md",
+    "Schedule/2025-03-16 신입회원 2차 온보딩.md",
+    "Schedule/2025-03-14 상담.md",
+    "Daily/2025-03-11.md",
     "Programming/Git/커밋 컨벤션.md",
     "Programming/Git/Git 개요.md",
-    "Schedule/2025-03-14 상담.md",
-    "Schedule/2025-03-16 신입회원 2차 온보딩.md",
-    "Schedule/2025-03-22 GL 3기 리더십 트레이닝.md",
-    "Daily/2025-03-11.md",
     "Programming/Dart/Dart 문법 기초.md",
     "Memo/그로스로그 온보딩.md",
     "Schedule",
