@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAnnoyed",
       "LiBadgeCheck",
       "LiAsterisk",
       "LiAppWindowMac",
-      "LiUniversity",
-      "📖"
+      "LiUniversity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,5 +36,5 @@
   },
   "Programming": "LiAppWindowMac",
   "Lectures": "LiUniversity",
-  "Personal": "LiAsterisk"
+  "Personal": "LiAnnoyed"
 }
