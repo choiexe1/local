@@ -11,10 +11,14 @@
             "id": "3731028eb9456e93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Schedule/2025-03-22 GL 3기 리더십 트레이닝.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-03-22 GL 3기 리더십 트레이닝"
             }
           }
         ]
@@ -177,6 +181,7 @@
   },
   "active": "3731028eb9456e93",
   "lastOpenFiles": [
+    "Personal/그로스로그.md",
     "Personal/커리어 포트폴리오에 관해.md",
     "Schedule/2025-03-14 상담.md",
     "Schedule/2025-03-16 신입회원 2차 온보딩.md",
@@ -211,7 +216,6 @@
     "Lectures/25년 1학기/파이썬 프로그래밍/Test.md",
     "Quiz 1.md",
     "Lectures/25년 1학기/컴퓨터의 이해/컴퓨터의 이해.md",
-    "Lectures/25년 1학기/컴퓨터의 이해",
-    "학습/무제.md"
+    "Lectures/25년 1학기/컴퓨터의 이해"
   ]
 }
