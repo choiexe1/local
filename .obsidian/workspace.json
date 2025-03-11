@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-03-11.md",
+                "file": "Programming/Git/Commit Convention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-11"
+              "title": "Commit Convention"
             }
           }
         ]
@@ -179,10 +179,11 @@
   },
   "active": "0b1e16d48cd12e78",
   "lastOpenFiles": [
-    "Memo/그로스로그 온보딩.md",
-    "Daily/2025-03-11.md",
-    "Programming/Dart/Dart 문법 기초.md",
     "Programming/Git/Git 개요.md",
+    "Daily/2025-03-11.md",
+    "Programming/Git/Commit Convention.md",
+    "Memo/그로스로그 온보딩.md",
+    "Programming/Dart/Dart 문법 기초.md",
     "Programming/Git/Git 명령어와 컨벤션.md",
     "Daily",
     "Personal/무제",

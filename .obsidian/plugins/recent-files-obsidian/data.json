@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Commit Convention",
+      "path": "Programming/Git/Commit Convention.md"
+    },
+    {
+      "basename": "Git 개요",
+      "path": "Programming/Git/Git 개요.md"
+    },
+    {
       "basename": "2025-03-11",
       "path": "Daily/2025-03-11.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Dart 문법 기초",
       "path": "Programming/Dart/Dart 문법 기초.md"
-    },
-    {
-      "basename": "Git 개요",
-      "path": "Programming/Git/Git 개요.md"
     },
     {
       "basename": "2강 세계화의 역사와 현실",
