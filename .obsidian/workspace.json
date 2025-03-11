@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memo/그로스로그 온보딩.md",
+                "file": "Daily/2025-03-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "그로스로그 온보딩"
+              "title": "2025-03-11"
             }
           }
         ]
@@ -177,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cecbee1d850a613f",
+  "active": "0b1e16d48cd12e78",
   "lastOpenFiles": [
+    "Memo/그로스로그 온보딩.md",
     "Daily/2025-03-11.md",
     "Programming/Dart/Dart 문법 기초.md",
     "Programming/Git/Git 개요.md",
@@ -189,7 +190,6 @@
     "Programming/Dart",
     "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md",
     "Lectures/25년 1학기/세계의 정치와 경제/3강 포스트 민주주의와 포퓰리즘의 부상.md",
-    "Memo/그로스로그 온보딩.md",
     "Lectures/25년 1학기/파이썬 프로그래밍/8강 체크포인트 1.md",
     "Memo",
     "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md",
