@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Git 개요.md",
-                "mode": "preview",
+                "file": "Programming/Git/Git 개요.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -179,8 +179,11 @@
   },
   "active": "0b1e16d48cd12e78",
   "lastOpenFiles": [
-    "Programming/Dart 문법 기초.md",
-    "Programming/Git 개요.md",
+    "Programming/Git/Git 명령어.md",
+    "Programming/Git/Git 개요.md",
+    "Programming/Dart/Dart 문법 기초.md",
+    "Programming/Git",
+    "Programming/Dart",
     "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md",
     "Lectures/25년 1학기/세계의 정치와 경제/3강 포스트 민주주의와 포퓰리즘의 부상.md",
     "Personal/그로스로그 온보딩.md",

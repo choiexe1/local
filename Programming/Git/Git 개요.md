@@ -1,4 +1,4 @@
-#git #summary
+#git
 
 ## Git
 - 분산 버전 관리 소프트웨어, 오픈소스
