@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule/2025-03-22 GL 3기 리더십 트레이닝.md",
+                "file": "Schedule/2025-03-14 상담.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-22 GL 3기 리더십 트레이닝"
+              "title": "2025-03-14 상담"
+            }
+          },
+          {
+            "id": "c84a8e5f451009da",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
             }
           }
         ]
@@ -181,11 +191,12 @@
   },
   "active": "3731028eb9456e93",
   "lastOpenFiles": [
+    "Schedule/2025-03-15 신촌.md",
+    "Schedule/2025-03-14 상담.md",
+    "Schedule/2025-03-22 GL 3기 리더십 트레이닝.md",
     "Personal/그로스로그.md",
     "Personal/커리어 포트폴리오에 관해.md",
-    "Schedule/2025-03-14 상담.md",
     "Schedule/2025-03-16 신입회원 2차 온보딩.md",
-    "Schedule/2025-03-22 GL 3기 리더십 트레이닝.md",
     "Personal",
     "Daily/2025-03-11.md",
     "Programming/Git/커밋 컨벤션.md",
@@ -215,7 +226,6 @@
     "Lectures/25년 1학기/파이썬 프로그래밍/6강 선택구조.md",
     "Lectures/25년 1학기/파이썬 프로그래밍/Test.md",
     "Quiz 1.md",
-    "Lectures/25년 1학기/컴퓨터의 이해/컴퓨터의 이해.md",
     "Lectures/25년 1학기/컴퓨터의 이해"
   ]
 }
