@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Git 개요",
+      "path": "Programming/Git 개요.md"
+    },
+    {
       "basename": "2강 세계화의 역사와 현실",
       "path": "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "4강 컴퓨터의 입출력",
       "path": "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md"
-    },
-    {
-      "basename": "Git 개요",
-      "path": "Programming/Git 개요.md"
     },
     {
       "basename": "2강 컴퓨터의 구성",
