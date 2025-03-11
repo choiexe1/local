@@ -36,5 +36,6 @@
   },
   "Programming": "LiAppWindowMac",
   "Lectures": "LiUniversity",
-  "Daily": "LiBookText"
+  "Daily": "LiBookText",
+  "Schedule": "LiCalendarDays"
 }

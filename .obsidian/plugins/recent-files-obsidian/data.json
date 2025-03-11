@@ -1,24 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-16 신입회원 2차 온보딩",
-      "path": "Schedule/2025-03-16 신입회원 2차 온보딩.md"
-    },
-    {
-      "basename": "2025-03-22 GL 3기 리더십 트레이닝",
-      "path": "Schedule/2025-03-22 GL 3기 리더십 트레이닝.md"
-    },
-    {
-      "basename": "2025-03-14 상담",
-      "path": "Schedule/2025-03-14 상담.md"
-    },
-    {
       "basename": "2025-03-11",
       "path": "Daily/2025-03-11.md"
-    },
-    {
-      "basename": "Dart 문법 기초",
-      "path": "Programming/Dart/Dart 문법 기초.md"
     },
     {
       "basename": "커밋 컨벤션",
@@ -27,6 +11,22 @@
     {
       "basename": "Git 개요",
       "path": "Programming/Git/Git 개요.md"
+    },
+    {
+      "basename": "2025-03-14 상담",
+      "path": "Schedule/2025-03-14 상담.md"
+    },
+    {
+      "basename": "2025-03-16 신입회원 2차 온보딩",
+      "path": "Schedule/2025-03-16 신입회원 2차 온보딩.md"
+    },
+    {
+      "basename": "2025-03-22 GL 3기 리더십 트레이닝",
+      "path": "Schedule/2025-03-22 GL 3기 리더십 트레이닝.md"
+    },
+    {
+      "basename": "Dart 문법 기초",
+      "path": "Programming/Dart/Dart 문법 기초.md"
     },
     {
       "basename": "2강 세계화의 역사와 현실",
