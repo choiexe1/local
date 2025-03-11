@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f25b68f9ebca2b",
+        "id": "aa1a6150c59f9dbc",
         "type": "tabs",
         "children": [
           {
-            "id": "7ed3555bd63964cd",
+            "id": "3731028eb9456e93",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,7 +175,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7ed3555bd63964cd",
+  "active": "3731028eb9456e93",
   "lastOpenFiles": [
     "Personal/커리어 포트폴리오에 관해.md",
     "Schedule/2025-03-14 상담.md",
