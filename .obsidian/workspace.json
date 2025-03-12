@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Personal/GL 나우로그 활용 방안.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,8 +181,9 @@
   },
   "active": "03e29e448c04de1e",
   "lastOpenFiles": [
-    "Daily/2025-03-12.md",
+    "Personal/n8n.md",
     "Personal/GL 나우로그 활용 방안.md",
+    "Daily/2025-03-12.md",
     "Daily/2025-03-11.md",
     "Lectures/25년 1학기/세계의 정치와 경제/3강 포스트 민주주의와 포퓰리즘의 부상.md",
     "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md",
@@ -209,7 +210,6 @@
     "Personal",
     "Memo/그로스로그 온보딩.md",
     "Schedule",
-    "Daily/2025-03-22.md",
     "Daily",
     "Personal/무제",
     "Programming/Git",
