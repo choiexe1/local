@@ -9,12 +9,12 @@
       "path": "Daily/2025-03-11.md"
     },
     {
-      "basename": "Dart Extension (Wrapper)",
-      "path": "Programming/Dart/Dart Extension (Wrapper).md"
-    },
-    {
       "basename": "Dart 문법 기초",
       "path": "Programming/Dart/Dart 문법 기초.md"
+    },
+    {
+      "basename": "Dart Extension (Wrapper)",
+      "path": "Programming/Dart/Dart Extension (Wrapper).md"
     },
     {
       "basename": "브랜치 관리 명령어와 핵심 개념",

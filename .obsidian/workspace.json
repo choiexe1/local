@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aa1a6150c59f9dbc",
+        "id": "99bad770ea936061",
         "type": "tabs",
         "children": [
           {
-            "id": "94b66b70c343d4ff",
+            "id": "9271825fca816904",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-03-12.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-03-12"
+              "title": "새 탭"
             }
           }
         ]
@@ -179,12 +175,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "94b66b70c343d4ff",
+  "active": "9271825fca816904",
   "lastOpenFiles": [
-    "Daily/2025-03-11.md",
-    "Programming/Dart/Dart Extension (Wrapper).md",
-    "Programming/Dart/Dart 문법 기초.md",
     "Daily/2025-03-12.md",
+    "Daily/2025-03-11.md",
+    "Programming/Dart/Dart 문법 기초.md",
+    "Programming/Dart/Dart 코드 컨벤션.md",
+    "Programming/Dart/Dart Extension (Wrapper).md",
     "Programming/Git/브랜치 관리 명령어와 핵심 개념.md",
     "Programming/Git/Git 개요.md",
     "Programming/Git/커밋 컨벤션.md",
@@ -215,7 +212,6 @@
     "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md",
     "무제.md",
     "Lectures/25년 1학기/컴퓨터의 이해",
-    "Lectures/25년 1학기/파이썬 프로그래밍/2강 컴퓨터의 구성.md",
     "Lectures/25년 1학기/세계의 정치와 경제"
   ]
 }
