@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "커밋 컨벤션",
+      "path": "Programming/Git/커밋 컨벤션.md"
+    },
+    {
       "basename": "2025-03-12",
       "path": "Daily/2025-03-12.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "2025-03-14 상담",
       "path": "Schedule/2025-03-14 상담.md"
-    },
-    {
-      "basename": "커밋 컨벤션",
-      "path": "Programming/Git/커밋 컨벤션.md"
     },
     {
       "basename": "Git 개요",
