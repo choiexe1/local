@@ -9,7 +9,7 @@
   "openAIBaseURL": "https://api.openai.com/v1",
   "openAITextGenModel": "gpt-3.5-turbo",
   "openAIEmbeddingModel": "text-embedding-3-small",
-  "googleApiKey": "AIzaSyBmr3Ie1GcDOfDmP66CW76j46q2lHfMsDk",
+  "googleApiKey": "AIzaSyD2f2HdFSgIVT3FE56IFiRA8nn5kvKr5uk",
   "googleBaseURL": "https://generativelanguage.googleapis.com",
   "googleTextGenModel": "gemini-1.5-flash",
   "googleEmbeddingModel": "text-embedding-004",
