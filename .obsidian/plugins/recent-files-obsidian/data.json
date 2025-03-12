@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "커밋 컨벤션",
-      "path": "Programming/Git/커밋 컨벤션.md"
-    },
-    {
       "basename": "2025-03-12",
       "path": "Daily/2025-03-12.md"
     },
     {
-      "basename": "기술",
-      "path": "Personal/기술.md"
-    },
-    {
       "basename": "2025-03-11",
       "path": "Daily/2025-03-11.md"
+    },
+    {
+      "basename": "Dart Extension (Wrapper)",
+      "path": "Programming/Dart/Dart Extension (Wrapper).md"
+    },
+    {
+      "basename": "Dart 문법 기초",
+      "path": "Programming/Dart/Dart 문법 기초.md"
+    },
+    {
+      "basename": "브랜치 관리 명령어와 핵심 개념",
+      "path": "Programming/Git/브랜치 관리 명령어와 핵심 개념.md"
+    },
+    {
+      "basename": "Git 개요",
+      "path": "Programming/Git/Git 개요.md"
+    },
+    {
+      "basename": "커밋 컨벤션",
+      "path": "Programming/Git/커밋 컨벤션.md"
+    },
+    {
+      "basename": "기술",
+      "path": "Personal/기술.md"
     },
     {
       "basename": "2025-03-29 성장일지 제출 마감",
@@ -47,14 +63,6 @@
     {
       "basename": "2025-03-14 상담",
       "path": "Schedule/2025-03-14 상담.md"
-    },
-    {
-      "basename": "Git 개요",
-      "path": "Programming/Git/Git 개요.md"
-    },
-    {
-      "basename": "Dart 문법 기초",
-      "path": "Programming/Dart/Dart 문법 기초.md"
     },
     {
       "basename": "2강 세계화의 역사와 현실",
