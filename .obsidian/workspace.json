@@ -16,8 +16,23 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "df3fcee1ef64043e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/25년 1학기/세계의 정치와 경제/3강 포스트 민주주의와 포퓰리즘의 부상.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3강 포스트 민주주의와 포퓰리즘의 부상"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,12 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lectures/25년 1학기/세계의 정치와 경제/3강 포스트 민주주의와 포퓰리즘의 부상.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "3강 포스트 민주주의와 포퓰리즘의 부상 의 개요"
             }
           }
         ],
@@ -174,12 +190,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9271825fca816904",
+  "active": "df3fcee1ef64043e",
   "lastOpenFiles": [
-    "Schedule/2025-03-14 상담.md",
-    "Personal/커리어 포트폴리오.md",
+    "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md",
     "Personal/기술.md",
     "Daily/2025-03-12.md",
+    "Schedule/(Every F,R,W,T,M) 모두연 플러터 부트캠프.md",
+    "Schedule/2025-03-14 상담.md",
+    "Personal/커리어 포트폴리오.md",
     "Daily/2025-03-11.md",
     "Schedule/2025-03-15 신촌.md",
     "Schedule/2025-03-16 신입회원 2차 온보딩.md",
@@ -207,9 +225,7 @@
     "Programming/Git",
     "Programming/Dart",
     "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md",
-    "Lectures/25년 1학기/파이썬 프로그래밍/8강 체크포인트 1.md",
     "Memo",
-    "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md",
     "Lectures/25년 1학기/컴퓨터의 이해",
     "Lectures/25년 1학기/세계의 정치와 경제"
   ]
