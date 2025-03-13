@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ccbb32f78bdef2f7",
+        "id": "5b888ede8476d57b",
         "type": "tabs",
         "children": [
           {
-            "id": "aea9dcd76c6134b5",
+            "id": "de2e303017a1dc24",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "318b8290fc88e643",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +31,8 @@
               "title": "2025-03-13"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +190,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cecbee1d850a613f",
+  "active": "318b8290fc88e643",
   "lastOpenFiles": [
-    "Daily/2025-03-12.md",
+    "Personal/GL 나우로그 데이터 활용 방안.md",
     "Daily/2025-03-13.md",
+    "Daily/2025-03-12.md",
     "Tools/Zed/Zed 소개.md",
     "Schedule/2025-03-15 신촌.md",
     "Tools/Zed",
@@ -195,7 +207,6 @@
     "Daily/2025-03-11.md",
     "Personal/커리어 포트폴리오.md",
     "Personal/n8n.md",
-    "Personal/GL 나우로그 데이터 활용 방안.md",
     "Personal/기술.md",
     "Lectures/25년 1학기/세계의 정치와 경제/3강 포스트 민주주의와 포퓰리즘의 부상.md",
     "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md",
