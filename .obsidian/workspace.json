@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "2025-03-13"
             }
+          },
+          {
+            "id": "d0efb90aaa54b74b",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-03-13.md",
+                "file": "Schedule/2025-03-15 신촌.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-13 의 개요"
+              "title": "2025-03-15 신촌 의 개요"
             }
           }
         ],
@@ -164,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +190,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "aea9dcd76c6134b5",
+  "active": "cecbee1d850a613f",
   "lastOpenFiles": [
-    "Programming/Dart/Dart Extension (Wrapper).md",
+    "무제",
+    "Schedule/2025-03-16 신입회원 2차 온보딩.md",
+    "Schedule/2025-03-22 GL 3기 리더십 트레이닝 및 신입회원 온라인 모임.md",
     "Daily/2025-03-13.md",
+    "Programming/Dart/Dart Extension (Wrapper).md",
     "Schedule/2025-03-28 모두연 오프라인 밋업.md",
     "Programming/Git/커밋 컨벤션.md",
     "Daily/2025-03-12.md",
@@ -197,8 +211,6 @@
     "Schedule/(Every F,R,W,T,M) 모두연 플러터 부트캠프.md",
     "Schedule/2025-03-14 상담.md",
     "Schedule/2025-03-15 신촌.md",
-    "Schedule/2025-03-16 신입회원 2차 온보딩.md",
-    "Schedule/2025-03-22 GL 3기 리더십 트레이닝 및 신입회원 온라인 모임.md",
     "Schedule/2025-03-23 성장일지 제출 시작.md",
     "Schedule/2025-04-04 중간 과제물 제출.md",
     "Programming/Dart/Dart 문법 기초.md",
@@ -207,7 +219,6 @@
     "Programming/Git/Git 개요.md",
     "Schedule/2025-03-29 성장일지 제출 마감.md",
     "Trouble Shooting",
-    "Personal/그로스로그.md",
     "Personal",
     "Schedule",
     "Daily",
