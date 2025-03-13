@@ -5,6 +5,10 @@
       "path": "Daily/2025-03-13.md"
     },
     {
+      "basename": "Dart Extension (Wrapper)",
+      "path": "Programming/Dart/Dart Extension (Wrapper).md"
+    },
+    {
       "basename": "2025-03-28 모두연 오프라인 밋업",
       "path": "Schedule/2025-03-28 모두연 오프라인 밋업.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Dart 문법 기초",
       "path": "Programming/Dart/Dart 문법 기초.md"
-    },
-    {
-      "basename": "Dart Extension (Wrapper)",
-      "path": "Programming/Dart/Dart Extension (Wrapper).md"
     },
     {
       "basename": "브랜치 관리 명령어와 핵심 개념",
