@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/GL 나우로그 데이터 활용 방안.md",
+                "file": "Daily/2025-03-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GL 나우로그 데이터 활용 방안"
+              "title": "2025-03-13"
+            }
+          },
+          {
+            "id": "eb64b63b809ac463",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "fe9d5b3eaac3b642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/n8n.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "n8n"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/GL 나우로그 데이터 활용 방안.md",
+                "file": "Personal/n8n.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GL 나우로그 데이터 활용 방안 의 개요"
+              "title": "n8n 의 개요"
             }
           }
         ],
@@ -179,20 +204,21 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "03e29e448c04de1e",
+  "active": "fe9d5b3eaac3b642",
   "lastOpenFiles": [
-    "Personal/n8n.md",
     "Personal/GL 나우로그 데이터 활용 방안.md",
+    "Personal/n8n.md",
+    "Personal/커리어 포트폴리오.md",
+    "Personal/기술.md",
+    "Daily/2025-03-13.md",
     "Daily/2025-03-12.md",
     "Daily/2025-03-11.md",
     "Lectures/25년 1학기/세계의 정치와 경제/3강 포스트 민주주의와 포퓰리즘의 부상.md",
     "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md",
     "Schedule/2025-03-28 모두연 오프라인 밋업.md",
     "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md",
-    "Personal/기술.md",
     "Schedule/(Every F,R,W,T,M) 모두연 플러터 부트캠프.md",
     "Schedule/2025-03-14 상담.md",
-    "Personal/커리어 포트폴리오.md",
     "Schedule/2025-03-15 신촌.md",
     "Schedule/2025-03-16 신입회원 2차 온보딩.md",
     "Schedule/2025-03-22 GL 3기 리더십 트레이닝 및 신입회원 온라인 모임.md",
@@ -208,7 +234,6 @@
     "Trouble Shooting",
     "Personal/그로스로그.md",
     "Personal",
-    "Memo/그로스로그 온보딩.md",
     "Schedule",
     "Daily",
     "Personal/무제",
