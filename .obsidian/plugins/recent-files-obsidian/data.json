@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Zed 소개",
-      "path": "Tools/Zed/Zed 소개.md"
+      "basename": "2025-03-13",
+      "path": "Daily/2025-03-13.md"
+    },
+    {
+      "basename": "2025-03-12",
+      "path": "Daily/2025-03-12.md"
     },
     {
       "basename": "2025-03-15 신촌",
@@ -17,10 +21,6 @@
       "path": "Schedule/2025-03-22 GL 3기 리더십 트레이닝 및 신입회원 온라인 모임.md"
     },
     {
-      "basename": "2025-03-13",
-      "path": "Daily/2025-03-13.md"
-    },
-    {
       "basename": "Dart Extension (Wrapper)",
       "path": "Programming/Dart/Dart Extension (Wrapper).md"
     },
@@ -31,10 +31,6 @@
     {
       "basename": "커밋 컨벤션",
       "path": "Programming/Git/커밋 컨벤션.md"
-    },
-    {
-      "basename": "2025-03-12",
-      "path": "Daily/2025-03-12.md"
     },
     {
       "basename": "2025-03-11",
