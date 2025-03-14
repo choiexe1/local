@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Dart/함수.md",
+                "file": "Daily/2025-03-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "함수"
+              "title": "2025-03-14"
             }
           }
         ],
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Dart/함수.md",
+                "file": "Daily/2025-03-14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "함수 의 개요"
+              "title": "2025-03-14 의 개요"
             }
           }
         ],
@@ -192,14 +192,14 @@
   },
   "active": "a5b3ae515e521119",
   "lastOpenFiles": [
+    "Daily/2025-03-13.md",
     "Daily/2025-03-14.md",
+    "Programming/Dart/함수.md",
     "Daily/2025-03-11.md",
     "Schedule/2025-03-16 신입회원 2차 온보딩.md",
     "Programming/Git/커밋 컨벤션.md",
     "Programming/Dart/생성자.md",
-    "Programming/Dart/함수.md",
     "Programming/Dart/static.md",
-    "Daily/2025-03-13.md",
     "Programming/Dart/Dart 문법 기초.md",
     "Programming/Dart/Dart Extension (Wrapper).md",
     "Schedule/2025-03-22 GL 3기 리더십 트레이닝 및 신입회원 온라인 모임.md",
