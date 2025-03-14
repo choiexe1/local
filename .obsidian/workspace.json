@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-03-14.md",
+                "file": "Programming/Git/커밋 컨벤션.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-14"
+              "title": "커밋 컨벤션"
             }
           }
         ],
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-03-14.md",
+                "file": "Programming/Git/커밋 컨벤션.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-14 의 개요"
+              "title": "커밋 컨벤션 의 개요"
             }
           }
         ],
@@ -192,8 +192,8 @@
   },
   "active": "4dc6bd6af86085a6",
   "lastOpenFiles": [
-    "Programming/Dart/생성자.md",
     "Daily/2025-03-14.md",
+    "Programming/Dart/생성자.md",
     "Programming/Dart/함수.md",
     "Programming/Dart/static.md",
     "Daily/2025-03-13.md",
