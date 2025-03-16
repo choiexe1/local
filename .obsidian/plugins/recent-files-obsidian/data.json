@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Git 개요",
+      "path": "Programming/Git/Git 개요.md"
+    },
+    {
+      "basename": "커밋 컨벤션",
+      "path": "Programming/Git/커밋 컨벤션.md"
+    },
+    {
+      "basename": "n8n",
+      "path": "Personal/n8n.md"
+    },
+    {
+      "basename": "GL 나우로그 데이터 활용 방안",
+      "path": "Personal/GL 나우로그 데이터 활용 방안.md"
+    },
+    {
       "basename": "2025-03-14",
       "path": "Daily/2025-03-14.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "2025-03-16 신입회원 2차 온보딩",
       "path": "Schedule/2025-03-16 신입회원 2차 온보딩.md"
-    },
-    {
-      "basename": "커밋 컨벤션",
-      "path": "Programming/Git/커밋 컨벤션.md"
     },
     {
       "basename": "생성자",
@@ -57,10 +69,6 @@
       "path": "Schedule/2025-03-23 성장일지 제출 시작.md"
     },
     {
-      "basename": "GL 나우로그 데이터 활용 방안",
-      "path": "Personal/GL 나우로그 데이터 활용 방안.md"
-    },
-    {
       "basename": "2025-03-12",
       "path": "Daily/2025-03-12.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "커리어 포트폴리오",
       "path": "Personal/커리어 포트폴리오.md"
-    },
-    {
-      "basename": "n8n",
-      "path": "Personal/n8n.md"
     },
     {
       "basename": "2강 세계화의 역사와 현실",
@@ -91,10 +95,6 @@
     {
       "basename": "브랜치 관리 명령어와 핵심 개념",
       "path": "Programming/Git/브랜치 관리 명령어와 핵심 개념.md"
-    },
-    {
-      "basename": "Git 개요",
-      "path": "Programming/Git/Git 개요.md"
     },
     {
       "basename": "2강 컴퓨터의 구성",
