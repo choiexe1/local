@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "43af8847bca03d25",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "409057d8ed977ab9",
             "type": "leaf",
             "state": {
@@ -56,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "할 일.md",
+                "file": "Daily/2025-03-17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "할 일 의 개요"
+              "title": "2025-03-17 의 개요"
             }
           }
         ],
@@ -214,8 +204,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "409057d8ed977ab9",
+  "active": "c21c3ac7cfcfaff2",
   "lastOpenFiles": [
+    "할 일.md",
     "Daily/2025-03-17.md",
     "Schedule/2025-03-21 상담 방문.md",
     "Programming/Git/커밋 컨벤션.md",
@@ -224,7 +215,6 @@
     "Schedule/2025-03-14 상담.md",
     "Lectures/25년 1학기/파이썬 프로그래밍/8강 체크포인트 1.md",
     "Lectures/25년 1학기/세계의 정치와 경제/3강 포스트 민주주의와 포퓰리즘의 부상.md",
-    "할 일.md",
     "Schedule/2025-03-22 GL 3기 리더십 트레이닝 및 신입회원 온라인 모임.md",
     "Schedule/2025-03-28 모두연 오프라인 밋업.md",
     "Schedule/2025-03-23 성장일지 제출 시작.md",
