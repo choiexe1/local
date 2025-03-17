@@ -30,9 +30,19 @@
               "icon": "lucide-file",
               "title": "2025-03-17"
             }
+          },
+          {
+            "id": "43af8847bca03d25",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,8 +200,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c21c3ac7cfcfaff2",
+  "active": "43af8847bca03d25",
   "lastOpenFiles": [
+    "Schedule/2025-03-21 상담 방문.md",
     "Programming/Git/커밋 컨벤션.md",
     "Daily/2025-03-17.md",
     "Schedule/2025-03-16 신입회원 2차 온보딩.md",
@@ -219,7 +230,6 @@
     "Programming/Dart/static.md",
     "Programming/Dart/Dart 문법 기초.md",
     "Programming/Dart/Dart Extension (Wrapper).md",
-    "Daily/2025-03-12.md",
     "Tools/Zed",
     "Tools",
     "Trouble Shooting",
