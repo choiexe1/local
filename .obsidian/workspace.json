@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Diagram/Class Diagram.md",
+                "file": "GL 발표자료.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class Diagram"
-            }
-          },
-          {
-            "id": "b8b1907f1f75c335",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-03-18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-18"
-            }
-          },
-          {
-            "id": "300808553577a2b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-03-18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-18"
+              "title": "GL 발표자료"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-03-18.md",
+                "file": "GL 발표자료.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-18 의 개요"
+              "title": "GL 발표자료 의 개요"
             }
           }
         ],
@@ -209,12 +180,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "300808553577a2b9",
+  "active": "52caafd6ab653bb3",
   "lastOpenFiles": [
-    "GL 발표자료.md",
-    "Daily/2025-03-18.md",
-    "할 일.md",
     "Programming/Diagram/Class Diagram.md",
+    "Daily/2025-03-18.md",
+    "GL 발표자료.md",
+    "할 일.md",
     "Programming/Diagram",
     "Programming/Dart/Dart Extension (Wrapper).md",
     "Programming/Dart/생성자.md",
