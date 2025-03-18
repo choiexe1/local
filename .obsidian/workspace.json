@@ -8,17 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de2e303017a1dc24",
+            "id": "52caafd6ab653bb3",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Diagram/Class Diagram.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class Diagram"
             }
           },
           {
-            "id": "52caafd6ab653bb3",
+            "id": "b8b1907f1f75c335",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,8 +194,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "52caafd6ab653bb3",
+  "active": "b8b1907f1f75c335",
   "lastOpenFiles": [
+    "Programming/Diagram/Class Diagram.md",
+    "Daily/2025-03-18.md",
+    "Programming/Diagram",
     "Programming/Dart/Dart Extension (Wrapper).md",
     "Programming/Dart/생성자.md",
     "Programming/Dart/함수.md",
@@ -199,7 +206,6 @@
     "Personal/n8n.md",
     "Personal/GL 나우로그 데이터 활용 방안.md",
     "Personal/커리어 포트폴리오.md",
-    "Daily/2025-03-18.md",
     "Daily/2025-03-17.md",
     "할 일.md",
     "Daily/2025-03-13.md",
@@ -217,7 +223,6 @@
     "Schedule/2025-03-23 성장일지 제출 시작.md",
     "Schedule/2025-04-04 중간 과제물 제출.md",
     "Schedule/(Every F,R,W,T,M) 모두연 플러터 부트캠프.md",
-    "온보딩.md",
     "profile.png",
     "Pasted image 20250316171951.png",
     "Tools/Zed",
@@ -228,7 +233,6 @@
     "Daily",
     "Personal/무제",
     "Programming/Git",
-    "Programming/Dart",
-    "Memo"
+    "Programming/Dart"
   ]
 }
