@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GL 발표자료.md",
-                "mode": "source",
+                "file": "Daily/2025-03-18.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GL 발표자료"
+              "title": "2025-03-18"
             }
           }
         ],
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GL 발표자료.md",
+                "file": "Daily/2025-03-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GL 발표자료 의 개요"
+              "title": "2025-03-18 의 개요"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "300808553577a2b9",
   "lastOpenFiles": [
-    "Daily/2025-03-18.md",
     "GL 발표자료.md",
+    "Daily/2025-03-18.md",
     "할 일.md",
     "Programming/Diagram/Class Diagram.md",
     "Programming/Diagram",
