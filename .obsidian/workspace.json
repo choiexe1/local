@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "할 일.md",
+                "file": "Daily/2025-03-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "할 일"
+              "title": "2025-03-18"
             }
           }
         ],
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "할 일.md",
+                "file": "Daily/2025-03-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "할 일 의 개요"
+              "title": "2025-03-18 의 개요"
             }
           }
         ],
@@ -192,8 +192,9 @@
   },
   "active": "52caafd6ab653bb3",
   "lastOpenFiles": [
-    "Daily/2025-03-17.md",
     "할 일.md",
+    "Daily/2025-03-18.md",
+    "Daily/2025-03-17.md",
     "Schedule/2025-03-21 상담 방문.md",
     "Programming/Git/커밋 컨벤션.md",
     "Schedule/2025-03-16 신입회원 2차 온보딩.md",
@@ -219,7 +220,6 @@
     "Programming/Dart/생성자.md",
     "Programming/Dart/static.md",
     "Programming/Dart/Dart 문법 기초.md",
-    "Programming/Dart/Dart Extension (Wrapper).md",
     "Tools/Zed",
     "Tools",
     "Trouble Shooting",
