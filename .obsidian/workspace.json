@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "할 일.md",
+                "file": "GL 발표자료.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "할 일"
+              "title": "GL 발표자료"
             }
           }
         ],
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "할 일.md",
+                "file": "GL 발표자료.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "할 일 의 개요"
+              "title": "GL 발표자료 의 개요"
             }
           }
         ],
@@ -211,8 +211,9 @@
   },
   "active": "300808553577a2b9",
   "lastOpenFiles": [
-    "GL PPT.md",
     "Daily/2025-03-18.md",
+    "할 일.md",
+    "GL 발표자료.md",
     "Programming/Diagram/Class Diagram.md",
     "Programming/Diagram",
     "Programming/Dart/Dart Extension (Wrapper).md",
@@ -223,7 +224,6 @@
     "Personal/GL 나우로그 데이터 활용 방안.md",
     "Personal/커리어 포트폴리오.md",
     "Daily/2025-03-17.md",
-    "할 일.md",
     "Daily/2025-03-13.md",
     "Daily/2025-03-12.md",
     "Daily/2025-03-14.md",
