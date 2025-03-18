@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-03-18.md",
+                "file": "GL 발표자료.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-18 의 개요"
+              "title": "GL 발표자료 의 개요"
             }
           }
         ],
@@ -209,10 +209,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b8b1907f1f75c335",
+  "active": "300808553577a2b9",
   "lastOpenFiles": [
-    "GL 발표자료.md",
     "Daily/2025-03-18.md",
+    "GL 발표자료.md",
     "할 일.md",
     "Programming/Diagram/Class Diagram.md",
     "Programming/Diagram",
