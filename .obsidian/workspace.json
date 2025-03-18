@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "2025-03-18"
             }
+          },
+          {
+            "id": "300808553577a2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "할 일.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "할 일"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-03-18.md",
+                "file": "할 일.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-18 의 개요"
+              "title": "할 일 의 개요"
             }
           }
         ],
@@ -195,10 +209,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b8b1907f1f75c335",
+  "active": "300808553577a2b9",
   "lastOpenFiles": [
-    "Programming/Diagram/Class Diagram.md",
+    "GL PPT.md",
     "Daily/2025-03-18.md",
+    "Programming/Diagram/Class Diagram.md",
     "Programming/Diagram",
     "Programming/Dart/Dart Extension (Wrapper).md",
     "Programming/Dart/생성자.md",
@@ -223,7 +238,6 @@
     "Schedule/2025-03-28 모두연 오프라인 밋업.md",
     "Schedule/2025-03-23 성장일지 제출 시작.md",
     "Schedule/2025-04-04 중간 과제물 제출.md",
-    "Schedule/(Every F,R,W,T,M) 모두연 플러터 부트캠프.md",
     "profile.png",
     "Pasted image 20250316171951.png",
     "Tools/Zed",
