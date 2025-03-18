@@ -5,9 +5,9 @@
     "Schedule/"
   ],
   "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
+    "pageSize": "Tabloid",
+    "landscape": true,
+    "margin": "2",
     "downscalePercent": 100
   }
 }
