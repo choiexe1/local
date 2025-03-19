@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule/2025-04-04 중간 과제물 제출.md",
+                "file": "Daily/2025-03-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-04 중간 과제물 제출"
+              "title": "2025-03-19"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "6672983a5ddb5c32",
@@ -150,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schedule/2025-04-04 중간 과제물 제출.md",
+                "file": "Daily/2025-03-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-04 중간 과제물 제출 의 개요"
+              "title": "2025-03-19 의 개요"
             }
           },
           {
@@ -193,6 +194,7 @@
   },
   "active": "8594921ca6717f67",
   "lastOpenFiles": [
+    "Schedule/2025-04-04 중간 과제물 제출.md",
     "할 일.md",
     "Daily/2025-03-19.md",
     "Programming/UML",
@@ -205,7 +207,6 @@
     "Programming/Git/브랜치 관리 명령어와 핵심 개념.md",
     "Programming/Git/커밋 컨벤션.md",
     "Programming/Git/Git 개요.md",
-    "Schedule/2025-04-04 중간 과제물 제출.md",
     "Schedule/2025-03-23 성장일지 제출 시작.md",
     "Schedule/2025-03-22 GL 3기 리더십 트레이닝 및 신입회원 온라인 모임.md",
     "Programming/Diagram/Class Diagram.md",
