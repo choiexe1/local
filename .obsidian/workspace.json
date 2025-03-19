@@ -150,22 +150,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Diagram/Class Diagram.md",
+                "file": "Daily/2025-03-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Class Diagram 의 개요"
+              "title": "2025-03-19 의 개요"
+            }
+          },
+          {
+            "id": "b68c1c8599857077",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +186,8 @@
       "command-palette:명령어 팔레트 열기": false,
       "quiz-generator:Open generator": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
   "active": "8594921ca6717f67",
