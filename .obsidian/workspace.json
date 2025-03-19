@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-19 운영팀 회의록.md",
+                "file": "할 일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-19 운영팀 회의록"
+              "title": "할 일"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-19 운영팀 회의록.md",
+                "file": "할 일.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3-19 운영팀 회의록 의 개요"
+              "title": "할 일 의 개요"
             }
           },
           {
@@ -193,9 +193,9 @@
   },
   "active": "8594921ca6717f67",
   "lastOpenFiles": [
+    "3-19 운영팀 회의록.md",
     "Schedule/2025-03-28 모두연 오프라인 밋업.md",
     "Schedule/2025-04-04 중간 과제물 제출.md",
-    "3-19 운영팀 회의록.md",
     "할 일.md",
     "Daily/2025-03-19.md",
     "Daily/2025-03-17.md",
