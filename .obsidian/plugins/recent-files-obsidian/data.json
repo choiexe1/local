@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "할 일",
+      "path": "할 일.md"
+    },
+    {
       "basename": "2025-03-19",
       "path": "Daily/2025-03-19.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "2025-03-28 모두연 오프라인 밋업",
       "path": "Schedule/2025-03-28 모두연 오프라인 밋업.md"
-    },
-    {
-      "basename": "할 일",
-      "path": "할 일.md"
     },
     {
       "basename": "Dart Extension (Wrapper)",
