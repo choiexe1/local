@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-03-19.md",
+                "file": "무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-19"
+              "title": "무제"
             }
           }
         ]
@@ -150,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-03-19.md",
+                "file": "무제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-19 의 개요"
+              "title": "무제 의 개요"
             }
           },
           {
@@ -193,9 +193,10 @@
   },
   "active": "8594921ca6717f67",
   "lastOpenFiles": [
+    "Daily/2025-03-19.md",
+    "무제.md",
     "Schedule/2025-04-04 중간 과제물 제출.md",
     "할 일.md",
-    "Daily/2025-03-19.md",
     "Daily/2025-03-17.md",
     "Daily/2025-03-18.md",
     "Daily/2025-03-11.md",
@@ -223,7 +224,6 @@
     "Programming/Diagram",
     "Programming/Dart/Dart Extension (Wrapper).md",
     "Programming/Dart/생성자.md",
-    "Programming/Dart/함수.md",
     "profile.png",
     "Pasted image 20250316171951.png",
     "Tools/Zed",
