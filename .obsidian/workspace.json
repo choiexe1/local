@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e39ab6c4d606520",
+        "id": "02ce780a401c3039",
         "type": "tabs",
         "children": [
           {
-            "id": "10aa7cd781507de2",
+            "id": "cad94a070f280d50",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -191,10 +191,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "10aa7cd781507de2",
+  "active": "cad94a070f280d50",
   "lastOpenFiles": [
-    "할 일.md",
+    "Pasted image 20250321133429.png",
     "Daily/2025-03-21.md",
+    "할 일.md",
     "Daily/2025-03-20.md",
     "3-19 운영팀 회의록.md",
     "Schedule/2025-04-04 중간 과제물 제출.md",
@@ -220,7 +221,6 @@
     "Programming/Diagram/Class Diagram.md",
     "Schedule/2025-03-21 상담 방문.md",
     "a (1).webp",
-    "GL 발표자료.md",
     "a.webp",
     "a.jpeg",
     "Programming/Diagram",
