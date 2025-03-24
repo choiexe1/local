@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "02ce780a401c3039",
+        "id": "46a9c322af8e081a",
         "type": "tabs",
         "children": [
           {
-            "id": "cad94a070f280d50",
+            "id": "e1382d1267dd3c4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-03-21.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-03-21"
+              "title": "새 탭"
             }
           }
         ]
@@ -191,12 +187,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "cad94a070f280d50",
+  "active": "e1382d1267dd3c4f",
   "lastOpenFiles": [
-    "Daily/2025-03-20.md",
     "할 일.md",
     "3-19 운영팀 회의록.md",
     "Daily/2025-03-21.md",
+    "Daily/2025-03-20.md",
     "Programming/Git/커밋 컨벤션.md",
     "Pasted image 20250321133429.png",
     "Schedule/2025-04-04 중간 과제물 제출.md",
