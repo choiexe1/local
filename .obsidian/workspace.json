@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Dart/파일 조작, 직렬화.md",
+                "file": "Daily/2025-03-25.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "파일 조작, 직렬화"
+              "title": "2025-03-25"
             }
           }
         ]
@@ -193,15 +193,16 @@
   },
   "active": "e1382d1267dd3c4f",
   "lastOpenFiles": [
+    "Programming/Dart/직렬화 (Serialization).md",
     "Daily/2025-03-25.md",
-    "Programming/Dart/파일 조작, 직렬화.md",
+    "Programming/Dart/파일 조작, 다양한 파일 형식.md",
+    "Programming/Dart/추상 클래스와 인터페이스.md",
+    "Programming/Dart/함수.md",
     "Programming/Dart/예외 처리.md",
     "Programming/Dart/여러가지 파일 형식 다루기.md",
-    "Programming/Dart/추상 클래스와 인터페이스.md",
     "Programming/Dart/static.md",
     "Programming/Dart/Dart Extension (Wrapper).md",
     "Programming/Dart/Dart 문법 기초.md",
-    "Programming/Dart/함수.md",
     "Programming/Dart/생성자.md",
     "Daily/2025-03-24.md",
     "할 일.md",
@@ -220,7 +221,6 @@
     "Daily/2025-03-13.md",
     "Daily/2025-03-14.md",
     "Programming/UML",
-    "Lectures/25년 1학기/파이썬 프로그래밍/8강 체크포인트 1.md",
     "a (1).webp",
     "a.webp",
     "a.jpeg",
