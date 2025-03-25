@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-25",
-      "path": "Daily/2025-03-25.md"
-    },
-    {
       "basename": "직렬화 (Serialization)",
       "path": "Programming/Dart/직렬화 (Serialization).md"
+    },
+    {
+      "basename": "예외 처리",
+      "path": "Programming/Dart/예외 처리.md"
+    },
+    {
+      "basename": "2025-03-25",
+      "path": "Daily/2025-03-25.md"
     },
     {
       "basename": "파일 조작, 다양한 파일 형식",
@@ -19,10 +23,6 @@
     {
       "basename": "함수",
       "path": "Programming/Dart/함수.md"
-    },
-    {
-      "basename": "예외 처리",
-      "path": "Programming/Dart/예외 처리.md"
     },
     {
       "basename": "static",

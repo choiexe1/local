@@ -7,17 +7,21 @@
 graph LR
 
 subgraph "External API"
-JSON
+	Data
 end
 
 subgraph Server
 	Instance
 end
 
-JSON -->|1.Serialization| Instance
+JSON
 
-Instance -->|2.Deserialization| JSON
+Data --> JSON -->  Instance
+
+Instance --> JSON --> Data 
 ```
+
+- `jsonDecode()`, `jsonEncode()` 등의 내장 함수 존재
 
 ---
 [[파일 조작, 다양한 파일 형식]]
