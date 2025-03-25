@@ -13,6 +13,10 @@
       "path": "Programming/Dart/파일 조작, 다양한 파일 형식.md"
     },
     {
+      "basename": "Dart Extension (Wrapper)",
+      "path": "Programming/Dart/Dart Extension (Wrapper).md"
+    },
+    {
       "basename": "예외 처리",
       "path": "Programming/Dart/예외 처리.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "static",
       "path": "Programming/Dart/static.md"
-    },
-    {
-      "basename": "Dart Extension (Wrapper)",
-      "path": "Programming/Dart/Dart Extension (Wrapper).md"
     },
     {
       "basename": "Dart 문법 기초",
