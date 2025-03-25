@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Dart/파일 조작.md",
-                "mode": "source",
+                "file": "Programming/Dart/파일 조작, 직렬화.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "파일 조작"
+              "title": "파일 조작, 직렬화"
             }
           }
         ]
@@ -193,11 +193,11 @@
   },
   "active": "e1382d1267dd3c4f",
   "lastOpenFiles": [
+    "Daily/2025-03-25.md",
+    "Programming/Dart/파일 조작, 직렬화.md",
     "Programming/Dart/예외 처리.md",
     "Programming/Dart/여러가지 파일 형식 다루기.md",
     "Programming/Dart/추상 클래스와 인터페이스.md",
-    "Programming/Dart/파일 조작.md",
-    "Daily/2025-03-25.md",
     "Programming/Dart/static.md",
     "Programming/Dart/Dart Extension (Wrapper).md",
     "Programming/Dart/Dart 문법 기초.md",
