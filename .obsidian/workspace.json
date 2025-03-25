@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Dart/직렬화 (Serialization).md",
+                "file": "Daily/2025-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "직렬화 (Serialization)"
+              "title": "2025-03-25"
             }
           }
         ]
@@ -193,10 +193,10 @@
   },
   "active": "e1382d1267dd3c4f",
   "lastOpenFiles": [
-    "Daily/2025-03-25.md",
     "Programming/Dart/직렬화 (Serialization).md",
-    "Programming/Dart/예외 처리.md",
     "Programming/Dart/파일 조작, 다양한 파일 형식.md",
+    "Daily/2025-03-25.md",
+    "Programming/Dart/예외 처리.md",
     "Programming/Dart/추상 클래스와 인터페이스.md",
     "Programming/Dart/함수.md",
     "Programming/Dart/여러가지 파일 형식 다루기.md",
