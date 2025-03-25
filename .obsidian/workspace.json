@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-03-25.md",
-                "mode": "preview",
+                "file": "Programming/Dart/테스트.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-25"
+              "title": "테스트"
             }
           }
         ]
@@ -193,10 +193,11 @@
   },
   "active": "e1382d1267dd3c4f",
   "lastOpenFiles": [
+    "Daily/2025-03-25.md",
+    "Programming/Dart/테스트.md",
     "Programming/Dart/직렬화 (Serialization).md",
     "Programming/Dart/파일 조작, 다양한 파일 형식.md",
     "Programming/Dart/Dart Extension (Wrapper).md",
-    "Daily/2025-03-25.md",
     "Programming/Dart/예외 처리.md",
     "Programming/Dart/추상 클래스와 인터페이스.md",
     "Programming/Dart/함수.md",
@@ -219,7 +220,6 @@
     "Daily/2025-03-11.md",
     "Daily/2025-03-12.md",
     "Daily/2025-03-13.md",
-    "Daily/2025-03-14.md",
     "Programming/UML",
     "a (1).webp",
     "a.webp",
