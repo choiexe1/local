@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "할 일",
-      "path": "할 일.md"
+      "basename": "직렬화와 역직렬화에 대한 이해",
+      "path": "직렬화와 역직렬화에 대한 이해.md"
+    },
+    {
+      "basename": "직렬화 (Serialization)",
+      "path": "Programming/Dart/직렬화 (Serialization).md"
+    },
+    {
+      "basename": "2025-03-26",
+      "path": "Daily/2025-03-26.md"
     },
     {
       "basename": "금요일 모임",
       "path": "금요일 모임.md"
     },
     {
-      "basename": "2025-03-26",
-      "path": "Daily/2025-03-26.md"
+      "basename": "할 일",
+      "path": "할 일.md"
     },
     {
       "basename": "브랜치 관리 명령어와 핵심 개념",
@@ -47,10 +55,6 @@
     {
       "basename": "추상 클래스와 인터페이스",
       "path": "Programming/Dart/추상 클래스와 인터페이스.md"
-    },
-    {
-      "basename": "직렬화 (Serialization)",
-      "path": "Programming/Dart/직렬화 (Serialization).md"
     },
     {
       "basename": "생성자",

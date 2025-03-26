@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "할 일.md",
+                "file": "직렬화와 역직렬화에 대한 이해.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "할 일"
+              "title": "직렬화와 역직렬화에 대한 이해"
             }
           }
         ]
@@ -193,20 +193,21 @@
   },
   "active": "844aafdd0ad59f03",
   "lastOpenFiles": [
-    "금요일 모임.md",
+    "Programming/Dart/직렬화 (Serialization).md",
+    "직렬화와 역직렬화에 대한 이해.md",
     "Daily/2025-03-26.md",
+    "금요일 모임.md",
+    "할 일.md",
     "Personal/GL 나우로그 데이터 활용 방안.md",
     "Programming/Git/브랜치 관리 명령어와 핵심 개념.md",
     "Personal/zed 세팅.md",
     "Schedule/2025-03-28 모두연 오프라인 밋업.md",
-    "할 일.md",
     "Daily/2025-03-25.md",
     "Daily/2025-03-24.md",
     "Programming/Dart/예외 처리.md",
     "Programming/Dart/테스트 메서드.md",
     "Programming/Dart/파일 조작, 다양한 파일 형식.md",
     "Programming/Dart/추상 클래스와 인터페이스.md",
-    "Programming/Dart/직렬화 (Serialization).md",
     "Programming/Dart/생성자.md",
     "Programming/Dart/Dart Extension (Wrapper).md",
     "Programming/Dart/Dart 문법 기초.md",
@@ -219,7 +220,6 @@
     "Programming/Git/커밋 컨벤션.md",
     "Pasted image 20250321133429.png",
     "Schedule/2025-04-04 중간 과제물 제출.md",
-    "Daily/2025-03-19.md",
     "Programming/UML",
     "a (1).webp",
     "a.webp",
