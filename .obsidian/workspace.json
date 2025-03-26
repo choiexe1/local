@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-03-26.md",
+                "file": "금요일 모임.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-26"
+              "title": "금요일 모임"
             }
           }
         ]
@@ -193,14 +193,14 @@
   },
   "active": "844aafdd0ad59f03",
   "lastOpenFiles": [
-    "Programming/Git/커밋 컨벤션.md",
+    "할 일.md",
+    "직렬화와 역직렬화.md",
     "Daily/2025-03-26.md",
+    "Programming/Git/커밋 컨벤션.md",
     "Daily/2025-03-21.md",
     "Daily/2025-03-24.md",
-    "직렬화와 역직렬화.md",
     "Programming/Dart/직렬화 (Serialization).md",
     "금요일 모임.md",
-    "할 일.md",
     "Personal/GL 나우로그 데이터 활용 방안.md",
     "Programming/Git/브랜치 관리 명령어와 핵심 개념.md",
     "Personal/zed 세팅.md",

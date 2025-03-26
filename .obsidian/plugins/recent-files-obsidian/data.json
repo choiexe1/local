@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "금요일 모임",
+      "path": "금요일 모임.md"
+    },
+    {
+      "basename": "할 일",
+      "path": "할 일.md"
+    },
+    {
+      "basename": "직렬화와 역직렬화",
+      "path": "직렬화와 역직렬화.md"
+    },
+    {
       "basename": "2025-03-26",
       "path": "Daily/2025-03-26.md"
     },
@@ -17,20 +29,8 @@
       "path": "Daily/2025-03-24.md"
     },
     {
-      "basename": "직렬화와 역직렬화",
-      "path": "직렬화와 역직렬화.md"
-    },
-    {
       "basename": "직렬화 (Serialization)",
       "path": "Programming/Dart/직렬화 (Serialization).md"
-    },
-    {
-      "basename": "금요일 모임",
-      "path": "금요일 모임.md"
-    },
-    {
-      "basename": "할 일",
-      "path": "할 일.md"
     },
     {
       "basename": "브랜치 관리 명령어와 핵심 개념",
