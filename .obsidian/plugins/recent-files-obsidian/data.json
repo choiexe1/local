@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "브랜치 관리 명령어와 핵심 개념",
+      "path": "Programming/Git/브랜치 관리 명령어와 핵심 개념.md"
+    },
+    {
+      "basename": "zed 세팅",
+      "path": "Personal/zed 세팅.md"
+    },
+    {
       "basename": "2025-03-26",
       "path": "Daily/2025-03-26.md"
     },
@@ -123,10 +131,6 @@
     {
       "basename": "n8n",
       "path": "Personal/n8n.md"
-    },
-    {
-      "basename": "브랜치 관리 명령어와 핵심 개념",
-      "path": "Programming/Git/브랜치 관리 명령어와 핵심 개념.md"
     },
     {
       "basename": "Git 개요",
