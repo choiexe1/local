@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "할 일",
+      "path": "할 일.md"
+    },
+    {
+      "basename": "금요일 모임",
+      "path": "금요일 모임.md"
+    },
+    {
+      "basename": "2025-03-26",
+      "path": "Daily/2025-03-26.md"
+    },
+    {
       "basename": "브랜치 관리 명령어와 핵심 개념",
       "path": "Programming/Git/브랜치 관리 명령어와 핵심 개념.md"
     },
@@ -9,20 +21,8 @@
       "path": "Personal/zed 세팅.md"
     },
     {
-      "basename": "2025-03-26",
-      "path": "Daily/2025-03-26.md"
-    },
-    {
       "basename": "2025-03-28 모두연 오프라인 밋업",
       "path": "Schedule/2025-03-28 모두연 오프라인 밋업.md"
-    },
-    {
-      "basename": "할 일",
-      "path": "할 일.md"
-    },
-    {
-      "basename": "금요일 모임",
-      "path": "금요일 모임.md"
     },
     {
       "basename": "2025-03-25",
@@ -143,10 +143,6 @@
     {
       "basename": "Class Diagram",
       "path": "Programming/Diagram/Class Diagram.md"
-    },
-    {
-      "basename": "GL 나우로그 데이터 활용 방안",
-      "path": "Personal/GL 나우로그 데이터 활용 방안.md"
     },
     {
       "basename": "커리어 포트폴리오",
