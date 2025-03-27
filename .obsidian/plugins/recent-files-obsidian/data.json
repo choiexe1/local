@@ -5,6 +5,10 @@
       "path": "Daily/2025-03-27.md"
     },
     {
+      "basename": "Effective Dart - Async",
+      "path": "Programming/Dart/Effective Dart - Async.md"
+    },
+    {
       "basename": "함수형 프로그래밍",
       "path": "Programming/Dart/함수형 프로그래밍.md"
     },
