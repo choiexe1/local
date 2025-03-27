@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Daily/2025-03-27.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -193,11 +193,12 @@
   },
   "active": "844aafdd0ad59f03",
   "lastOpenFiles": [
-    "금요일 모임.md",
+    "Programming/Dart/함수형 프로그래밍.md",
+    "Daily/2025-03-26.md",
     "Daily/2025-03-27.md",
+    "금요일 모임.md",
     "할 일.md",
     "직렬화와 역직렬화.md",
-    "Daily/2025-03-26.md",
     "Programming/Git/커밋 컨벤션.md",
     "Daily/2025-03-21.md",
     "Daily/2025-03-24.md",
@@ -218,7 +219,6 @@
     "Programming/Dart/여러가지 파일 형식 다루기.md",
     "Programming/Dart/static.md",
     "3-19 운영팀 회의록.md",
-    "Daily/2025-03-20.md",
     "Pasted image 20250321133429.png",
     "Programming/UML",
     "a (1).webp",
