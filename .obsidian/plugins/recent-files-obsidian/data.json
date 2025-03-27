@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-03-27",
-      "path": "Daily/2025-03-27.md"
+      "basename": "비동기 프로그래밍과 동시성, 병렬성",
+      "path": "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md"
     },
     {
-      "basename": "Effective Dart - Async",
-      "path": "Programming/Dart/Effective Dart - Async.md"
+      "basename": "2025-03-27",
+      "path": "Daily/2025-03-27.md"
     },
     {
       "basename": "함수형 프로그래밍",
@@ -15,6 +15,10 @@
     {
       "basename": "2025-03-26",
       "path": "Daily/2025-03-26.md"
+    },
+    {
+      "basename": "Effective Dart - Async",
+      "path": "Programming/Dart/Effective Dart - Async.md"
     },
     {
       "basename": "금요일 모임",
