@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "비동기 프로그래밍과 동시성, 병렬성",
-      "path": "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md"
+      "basename": "zed 세팅",
+      "path": "Personal/zed 세팅.md"
+    },
+    {
+      "basename": "커리어 포트폴리오",
+      "path": "Personal/커리어 포트폴리오.md"
+    },
+    {
+      "basename": "n8n",
+      "path": "Personal/n8n.md"
+    },
+    {
+      "basename": "금요일 모임",
+      "path": "금요일 모임.md"
+    },
+    {
+      "basename": "할 일",
+      "path": "할 일.md"
     },
     {
       "basename": "2025-03-27",
       "path": "Daily/2025-03-27.md"
+    },
+    {
+      "basename": "비동기 프로그래밍과 동시성, 병렬성",
+      "path": "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md"
     },
     {
       "basename": "함수형 프로그래밍",
@@ -19,18 +39,6 @@
     {
       "basename": "Effective Dart - Async",
       "path": "Programming/Dart/Effective Dart - Async.md"
-    },
-    {
-      "basename": "금요일 모임",
-      "path": "금요일 모임.md"
-    },
-    {
-      "basename": "할 일",
-      "path": "할 일.md"
-    },
-    {
-      "basename": "직렬화와 역직렬화",
-      "path": "직렬화와 역직렬화.md"
     },
     {
       "basename": "커밋 컨벤션",
@@ -51,10 +59,6 @@
     {
       "basename": "브랜치 관리 명령어와 핵심 개념",
       "path": "Programming/Git/브랜치 관리 명령어와 핵심 개념.md"
-    },
-    {
-      "basename": "zed 세팅",
-      "path": "Personal/zed 세팅.md"
     },
     {
       "basename": "2025-03-28 모두연 오프라인 밋업",
@@ -149,10 +153,6 @@
       "path": "Lectures/25년 1학기/파이썬 프로그래밍/4강 파이썬 시작하기.md"
     },
     {
-      "basename": "n8n",
-      "path": "Personal/n8n.md"
-    },
-    {
       "basename": "Git 개요",
       "path": "Programming/Git/Git 개요.md"
     },
@@ -163,10 +163,6 @@
     {
       "basename": "Class Diagram",
       "path": "Programming/Diagram/Class Diagram.md"
-    },
-    {
-      "basename": "커리어 포트폴리오",
-      "path": "Personal/커리어 포트폴리오.md"
     },
     {
       "basename": "(Every F,R,W,T,M) 모두연 플러터 부트캠프",
