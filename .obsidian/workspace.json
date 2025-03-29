@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Daily/플러터 예제 어플리케이션 구조 분석.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -193,9 +193,11 @@
   },
   "active": "3b70a74fd35247ad",
   "lastOpenFiles": [
+    "Daily/2025-03-27.md",
+    "Programming/플러터와 상수 생성자.md",
+    "Daily/플러터 예제 어플리케이션 구조 분석.md",
     "Pasted image 20250329161045.png",
     "Personal/커리어 포트폴리오.md",
-    "Daily/플러터 예제 어플리케이션 구조 분석.md",
     "무제.md",
     "Personal/zed 세팅.md",
     "Personal/n8n.md",
@@ -209,7 +211,6 @@
     "Daily/2025-03-25.md",
     "Daily/2025-03-24.md",
     "Daily/2025-03-26.md",
-    "Daily/2025-03-27.md",
     "금요일 모임.md",
     "할 일.md",
     "직렬화와 역직렬화.md",
