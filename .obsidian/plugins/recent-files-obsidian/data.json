@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "zed 세팅",
-      "path": "Personal/zed 세팅.md"
-    },
-    {
       "basename": "커리어 포트폴리오",
       "path": "Personal/커리어 포트폴리오.md"
     },
     {
+      "basename": "zed 세팅",
+      "path": "Personal/zed 세팅.md"
+    },
+    {
       "basename": "n8n",
       "path": "Personal/n8n.md"
+    },
+    {
+      "basename": "Class Diagram",
+      "path": "Programming/Diagram/Class Diagram.md"
+    },
+    {
+      "basename": "브랜치 관리 명령어와 핵심 개념",
+      "path": "Programming/Git/브랜치 관리 명령어와 핵심 개념.md"
+    },
+    {
+      "basename": "Dart Extension (Wrapper)",
+      "path": "Programming/Dart/Dart Extension (Wrapper).md"
+    },
+    {
+      "basename": "Effective Dart - Async",
+      "path": "Programming/Dart/Effective Dart - Async.md"
+    },
+    {
+      "basename": "직렬화 (Serialization)",
+      "path": "Programming/Dart/직렬화 (Serialization).md"
+    },
+    {
+      "basename": "추상 클래스와 인터페이스",
+      "path": "Programming/Dart/추상 클래스와 인터페이스.md"
+    },
+    {
+      "basename": "비동기 프로그래밍과 동시성, 병렬성",
+      "path": "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md"
+    },
+    {
+      "basename": "2025-03-25",
+      "path": "Daily/2025-03-25.md"
+    },
+    {
+      "basename": "2025-03-24",
+      "path": "Daily/2025-03-24.md"
+    },
+    {
+      "basename": "2025-03-26",
+      "path": "Daily/2025-03-26.md"
+    },
+    {
+      "basename": "2025-03-27",
+      "path": "Daily/2025-03-27.md"
     },
     {
       "basename": "금요일 모임",
@@ -21,24 +65,8 @@
       "path": "할 일.md"
     },
     {
-      "basename": "2025-03-27",
-      "path": "Daily/2025-03-27.md"
-    },
-    {
-      "basename": "비동기 프로그래밍과 동시성, 병렬성",
-      "path": "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md"
-    },
-    {
       "basename": "함수형 프로그래밍",
       "path": "Programming/Dart/함수형 프로그래밍.md"
-    },
-    {
-      "basename": "2025-03-26",
-      "path": "Daily/2025-03-26.md"
-    },
-    {
-      "basename": "Effective Dart - Async",
-      "path": "Programming/Dart/Effective Dart - Async.md"
     },
     {
       "basename": "커밋 컨벤션",
@@ -49,24 +77,8 @@
       "path": "Daily/2025-03-21.md"
     },
     {
-      "basename": "2025-03-24",
-      "path": "Daily/2025-03-24.md"
-    },
-    {
-      "basename": "직렬화 (Serialization)",
-      "path": "Programming/Dart/직렬화 (Serialization).md"
-    },
-    {
-      "basename": "브랜치 관리 명령어와 핵심 개념",
-      "path": "Programming/Git/브랜치 관리 명령어와 핵심 개념.md"
-    },
-    {
       "basename": "2025-03-28 모두연 오프라인 밋업",
       "path": "Schedule/2025-03-28 모두연 오프라인 밋업.md"
-    },
-    {
-      "basename": "2025-03-25",
-      "path": "Daily/2025-03-25.md"
     },
     {
       "basename": "예외 처리",
@@ -81,16 +93,8 @@
       "path": "Programming/Dart/파일 조작, 다양한 파일 형식.md"
     },
     {
-      "basename": "추상 클래스와 인터페이스",
-      "path": "Programming/Dart/추상 클래스와 인터페이스.md"
-    },
-    {
       "basename": "생성자",
       "path": "Programming/Dart/생성자.md"
-    },
-    {
-      "basename": "Dart Extension (Wrapper)",
-      "path": "Programming/Dart/Dart Extension (Wrapper).md"
     },
     {
       "basename": "Dart 문법 기초",
@@ -159,10 +163,6 @@
     {
       "basename": "2025-03-23 성장일지 제출 시작",
       "path": "Schedule/2025-03-23 성장일지 제출 시작.md"
-    },
-    {
-      "basename": "Class Diagram",
-      "path": "Programming/Diagram/Class Diagram.md"
     },
     {
       "basename": "(Every F,R,W,T,M) 모두연 플러터 부트캠프",
