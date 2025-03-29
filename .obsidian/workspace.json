@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/플러터 예제 어플리케이션 구조 분석.md",
+                "file": "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
                 "mode": "source",
                 "source": false
               },
@@ -193,9 +193,10 @@
   },
   "active": "3b70a74fd35247ad",
   "lastOpenFiles": [
+    "Programming/Flutter",
     "Daily/2025-03-27.md",
     "Programming/플러터와 상수 생성자.md",
-    "Daily/플러터 예제 어플리케이션 구조 분석.md",
+    "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
     "Pasted image 20250329161045.png",
     "Personal/커리어 포트폴리오.md",
     "무제.md",
@@ -219,7 +220,6 @@
     "Schedule/무제.md",
     "Programming/Git/커밋 컨벤션.md",
     "Daily/2025-03-21.md",
-    "Personal/GL 나우로그 데이터 활용 방안.md",
     "Pasted image 20250321133429.png",
     "Programming/UML",
     "a (1).webp",
