@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
+                "file": "Daily/2025-03-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "플러터 예제 어플리케이션 구조 분석"
+              "title": "2025-03-27"
             }
           }
         ]
@@ -193,10 +193,10 @@
   },
   "active": "3b70a74fd35247ad",
   "lastOpenFiles": [
+    "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
     "Programming/Flutter",
     "Daily/2025-03-27.md",
     "Programming/플러터와 상수 생성자.md",
-    "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
     "Pasted image 20250329161045.png",
     "Personal/커리어 포트폴리오.md",
     "무제.md",
@@ -234,7 +234,6 @@
     "Personal",
     "Schedule",
     "Daily",
-    "Personal/무제",
-    "Programming/Git"
+    "Personal/무제"
   ]
 }
