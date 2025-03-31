@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/25년 1학기/세계의 정치와 경제/서평.md",
+                "file": "Personal/서평.md",
                 "mode": "preview",
                 "source": false
               },
@@ -191,12 +191,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3b70a74fd35247ad",
+  "active": "cecbee1d850a613f",
   "lastOpenFiles": [
-    "Daily/2025-03-31.md",
-    "Lectures/25년 1학기/세계의 정치와 경제/서평.md",
-    "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
     "할 일.md",
+    "Programming/플러터와 상수 생성자.md",
+    "Lectures/25년 1학기/파이썬 프로그래밍/8강 체크포인트 1.md",
+    "Lectures/25년 1학기/파이썬 프로그래밍/5강 순차 구조.md",
+    "Lectures/25년 1학기/파이썬 프로그래밍/2강 컴퓨터의 구성.md",
+    "Lectures/25년 1학기/파이썬 프로그래밍/1강 컴퓨터의 이해.md",
+    "Personal/서평.md",
+    "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md",
+    "Lectures/25년 1학기/세계의 정치와 경제/3강 포스트 민주주의와 포퓰리즘의 부상.md",
+    "Daily/2025-03-31.md",
+    "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
     "Pasted image 20250329161045.png",
     "Schedule/2025-04-04 중간 과제물 제출.md",
     "금요일 모임.md",
@@ -207,7 +214,6 @@
     "Programming/Git/커밋 컨벤션.md",
     "Daily/2025-03-27.md",
     "Programming/Flutter",
-    "Programming/플러터와 상수 생성자.md",
     "Personal/커리어 포트폴리오.md",
     "무제.md",
     "Personal/zed 세팅.md",
@@ -215,12 +221,6 @@
     "Programming/Diagram/Class Diagram.md",
     "Programming/Git/브랜치 관리 명령어와 핵심 개념.md",
     "Programming/Dart/Dart Extension (Wrapper).md",
-    "Programming/Dart/Effective Dart - Async.md",
-    "Programming/Dart/직렬화 (Serialization).md",
-    "Programming/Dart/추상 클래스와 인터페이스.md",
-    "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md",
-    "Daily/2025-03-25.md",
-    "Daily/2025-03-24.md",
     "Pasted image 20250321133429.png",
     "Programming/UML",
     "a (1).webp",

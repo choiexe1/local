@@ -2,7 +2,27 @@
   "recentFiles": [
     {
       "basename": "서평",
-      "path": "Lectures/25년 1학기/세계의 정치와 경제/서평.md"
+      "path": "Personal/서평.md"
+    },
+    {
+      "basename": "5강 순차 구조",
+      "path": "Lectures/25년 1학기/파이썬 프로그래밍/5강 순차 구조.md"
+    },
+    {
+      "basename": "2강 컴퓨터의 구성",
+      "path": "Lectures/25년 1학기/파이썬 프로그래밍/2강 컴퓨터의 구성.md"
+    },
+    {
+      "basename": "1강 컴퓨터의 이해",
+      "path": "Lectures/25년 1학기/파이썬 프로그래밍/1강 컴퓨터의 이해.md"
+    },
+    {
+      "basename": "2강 세계화의 역사와 현실",
+      "path": "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md"
+    },
+    {
+      "basename": "3강 포스트 민주주의와 포퓰리즘의 부상",
+      "path": "Lectures/25년 1학기/세계의 정치와 경제/3강 포스트 민주주의와 포퓰리즘의 부상.md"
     },
     {
       "basename": "2025-03-31",
@@ -11,10 +31,6 @@
     {
       "basename": "플러터 예제 어플리케이션 구조 분석",
       "path": "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md"
-    },
-    {
-      "basename": "할 일",
-      "path": "할 일.md"
     },
     {
       "basename": "2025-04-04 중간 과제물 제출",
@@ -43,10 +59,6 @@
     {
       "basename": "2025-03-27",
       "path": "Daily/2025-03-27.md"
-    },
-    {
-      "basename": "플러터와 상수 생성자",
-      "path": "Programming/플러터와 상수 생성자.md"
     },
     {
       "basename": "커리어 포트폴리오",
@@ -169,36 +181,12 @@
       "path": "Daily/2025-03-14.md"
     },
     {
-      "basename": "8강 체크포인트 1",
-      "path": "Lectures/25년 1학기/파이썬 프로그래밍/8강 체크포인트 1.md"
-    },
-    {
-      "basename": "5강 순차 구조",
-      "path": "Lectures/25년 1학기/파이썬 프로그래밍/5강 순차 구조.md"
-    },
-    {
       "basename": "4강 파이썬 시작하기",
       "path": "Lectures/25년 1학기/파이썬 프로그래밍/4강 파이썬 시작하기.md"
     },
     {
       "basename": "Git 개요",
       "path": "Programming/Git/Git 개요.md"
-    },
-    {
-      "basename": "2강 세계화의 역사와 현실",
-      "path": "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md"
-    },
-    {
-      "basename": "4강 컴퓨터의 입출력",
-      "path": "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md"
-    },
-    {
-      "basename": "2강 컴퓨터의 구성",
-      "path": "Lectures/25년 1학기/파이썬 프로그래밍/2강 컴퓨터의 구성.md"
-    },
-    {
-      "basename": "1강 컴퓨터의 이해",
-      "path": "Lectures/25년 1학기/파이썬 프로그래밍/1강 컴퓨터의 이해.md"
     }
   ],
   "omittedPaths": [],
