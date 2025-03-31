@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Git/커밋 컨벤션.md",
+                "file": "Daily/2025-03-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "커밋 컨벤션"
+              "title": "2025-03-31"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "3b70a74fd35247ad",
   "lastOpenFiles": [
+    "Programming/Git/커밋 컨벤션.md",
+    "Daily/2025-03-31.md",
     "Daily/2025-03-27.md",
     "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
     "Programming/Flutter",
@@ -218,7 +220,6 @@
     "Programming/Dart/함수형 프로그래밍.md",
     "Schedule/2025-04-01 상담.md",
     "Schedule/무제.md",
-    "Programming/Git/커밋 컨벤션.md",
     "Daily/2025-03-21.md",
     "Pasted image 20250321133429.png",
     "Programming/UML",
