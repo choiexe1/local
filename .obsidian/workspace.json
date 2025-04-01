@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3e7794ed73fa12d",
+        "id": "c90c0c385d989b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "3b70a74fd35247ad",
+            "id": "267e9b5cf510b1d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -191,10 +191,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3b70a74fd35247ad",
+  "active": "267e9b5cf510b1d8",
   "lastOpenFiles": [
-    "Personal/과제.md",
     "Daily/2025-04-01.md",
+    "Personal/과제.md",
     "할 일.md",
     "Programming/플러터와 상수 생성자.md",
     "Lectures/25년 1학기/파이썬 프로그래밍/8강 체크포인트 1.md",
