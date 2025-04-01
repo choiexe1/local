@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "커밋 컨벤션",
+      "path": "Programming/Git/커밋 컨벤션.md"
+    },
+    {
       "basename": "2025-04-01",
       "path": "Daily/2025-04-01.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "(Every F,R,W,T,M) 모두연 플러터 부트캠프",
       "path": "Schedule/(Every F,R,W,T,M) 모두연 플러터 부트캠프.md"
-    },
-    {
-      "basename": "커밋 컨벤션",
-      "path": "Programming/Git/커밋 컨벤션.md"
     },
     {
       "basename": "2025-03-27",
