@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Git/커밋 컨벤션.md",
-                "mode": "preview",
+                "file": "Programming/Dart/Script Helper Derry.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "커밋 컨벤션"
+              "title": "Script Helper Derry"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "267e9b5cf510b1d8",
   "lastOpenFiles": [
+    "Programming/Git/커밋 컨벤션.md",
+    "Programming/Dart/Script Helper Derry.md",
     "Programming/Dart/예외 처리.md",
     "Daily/2025-04-01.md",
     "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md",
@@ -209,7 +211,6 @@
     "Lectures/25년 1학기",
     "Daily/2025-03-18.md",
     "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md",
-    "Programming/Git/커밋 컨벤션.md",
     "Personal/과제.md",
     "할 일.md",
     "Programming/플러터와 상수 생성자.md",
@@ -223,7 +224,6 @@
     "Schedule/2025-03-28 모두연 오프라인 밋업.md",
     "Schedule/2025-03-23 성장일지 제출 시작.md",
     "Schedule/(Every F,R,W,T,M) 모두연 플러터 부트캠프.md",
-    "Daily/2025-03-27.md",
     "Programming/Flutter",
     "Pasted image 20250321133429.png",
     "Programming/UML",
