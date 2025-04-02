@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Dart/Script Helper Derry.md",
-                "mode": "source",
+                "file": "Programming/Dart/유용한 패키지.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Script Helper Derry"
+              "title": "유용한 패키지"
             }
           }
         ]
@@ -194,7 +194,7 @@
   "active": "267e9b5cf510b1d8",
   "lastOpenFiles": [
     "Programming/Git/커밋 컨벤션.md",
-    "Programming/Dart/Script Helper Derry.md",
+    "Programming/Dart/유용한 패키지.md",
     "Programming/Dart/예외 처리.md",
     "Daily/2025-04-01.md",
     "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md",
