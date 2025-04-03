@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-04-03",
+      "path": "Daily/2025-04-03.md"
+    },
+    {
+      "basename": "zed 세팅",
+      "path": "Personal/zed 세팅.md"
+    },
+    {
       "basename": "유용한 패키지",
       "path": "Programming/Dart/유용한 패키지.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "커리어 포트폴리오",
       "path": "Personal/커리어 포트폴리오.md"
-    },
-    {
-      "basename": "zed 세팅",
-      "path": "Personal/zed 세팅.md"
     },
     {
       "basename": "n8n",

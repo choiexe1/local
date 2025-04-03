@@ -214,3 +214,16 @@
 ]
 
 ```
+
+
+## Zed Snippets
+```json
+{
+  "Given When Then": {
+    "prefix": "tdd",
+    "body": ["test('$1', () {\n// Given\n\n// When\n\n// Then\n});", "$0"],
+    "description": "create test method and Given When Then comments."
+  }
+}
+
+```
