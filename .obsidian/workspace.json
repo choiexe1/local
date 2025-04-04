@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-04-03.md",
-                "mode": "source",
+                "file": "Personal/Flutter 관련 아티클 모음.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-03"
+              "title": "Flutter 관련 아티클 모음"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "267e9b5cf510b1d8",
   "lastOpenFiles": [
+    "Daily/2025-04-04.md",
+    "Personal/Flutter 관련 아티클 모음.md",
     "Personal/zed 세팅.md",
-    "Daily/2025-04-03.md",
     "Programming/Dart/유용한 패키지.md",
     "Programming/Git/커밋 컨벤션.md",
     "Programming/Dart/예외 처리.md",
@@ -223,7 +224,6 @@
     "Schedule/2025-04-04 중간 과제물 제출.md",
     "금요일 모임.md",
     "Schedule/2025-04-01 상담.md",
-    "Schedule/2025-03-28 모두연 오프라인 밋업.md",
     "Programming/Flutter",
     "Pasted image 20250321133429.png",
     "Programming/UML",
