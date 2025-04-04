@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Dart/Freezed 정리.md",
-                "mode": "source",
+                "file": "Programming/Dart/Freezed 패키지.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Freezed 정리"
+              "title": "Freezed 패키지"
             }
           }
         ]
@@ -194,7 +194,7 @@
   "active": "267e9b5cf510b1d8",
   "lastOpenFiles": [
     "Daily/2025-04-04.md",
-    "Programming/Dart/Freezed 정리.md",
+    "Programming/Dart/Freezed 패키지.md",
     "Personal/Flutter 관련 아티클 모음.md",
     "Personal/zed 세팅.md",
     "Programming/Dart/유용한 패키지.md",
