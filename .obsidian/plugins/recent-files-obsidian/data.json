@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Freezed 패키지",
-      "path": "Programming/Dart/Freezed 패키지.md"
+      "basename": "04",
+      "path": "Daily/2025-04/04.md"
     },
     {
-      "basename": "2025-04-04",
-      "path": "Daily/2025-04-04.md"
+      "basename": "01",
+      "path": "Daily/2025-04/01.md"
+    },
+    {
+      "basename": "2025-03-31",
+      "path": "Daily/2025-03/2025-03-31.md"
+    },
+    {
+      "basename": "Freezed 패키지",
+      "path": "Programming/Dart/Freezed 패키지.md"
     },
     {
       "basename": "Flutter 관련 아티클 모음",
@@ -29,16 +37,12 @@
       "path": "Programming/Dart/예외 처리.md"
     },
     {
-      "basename": "2025-04-01",
-      "path": "Daily/2025-04-01.md"
-    },
-    {
       "basename": "4강 컴퓨터의 입출력",
       "path": "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md"
     },
     {
       "basename": "2025-03-18",
-      "path": "Daily/2025-03-18.md"
+      "path": "Daily/2025-03/2025-03-18.md"
     },
     {
       "basename": "비동기 프로그래밍과 동시성, 병렬성",
@@ -47,10 +51,6 @@
     {
       "basename": "과제",
       "path": "Personal/과제.md"
-    },
-    {
-      "basename": "2025-03-31",
-      "path": "Daily/2025-03-31.md"
     },
     {
       "basename": "플러터 예제 어플리케이션 구조 분석",
@@ -78,7 +78,7 @@
     },
     {
       "basename": "2025-03-27",
-      "path": "Daily/2025-03-27.md"
+      "path": "Daily/2025-03/2025-03-27.md"
     },
     {
       "basename": "커리어 포트폴리오",
@@ -114,15 +114,15 @@
     },
     {
       "basename": "2025-03-25",
-      "path": "Daily/2025-03-25.md"
+      "path": "Daily/2025-03/2025-03-25.md"
     },
     {
       "basename": "2025-03-24",
-      "path": "Daily/2025-03-24.md"
+      "path": "Daily/2025-03/2025-03-24.md"
     },
     {
       "basename": "2025-03-26",
-      "path": "Daily/2025-03-26.md"
+      "path": "Daily/2025-03/2025-03-26.md"
     },
     {
       "basename": "함수형 프로그래밍",
@@ -130,7 +130,7 @@
     },
     {
       "basename": "2025-03-21",
-      "path": "Daily/2025-03-21.md"
+      "path": "Daily/2025-03/2025-03-21.md"
     },
     {
       "basename": "테스트 메서드",
@@ -158,31 +158,31 @@
     },
     {
       "basename": "2025-03-20",
-      "path": "Daily/2025-03-20.md"
+      "path": "Daily/2025-03/2025-03-20.md"
     },
     {
       "basename": "2025-03-19",
-      "path": "Daily/2025-03-19.md"
+      "path": "Daily/2025-03/2025-03-19.md"
     },
     {
       "basename": "2025-03-17",
-      "path": "Daily/2025-03-17.md"
+      "path": "Daily/2025-03/2025-03-17.md"
     },
     {
       "basename": "2025-03-11",
-      "path": "Daily/2025-03-11.md"
+      "path": "Daily/2025-03/2025-03-11.md"
     },
     {
       "basename": "2025-03-12",
-      "path": "Daily/2025-03-12.md"
+      "path": "Daily/2025-03/2025-03-12.md"
     },
     {
       "basename": "2025-03-13",
-      "path": "Daily/2025-03-13.md"
+      "path": "Daily/2025-03/2025-03-13.md"
     },
     {
       "basename": "2025-03-14",
-      "path": "Daily/2025-03-14.md"
+      "path": "Daily/2025-03/2025-03-14.md"
     },
     {
       "basename": "Git 개요",
