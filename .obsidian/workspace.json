@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4896eb15a1546486",
+        "id": "82b05de646c37f7c",
         "type": "tabs",
         "children": [
           {
-            "id": "c32558603506420f",
+            "id": "e45e30f395fe81c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Blog/Dart MCP 서버 구축.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dart MCP 서버 구축"
+              "title": "새 탭"
             }
           }
         ]
@@ -191,12 +187,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c32558603506420f",
+  "active": "e45e30f395fe81c8",
   "lastOpenFiles": [
-    "Pasted image 20250405172704.png",
-    "Pasted image 20250405172414.png",
     "Daily/2025-04/2025-04-04.md",
     "Personal/Blog/Dart MCP 서버 구축.md",
+    "Pasted image 20250405172704.png",
+    "Pasted image 20250405172414.png",
     "Personal/Blog",
     "Daily/2025-04/2025-04-01.md",
     "Daily/2025-03/2025-03-11.md",
