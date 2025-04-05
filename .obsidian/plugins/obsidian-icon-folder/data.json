@@ -39,5 +39,6 @@
   "Daily": "LiBookText",
   "Schedule": "LiCalendarDays",
   "Personal": "LiAsteriskSquare",
-  "Trouble Shooting": "LiBug"
+  "Trouble Shooting": "LiBug",
+  "Personal/Blog": "LiSwatchBook"
 }
