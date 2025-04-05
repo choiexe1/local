@@ -2,7 +2,9 @@
 
 ## 개요
 
-요즘 MCP(Model Context Protocol)이 세계적으로 뜨거운 관심을 받고 있습니다. 저도 그렇게까지는 관심이 없었는데 유튜브 알고리즘으로 하도 나오다보니 구축을 시도하게 됐습니다.
+요즘 MCP(Model Context Protocol)이 핫하네요. 저도 그렇게까지는 관심이 없었는데 유튜브 알고리즘이 계속 나오다보니 도대체 얼마나 좋은지 확인하기 위해 구축을 시도하게 됐는데, 결과는 충경적이었습니다.
+
+이제는 LLM을 통해서 내 로컬 파일에 접근할 수 있고
 
 MCP에 대한 정확한 정보는 [modelcontextprotocol.io](https://modelcontextprotocol.io/introduction)에서 찾아 볼 수 있습니다.
 
@@ -19,7 +21,9 @@ USB-C가 장치를 다양한 주변기기 및 액세서리에 연결하는 표�
 
 ![[Pasted image 20250405172704.png]]
 
-MCP는 크게 호스트, 클라이언트, 서버로 구성된 3티어 아키텍쳐로 이루어집니다.
+
+MCP는 호스트, 클라이언트, 서버로 구성된 3티어 아키텍쳐
+
 ### 호스트
 - MCP 시스템의 최상위 계층, 사용자와 직접 상호작용하는 어플리케이션
 	- Claude Desktop
@@ -29,16 +33,21 @@ MCP는 크게 호스트, 클라이언트, 서버로 구성된 3티어 아키텍�
 
 ### 서버
 - 실제 기능과 리소스를 제공
-	- 
+	- 다음에 설명할 mcp_dart를 사용하면 간단히 구현 가능
 
 ## mcp_dart 패키지
 
-감사하게도 [leehack](https://linktr.ee/leehack)이라는 개발자께서 Dart로 MCP를 구현해놓은 패키지가 있어서 Dart로 간단히 구축이 가능했습니다.
+감사하게도 [leehack](https://linktr.ee/leehack)이라는 한국인 개발자께서 Dart로 MCP를 구현해놓은 패키지가 있어서 Dart로 간단히 구축이 가능했습니다.
 
 패키지 사용법은 [mcp_dart](https://pub.dev/packages/mcp_dart)에서 확인하실 수 있습니다.
 
-## 코드
+## 소스 코드
 ```dart
+void main(List<String> arguments) async {
+  setUp();
+
+  await server.connect(StdioServerTransport());
+}
 
 final McpServer server = McpServer(
   Implementation(name: "jay-server", version: "1.0.0"),
