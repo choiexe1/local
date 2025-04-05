@@ -2,7 +2,7 @@
 
 ## 개요
 
-요즘 MCP(Multi Context Protocol)이 세계적으로 뜨거운 관심을 받고 있습니다. 저도 그렇게까지는 관심이 없었는데 유튜브 알고리즘으로 하도 나오다보니 구축을 시도하게 됐습니다.
+요즘 MCP(Model Context Protocol)이 세계적으로 뜨거운 관심을 받고 있습니다. 저도 그렇게까지는 관심이 없었는데 유튜브 알고리즘으로 하도 나오다보니 구축을 시도하게 됐습니다.
 
 MCP는 아직 초기 단계라 가장 정확한 정보는 [modelcontextprotocol.io](https://modelcontextprotocol.io/introduction)에서 찾아 볼 수 있습니다.
 
