@@ -18,6 +18,78 @@ USB-C가 장치를 다양한 주변기기 및 액세서리에 연결하는 표�
 
 패키지 사용법은 [mcp_dart](https://pub.dev/packages/mcp_dart)에서 확인하실 수 있습니다.
 
-### 구현
+## 실행 흐름
 
-먼저 패키지를 설치하고, 
+mcp_dart 패키지의 예제를 살펴보면 기본적으로 `StdioServerTransport`를 통해 통신합니다.
+이 `StdioServerTransport`는 MCP 서버 실행 후 표준 입력을 통해 기능을 실행하게 됩니다.
+
+## 코드
+```dart
+
+final McpServer server = McpServer(
+  Implementation(name: "jay-server", version: "1.0.0"),
+  options: ServerOptions(
+    capabilities: ServerCapabilities(tools: ServerCapabilitiesTools()),
+  ),
+);
+
+void setUp() {
+  server.tool(
+    "readFile",
+    description: '파일 읽기',
+    inputSchemaProperties: {
+      'path': {'type': 'string'},
+    },
+    callback: ({args, extra}) async {
+      final path = args!['path'];
+
+      File file = File(path);
+
+      if (await file.exists()) {
+        String content = await file.readAsString();
+        return CallToolResult(content: [TextContent(text: content)]);
+      } else {
+        return CallToolResult(content: [TextContent(text: 'File not found')]);
+      }
+    },
+  );
+
+  server.tool(
+    "todo",
+    description: '투두 정보 조회',
+    inputSchemaProperties: {
+      'id': {'type': 'number'},
+      'completed': {'type': 'boolean'},
+    },
+    callback: ({args, extra}) async {
+      Uri uri = Uri.parse('https://jsonplaceholder.typicode.com/todos');
+      http.Response data = await http.get(uri);
+      List<dynamic> todos = jsonDecode(data.body);
+
+      List<Map<String, dynamic>> notCompleted =
+          todos
+              .cast<Map<String, dynamic>>()
+              .where((e) => e['completed'] == false)
+              .toList();
+
+      List<Map<String, dynamic>> completed =
+          todos
+              .cast<Map<String, dynamic>>()
+              .where((e) => e['completed'] == true)
+              .toList();
+
+      return CallToolResult(
+        content: [TextContent(text: todos.toString())],
+        meta: {
+          'completed': completed.length,
+          'not_completed': notCompleted.length,
+          'total': todos.length,
+          'completedPercentage': (todos.length / todos.length) * 100,
+        },
+      );
+    },
+  );
+}
+```
+
+저도 사용해보기 위해서 간단히 도구들을 작성해보았는데, 클라우드 데스크탑(Claude Desktop)을 통해 실행해볼 수 있었습니다.
