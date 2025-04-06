@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "중간과제물",
+      "path": "Lectures/25년 1학기/세계의 정치와 경제/중간과제물.md"
+    },
+    {
       "basename": "2강 세계화의 역사와 현실",
       "path": "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md"
     },
@@ -187,10 +191,6 @@
     {
       "basename": "2025-03-14",
       "path": "Daily/2025-03/2025-03-14.md"
-    },
-    {
-      "basename": "Git 개요",
-      "path": "Programming/Git/Git 개요.md"
     }
   ],
   "omittedPaths": [],
