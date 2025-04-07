@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPictureInPicture2",
       "LiSwatchBook",
       "🧰",
       "LiBug",
-      "LiAsteriskSquare",
-      "LiBookText"
+      "LiAsteriskSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Daily": "LiBookText",
   "Schedule": "LiCalendarDays",
   "Personal": "LiAsteriskSquare",
-  "Trouble Shooting": "LiBug"
+  "Trouble Shooting": "LiBug",
+  "Attached": "LiPictureInPicture2"
 }

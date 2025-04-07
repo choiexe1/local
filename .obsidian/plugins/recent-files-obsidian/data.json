@@ -1,6 +1,94 @@
 {
   "recentFiles": [
     {
+      "basename": "해시 알고리즘 2",
+      "path": "Programming/Private/자바/중급 2편/해시 알고리즘 2.md"
+    },
+    {
+      "basename": "해시 알고리즘",
+      "path": "Programming/Private/자바/중급 2편/해시 알고리즘.md"
+    },
+    {
+      "basename": "spring-basic-bean-scope-2",
+      "path": "Attached/spring-basic-bean-scope-2.png"
+    },
+    {
+      "basename": "spring-basic-테스트-1",
+      "path": "Attached/spring-basic-테스트-1.png"
+    },
+    {
+      "basename": "proxy-factory-6",
+      "path": "Attached/proxy-factory-6.png"
+    },
+    {
+      "basename": "proxy-factory-3",
+      "path": "Attached/proxy-factory-3.png"
+    },
+    {
+      "basename": "proxy-factory-1",
+      "path": "Attached/proxy-factory-1.png"
+    },
+    {
+      "basename": "proxy-14",
+      "path": "Attached/proxy-14.png"
+    },
+    {
+      "basename": "proxy-11",
+      "path": "Attached/proxy-11.png"
+    },
+    {
+      "basename": "bean-validation-1",
+      "path": "Attached/bean-validation-1.png"
+    },
+    {
+      "basename": "aop-2",
+      "path": "Attached/aop-2.png"
+    },
+    {
+      "basename": "aop-6",
+      "path": "Attached/aop-6.png"
+    },
+    {
+      "basename": "aop-3",
+      "path": "Attached/aop-3.png"
+    },
+    {
+      "basename": "해시-알고리즘-1",
+      "path": "Attached/해시-알고리즘-1.png"
+    },
+    {
+      "basename": "중위순회",
+      "path": "Attached/중위순회.png"
+    },
+    {
+      "basename": "해시-알고리즘-2",
+      "path": "Attached/해시-알고리즘-2.png"
+    },
+    {
+      "basename": "컴파일타임_의존관계",
+      "path": "Attached/컴파일타임_의존관계.png"
+    },
+    {
+      "basename": "자바-set",
+      "path": "Attached/자바-set.png"
+    },
+    {
+      "basename": "예외-계층화1",
+      "path": "Attached/예외-계층화1.png"
+    },
+    {
+      "basename": "언체크예외_1",
+      "path": "Attached/언체크예외_1.png"
+    },
+    {
+      "basename": "스프링 트랜잭션 전파",
+      "path": "Attached/스프링 트랜잭션 전파.png"
+    },
+    {
+      "basename": "스프링 MVC의 매핑 핸들러 어댑터 구조 이미지",
+      "path": "Attached/스프링 MVC의 매핑 핸들러 어댑터 구조 이미지.png"
+    },
+    {
       "basename": "스프링 시큐리티 정리",
       "path": "Programming/Private/스프링 시큐리티/스프링 시큐리티 정리.md"
     },
@@ -111,90 +199,6 @@
     {
       "basename": "n8n",
       "path": "Personal/n8n.md"
-    },
-    {
-      "basename": "Class Diagram",
-      "path": "Programming/Diagram/Class Diagram.md"
-    },
-    {
-      "basename": "브랜치 관리 명령어와 핵심 개념",
-      "path": "Programming/Git/브랜치 관리 명령어와 핵심 개념.md"
-    },
-    {
-      "basename": "Dart Extension (Wrapper)",
-      "path": "Programming/Dart/Dart Extension (Wrapper).md"
-    },
-    {
-      "basename": "Effective Dart - Async",
-      "path": "Programming/Dart/Effective Dart - Async.md"
-    },
-    {
-      "basename": "직렬화 (Serialization)",
-      "path": "Programming/Dart/직렬화 (Serialization).md"
-    },
-    {
-      "basename": "추상 클래스와 인터페이스",
-      "path": "Programming/Dart/추상 클래스와 인터페이스.md"
-    },
-    {
-      "basename": "2025-03-25",
-      "path": "Daily/2025-03/2025-03-25.md"
-    },
-    {
-      "basename": "2025-03-24",
-      "path": "Daily/2025-03/2025-03-24.md"
-    },
-    {
-      "basename": "2025-03-26",
-      "path": "Daily/2025-03/2025-03-26.md"
-    },
-    {
-      "basename": "함수형 프로그래밍",
-      "path": "Programming/Dart/함수형 프로그래밍.md"
-    },
-    {
-      "basename": "2025-03-21",
-      "path": "Daily/2025-03/2025-03-21.md"
-    },
-    {
-      "basename": "테스트 메서드",
-      "path": "Programming/Dart/테스트 메서드.md"
-    },
-    {
-      "basename": "파일 조작, 다양한 파일 형식",
-      "path": "Programming/Dart/파일 조작, 다양한 파일 형식.md"
-    },
-    {
-      "basename": "생성자",
-      "path": "Programming/Dart/생성자.md"
-    },
-    {
-      "basename": "Dart 문법 기초",
-      "path": "Programming/Dart/Dart 문법 기초.md"
-    },
-    {
-      "basename": "함수",
-      "path": "Programming/Dart/함수.md"
-    },
-    {
-      "basename": "static",
-      "path": "Programming/Dart/static.md"
-    },
-    {
-      "basename": "2025-03-20",
-      "path": "Daily/2025-03/2025-03-20.md"
-    },
-    {
-      "basename": "2025-03-19",
-      "path": "Daily/2025-03/2025-03-19.md"
-    },
-    {
-      "basename": "2025-03-17",
-      "path": "Daily/2025-03/2025-03-17.md"
-    },
-    {
-      "basename": "2025-03-13",
-      "path": "Daily/2025-03/2025-03-13.md"
     }
   ],
   "omittedPaths": [],
