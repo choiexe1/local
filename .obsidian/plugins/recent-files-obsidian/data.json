@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-04-07",
+      "path": "Daily/2025-04/2025-04-07.md"
+    },
+    {
       "basename": "할거",
       "path": "할거.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "커리어 포트폴리오",
       "path": "Personal/커리어 포트폴리오.md"
-    },
-    {
-      "basename": "n8n",
-      "path": "Personal/n8n.md"
     }
   ],
   "omittedPaths": [],
