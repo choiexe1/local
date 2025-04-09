@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "갠프",
+      "path": "Personal/갠프.md"
+    },
+    {
       "basename": "2025-04-09",
       "path": "Daily/2025-04/2025-04-09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-03-23 성장일지 제출 시작",
       "path": "Schedule/2025-03-23 성장일지 제출 시작.md"
-    },
-    {
-      "basename": "(Every F,R,W,T,M) 모두연 플러터 부트캠프",
-      "path": "Schedule/(Every F,R,W,T,M) 모두연 플러터 부트캠프.md"
     }
   ],
   "omittedPaths": [],
