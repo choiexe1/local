@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-04-09",
+      "path": "Daily/2025-04/2025-04-09.md"
+    },
+    {
       "basename": "2025-04-08",
       "path": "Daily/2025-04/2025-04-08.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "(Every F,R,W,T,M) 모두연 플러터 부트캠프",
       "path": "Schedule/(Every F,R,W,T,M) 모두연 플러터 부트캠프.md"
-    },
-    {
-      "basename": "2025-03-27",
-      "path": "Daily/2025-03/2025-03-27.md"
     }
   ],
   "omittedPaths": [],
