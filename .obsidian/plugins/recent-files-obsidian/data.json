@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "위젯",
-      "path": "Programming/Flutter/위젯.md"
+      "basename": "SizedBox와 Container",
+      "path": "Programming/Flutter/SizedBox와 Container.md"
+    },
+    {
+      "basename": "유용한 위젯",
+      "path": "Programming/Flutter/유용한 위젯.md"
     },
     {
       "basename": "패키지",
@@ -195,10 +199,6 @@
     {
       "basename": "플러터 예제 어플리케이션 구조 분석",
       "path": "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md"
-    },
-    {
-      "basename": "2025-04-04 중간 과제물 제출",
-      "path": "Schedule/2025-04-04 중간 과제물 제출.md"
     }
   ],
   "omittedPaths": [],
