@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "위젯",
+      "path": "Programming/Flutter/위젯.md"
+    },
+    {
+      "basename": "패키지",
+      "path": "Programming/Flutter/패키지.md"
+    },
+    {
       "basename": "갠프",
       "path": "Personal/갠프.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2025-04-04 중간 과제물 제출",
       "path": "Schedule/2025-04-04 중간 과제물 제출.md"
-    },
-    {
-      "basename": "2025-04-01 상담",
-      "path": "Schedule/2025-04-01 상담.md"
-    },
-    {
-      "basename": "2025-03-28 모두연 오프라인 밋업",
-      "path": "Schedule/2025-03-28 모두연 오프라인 밋업.md"
     }
   ],
   "omittedPaths": [],
