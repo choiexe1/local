@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-04/2025-04-04.md",
+                "file": "Daily/2025-04/2025-04-11.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-04"
+              "title": "2025-04-11"
             }
           },
           {
@@ -207,6 +207,7 @@
   },
   "active": "c73258c675bc788e",
   "lastOpenFiles": [
+    "Daily/2025-04/2025-04-04.md",
     "Daily/2025-04/2025-04-07.md",
     "Daily/2025-04/2025-04-08.md",
     "Daily/2025-04/2025-04-09.md",
@@ -243,7 +244,6 @@
     "Programming/Private/자바/중급 2편/컬렉션 유틸.md",
     "Programming/Private/자바/중급 2편/제네릭.md",
     "Programming/Private/자바/중급 2편/정렬 (Comparable, Comparator).md",
-    "Programming/Private/자바/중급 2편/자바의 큐 자료구조.md",
     "Programming/Private/자바/중급 2편",
     "Programming/Private/자바/중급 1편",
     "Programming/Private/자바/기본",
