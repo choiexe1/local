@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "에뮬레이터 영상 촬영 꿀팁",
+      "path": "Programming/Flutter/에뮬레이터 영상 촬영 꿀팁.md"
+    },
+    {
       "basename": "유용한 위젯",
       "path": "Programming/Flutter/유용한 위젯.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "비동기 프로그래밍과 동시성, 병렬성",
       "path": "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md"
-    },
-    {
-      "basename": "과제",
-      "path": "Personal/과제.md"
     }
   ],
   "omittedPaths": [],
