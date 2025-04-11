@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "SizedBox와 Container",
-      "path": "Programming/Flutter/SizedBox와 Container.md"
-    },
-    {
       "basename": "유용한 위젯",
       "path": "Programming/Flutter/유용한 위젯.md"
     },
     {
-      "basename": "패키지",
-      "path": "Programming/Flutter/패키지.md"
+      "basename": "유용한 패키지",
+      "path": "Programming/Flutter/유용한 패키지.md"
+    },
+    {
+      "basename": "SizedBox와 Container",
+      "path": "Programming/Flutter/SizedBox와 Container.md"
+    },
+    {
+      "basename": "플러터 예제 어플리케이션 구조 분석",
+      "path": "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md"
     },
     {
       "basename": "갠프",
@@ -195,10 +199,6 @@
     {
       "basename": "과제",
       "path": "Personal/과제.md"
-    },
-    {
-      "basename": "플러터 예제 어플리케이션 구조 분석",
-      "path": "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md"
     }
   ],
   "omittedPaths": [],
