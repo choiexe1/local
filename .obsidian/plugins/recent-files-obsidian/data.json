@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-04-15",
+      "path": "Daily/2025-04/2025-04-15.md"
+    },
+    {
       "basename": "2025-04-14",
       "path": "Daily/2025-04/2025-04-14.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Freezed 패키지",
       "path": "Programming/Dart/Freezed 패키지.md"
-    },
-    {
-      "basename": "Flutter 관련 아티클 모음",
-      "path": "Personal/Flutter 관련 아티클 모음.md"
     }
   ],
   "omittedPaths": [],

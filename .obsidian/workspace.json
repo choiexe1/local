@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-04/2025-04-14.md",
-                "mode": "preview",
+                "file": "Daily/2025-04/2025-04-15.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-14"
+              "title": "2025-04-15"
             }
           }
         ]
@@ -194,6 +194,7 @@
   "active": "dc2f6c986850d441",
   "lastOpenFiles": [
     "Daily/2025-04/2025-04-14.md",
+    "Daily/2025-04/2025-04-15.md",
     "Programming/Flutter/MVVM 아키텍쳐.md",
     "Daily/2025-04/2025-04-11.md",
     "Programming/Flutter/SizedBox와 Container.md",
@@ -229,7 +230,6 @@
     "Attached",
     "Programming/Private/스프링 부트/index.md",
     "Programming/Private/스프링 시큐리티/스프링 시큐리티 정리.md",
-    "Programming/private/스프링 시큐리티/index.md",
     "Programming/Private/자바/중급 2편",
     "Programming/Private/자바/중급 1편",
     "Programming/Private/자바/기본",
