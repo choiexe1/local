@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/갠프.md",
-                "mode": "preview",
+                "file": "Daily/2025-04/2025-04-16.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "갠프"
+              "title": "2025-04-16"
             }
           }
         ]
@@ -193,6 +193,8 @@
   },
   "active": "dc2f6c986850d441",
   "lastOpenFiles": [
+    "Personal/갠프.md",
+    "Daily/2025-04/2025-04-16.md",
     "할거.md",
     "Daily/2025-04/2025-04-15.md",
     "Programming/Flutter/아키텍쳐, 패턴.md",
@@ -212,7 +214,6 @@
     "Daily/2025-04/2025-04-07.md",
     "Daily/2025-04/2025-04-08.md",
     "Daily/2025-04/2025-04-09.md",
-    "Personal/갠프.md",
     "Daily/2025-03/2025-03-11.md",
     "Daily/2025-04/2025-04-10.md",
     "Programming/Private/자바/중급 2편/해시 알고리즘 2.md",
@@ -229,7 +230,6 @@
     "Attached/aop-6.png",
     "Attached/index.md",
     "Attached",
-    "Programming/Private/스프링 부트/index.md",
     "Programming/Private/자바/중급 2편",
     "Programming/Private/자바/중급 1편",
     "Programming/Private/자바/기본",
