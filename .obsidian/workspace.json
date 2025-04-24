@@ -11,12 +11,14 @@
             "id": "0638fca82f9e33eb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Daily/2025-04/2025-04-24.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "2025-04-24"
             }
           }
         ]
@@ -191,6 +193,7 @@
   },
   "active": "0638fca82f9e33eb",
   "lastOpenFiles": [
+    "Daily/2025-04/2025-04-24.md",
     "Daily/2025-04/2025-04-22.md",
     "Daily/2025-04/2025-04-23.md",
     "Daily/2025-04/2025-04-16.md",
@@ -216,7 +219,6 @@
     "Daily/2025-04/2025-04-08.md",
     "Daily/2025-04/2025-04-09.md",
     "Daily/2025-03/2025-03-11.md",
-    "Daily/2025-04/2025-04-10.md",
     "Attached/spring-basic-bean-scope-2.png",
     "Attached/spring-basic-테스트-1.png",
     "Attached/proxy-factory-6.png",
