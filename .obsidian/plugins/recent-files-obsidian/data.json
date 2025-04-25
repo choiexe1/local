@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "커밋 컨벤션",
+      "path": "Programming/Git/커밋 컨벤션.md"
+    },
+    {
       "basename": "2025-04-25",
       "path": "Daily/2025-04/2025-04-25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "스프링 시큐리티 정리",
       "path": "Programming/Private/스프링 시큐리티/스프링 시큐리티 정리.md"
-    },
-    {
-      "basename": "중간과제물",
-      "path": "Lectures/25년 1학기/세계의 정치와 경제/중간과제물.md"
     }
   ],
   "omittedPaths": [],
