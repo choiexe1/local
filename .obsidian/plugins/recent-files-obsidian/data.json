@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "build_runner Analysis options",
+      "path": "Programming/Flutter/build_runner Analysis options.md"
+    },
+    {
       "basename": "2025-04-25",
       "path": "Daily/2025-04/2025-04-25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "스프링 트랜잭션 전파",
       "path": "Attached/스프링 트랜잭션 전파.png"
-    },
-    {
-      "basename": "스프링 MVC의 매핑 핸들러 어댑터 구조 이미지",
-      "path": "Attached/스프링 MVC의 매핑 핸들러 어댑터 구조 이미지.png"
     }
   ],
   "omittedPaths": [],
