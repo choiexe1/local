@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Firebase Emulator",
+      "path": "Programming/Flutter/Firebase Emulator.md"
+    },
+    {
       "basename": "build_runner Analysis options",
       "path": "Programming/Flutter/build_runner Analysis options.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "언체크예외_1",
       "path": "Attached/언체크예외_1.png"
-    },
-    {
-      "basename": "스프링 트랜잭션 전파",
-      "path": "Attached/스프링 트랜잭션 전파.png"
     }
   ],
   "omittedPaths": [],

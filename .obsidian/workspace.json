@@ -11,10 +11,14 @@
             "id": "28c1bd8b1a554bcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Flutter/Firebase Emulator.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "Firebase Emulator"
             }
           }
         ]
@@ -189,6 +193,7 @@
   },
   "active": "28c1bd8b1a554bcc",
   "lastOpenFiles": [
+    "Programming/Flutter/Firebase Emulator.md",
     "Programming/Flutter/build_runner Analysis options.md",
     "Daily/2025-04/2025-04-25.md",
     "Daily/2025-05/2025-05-02.md",
@@ -215,7 +220,6 @@
     "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
     "Programming/Flutter/유용한 패키지.md",
     "Programming/Flutter/유용한 위젯.md",
-    "Programming/Dart/직렬화 (Serialization).md",
     "Attached/spring-basic-bean-scope-2.png",
     "Attached/spring-basic-테스트-1.png",
     "Attached/proxy-factory-6.png",
