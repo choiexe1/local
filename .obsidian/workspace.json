@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b530357940242b03",
+        "id": "0f37b23d29b3e6d0",
         "type": "tabs",
         "children": [
           {
-            "id": "0638fca82f9e33eb",
+            "id": "28c1bd8b1a554bcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Flutter/build_runner Analysis options.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "build_runner Analysis options"
+              "title": "새 탭"
             }
           }
         ]
@@ -191,10 +187,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0638fca82f9e33eb",
+  "active": "28c1bd8b1a554bcc",
   "lastOpenFiles": [
-    "Daily/2025-04/2025-04-25.md",
     "Programming/Flutter/build_runner Analysis options.md",
+    "Daily/2025-04/2025-04-25.md",
     "Daily/2025-05/2025-05-02.md",
     "Personal/갠프.md",
     "Daily/2025-04/2025-04-24.md",
