@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f37b23d29b3e6d0",
+        "id": "1a74212b62bd6345",
         "type": "tabs",
         "children": [
           {
-            "id": "28c1bd8b1a554bcc",
+            "id": "6a419fec49ca9794",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-05/2025-05-02.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-05-02"
+              "title": "새 탭"
             }
           }
         ]
@@ -191,12 +187,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "28c1bd8b1a554bcc",
+  "active": "6a419fec49ca9794",
   "lastOpenFiles": [
+    "Daily/2025-05/2025-05-02.md",
     "Programming/Flutter/Firebase Emulator.md",
     "Programming/Flutter/build_runner Analysis options.md",
     "Daily/2025-04/2025-04-25.md",
-    "Daily/2025-05/2025-05-02.md",
     "Personal/갠프.md",
     "Daily/2025-04/2025-04-24.md",
     "Daily/2025-04/2025-04-11.md",
