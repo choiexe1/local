@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "유용한 패키지"
             }
+          },
+          {
+            "id": "da9f70aad8d7444b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "읽을 것.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "읽을 것"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,8 +206,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6a419fec49ca9794",
+  "active": "da9f70aad8d7444b",
   "lastOpenFiles": [
+    "Programming/Flutter/유용한 패키지.md",
+    "읽을 것.md",
     "Programming/Flutter/유용한 위젯.md",
     "Programming/Flutter/아키텍쳐, 패턴.md",
     "Daily/2025-05/2025-05-02.md",
@@ -218,8 +235,6 @@
     "Daily/2025-04/2025-04-14.md",
     "Programming/Flutter/MVVM 아키텍쳐.md",
     "Programming/Flutter/SizedBox와 Container.md",
-    "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
-    "Programming/Flutter/유용한 패키지.md",
     "Attached/spring-basic-bean-scope-2.png",
     "Attached/spring-basic-테스트-1.png",
     "Attached/proxy-factory-6.png",

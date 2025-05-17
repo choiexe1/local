@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "읽을 것",
+      "path": "읽을 것.md"
+    },
+    {
       "basename": "유용한 패키지",
       "path": "Programming/Flutter/유용한 패키지.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "예외-계층화1",
       "path": "Attached/예외-계층화1.png"
-    },
-    {
-      "basename": "언체크예외_1",
-      "path": "Attached/언체크예외_1.png"
     }
   ],
   "omittedPaths": [],
