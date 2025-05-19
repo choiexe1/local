@@ -11,10 +11,14 @@
             "id": "a8528029606e1f3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "채용 공고.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "채용 공고"
             }
           }
         ]
@@ -189,6 +193,7 @@
   },
   "active": "a8528029606e1f3a",
   "lastOpenFiles": [
+    "채용 공고.md",
     "읽을 것.md",
     "Programming/Flutter/유용한 패키지.md",
     "Programming/Flutter/유용한 위젯.md",
@@ -215,7 +220,6 @@
     "Programming/Flutter/에뮬레이터 영상 촬영 꿀팁.md",
     "Daily/2025-04/2025-04-14.md",
     "Programming/Flutter/MVVM 아키텍쳐.md",
-    "Programming/Flutter/SizedBox와 Container.md",
     "Attached/spring-basic-bean-scope-2.png",
     "Attached/spring-basic-테스트-1.png",
     "Attached/proxy-factory-6.png",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "채용 공고",
+      "path": "채용 공고.md"
+    },
+    {
       "basename": "읽을 것",
       "path": "읽을 것.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "자바-set",
       "path": "Attached/자바-set.png"
-    },
-    {
-      "basename": "예외-계층화1",
-      "path": "Attached/예외-계층화1.png"
     }
   ],
   "omittedPaths": [],
