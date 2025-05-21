@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Flutter/SizedBox와 Container.md",
-                "mode": "source",
+                "file": "Programming/Flutter/플러터 빌드와 버전 코드.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SizedBox와 Container"
+              "title": "플러터 빌드와 버전 코드"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "a8528029606e1f3a",
   "lastOpenFiles": [
-    "Programming/Flutter/플러터 빌드와 버전 코드.md",
     "Programming/Flutter/SizedBox와 Container.md",
+    "Programming/Flutter/플러터 빌드와 버전 코드.md",
     "Programming/Flutter/StatefulWidget과 StatelessWidget.md",
     "Programming/Flutter/MVVM 아키텍쳐.md",
     "Programming/Flutter/Firebase Emulator.md",
