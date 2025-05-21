@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Flutter/StatefulWidget과 StatelessWidget.md",
+                "file": "Programming/Flutter/SizedBox와 Container.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "StatefulWidget과 StatelessWidget"
+              "title": "SizedBox와 Container"
             }
           }
         ]
@@ -193,17 +193,18 @@
   },
   "active": "a8528029606e1f3a",
   "lastOpenFiles": [
-    "Programming/Flutter/SizedBox와 Container.md",
     "Programming/Flutter/StatefulWidget과 StatelessWidget.md",
     "Programming/Flutter/MVVM 아키텍쳐.md",
-    "채용 공고.md",
-    "읽을 것.md",
-    "Programming/Flutter/유용한 패키지.md",
-    "Programming/Flutter/유용한 위젯.md",
-    "Programming/Flutter/아키텍쳐, 패턴.md",
-    "Daily/2025-05/2025-05-02.md",
+    "Programming/Flutter/SizedBox와 Container.md",
     "Programming/Flutter/Firebase Emulator.md",
     "Programming/Flutter/build_runner Analysis options.md",
+    "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
+    "Programming/Flutter/유용한 패키지.md",
+    "Programming/Flutter/아키텍쳐, 패턴.md",
+    "Programming/Flutter/유용한 위젯.md",
+    "채용 공고.md",
+    "읽을 것.md",
+    "Daily/2025-05/2025-05-02.md",
     "Daily/2025-04/2025-04-25.md",
     "Personal/갠프.md",
     "Daily/2025-04/2025-04-24.md",
@@ -219,7 +220,6 @@
     "Daily/2025-04/2025-04-16.md",
     "Daily/2025-04/2025-04-21.md",
     "할거.md",
-    "Daily/2025-04/2025-04-15.md",
     "Attached/spring-basic-bean-scope-2.png",
     "Attached/spring-basic-테스트-1.png",
     "Attached/proxy-factory-6.png",
