@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "SizedBox와 Container",
+      "path": "Programming/Flutter/SizedBox와 Container.md"
+    },
+    {
+      "basename": "무제",
+      "path": "Programming/Flutter/무제.md"
+    },
+    {
       "basename": "채용 공고",
       "path": "채용 공고.md"
     },
@@ -97,10 +105,6 @@
       "path": "Programming/Flutter/MVVM 아키텍쳐.md"
     },
     {
-      "basename": "SizedBox와 Container",
-      "path": "Programming/Flutter/SizedBox와 Container.md"
-    },
-    {
       "basename": "플러터 예제 어플리케이션 구조 분석",
       "path": "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "컴파일타임_의존관계",
       "path": "Attached/컴파일타임_의존관계.png"
-    },
-    {
-      "basename": "자바-set",
-      "path": "Attached/자바-set.png"
     }
   ],
   "omittedPaths": [],
