@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SOLID 원칙",
+      "path": "Programming/Flutter/SOLID 원칙.md"
+    },
+    {
       "basename": "mounted vs context.mounted",
       "path": "Programming/Flutter/mounted vs context.mounted.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "해시-알고리즘-2",
       "path": "Attached/해시-알고리즘-2.png"
-    },
-    {
-      "basename": "컴파일타임_의존관계",
-      "path": "Attached/컴파일타임_의존관계.png"
     }
   ],
   "omittedPaths": [],
