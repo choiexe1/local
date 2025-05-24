@@ -11,8 +11,10 @@
 
 
 ## 예시
+- app/src/build.gradle.kts
+```java
 
-```dart
+
     flavorDimensions += "environment"
 
     productFlavors {
@@ -24,7 +26,16 @@
         create("production") {
             dimension = "environment"
             applicationIdSuffix = ".production"
-            resValue("string", "app_name", "mulmuger - prod")
         }
     }
+```
+
+## resValue
+- app/src/main/res/string.xml
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">물먹어</string>
+</resources>
+
 ```
