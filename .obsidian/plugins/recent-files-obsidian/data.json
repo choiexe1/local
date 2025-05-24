@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "flutter flavor",
+      "path": "Programming/Flutter/flutter flavor.md"
+    },
+    {
       "basename": "유용한 패키지",
       "path": "Programming/Flutter/유용한 패키지.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "중위순회",
       "path": "Attached/중위순회.png"
-    },
-    {
-      "basename": "해시-알고리즘-2",
-      "path": "Attached/해시-알고리즘-2.png"
     }
   ],
   "omittedPaths": [],

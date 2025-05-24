@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Flutter/유용한 패키지.md",
-                "mode": "preview",
+                "file": "Programming/Flutter/flutter flavor.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "유용한 패키지"
+              "title": "flutter flavor"
             }
           }
         ]
@@ -192,9 +192,10 @@
   },
   "active": "7857965e554f06c4",
   "lastOpenFiles": [
+    "Programming/Flutter/유용한 패키지.md",
+    "Programming/Flutter/flutter flavor.md",
     "Programming/Flutter/SOLID 원칙.md",
     "Programming/Flutter/mounted vs context.mounted.md",
-    "Programming/Flutter/유용한 패키지.md",
     "Programming/Flutter/플러터 빌드와 버전 코드.md",
     "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
     "Programming/Flutter/StatefulWidget과 StatelessWidget.md",
@@ -218,7 +219,6 @@
     "Daily/2025-05",
     "Daily/2025-04/2025-04-22.md",
     "Programming/Git/커밋 컨벤션.md",
-    "Daily/2025-04/2025-04-23.md",
     "Attached/spring-basic-bean-scope-2.png",
     "Attached/spring-basic-테스트-1.png",
     "Attached/proxy-factory-6.png",
