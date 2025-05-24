@@ -37,5 +37,6 @@
 <resources>
     <string name="app_name">물먹어</string>
 </resources>
-
 ```
+
+이곳에 값을 정의하고 `build.gradle.kts`에서 오버라이드하거나 그대로 사용 할 수 있다.
