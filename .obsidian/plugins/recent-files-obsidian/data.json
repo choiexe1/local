@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "SOLID 원칙",
+      "path": "Programming/Flutter/SOLID 원칙.md"
+    },
+    {
+      "basename": "Firebase Emulator",
+      "path": "Programming/Flutter/Firebase Emulator.md"
+    },
+    {
       "basename": "flutter flavor",
       "path": "Programming/Flutter/flutter flavor.md"
     },
     {
       "basename": "유용한 패키지",
       "path": "Programming/Flutter/유용한 패키지.md"
-    },
-    {
-      "basename": "SOLID 원칙",
-      "path": "Programming/Flutter/SOLID 원칙.md"
     },
     {
       "basename": "mounted vs context.mounted",
@@ -35,10 +39,6 @@
     {
       "basename": "MVVM 아키텍쳐",
       "path": "Programming/Flutter/MVVM 아키텍쳐.md"
-    },
-    {
-      "basename": "Firebase Emulator",
-      "path": "Programming/Flutter/Firebase Emulator.md"
     },
     {
       "basename": "build_runner Analysis options",
