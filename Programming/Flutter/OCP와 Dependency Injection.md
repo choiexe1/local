@@ -48,7 +48,7 @@ void main() {
 
 
 #### 2. 추상화는 도입했지만 DI가 없는 경우
-그렇다면 추상화를 도입하면 OCP를 지킬 수 있을까요? 예를 들어, `IPaymentMethod` 인터페이스를 만들고 `CreditCardPayment`가 이를 구현하게 해봅시다.
+그렇다면 추상화를 도입하면 OCP를 지킬 수 있을까? `Payment` 인터페이스를 구현하는 구현체들과 생성자 주입으로 직접 구현체를 주입 받는 `PaymentProcessor`를 만든다.
 
 ```dart
 abstract interface class Payment {
@@ -56,57 +56,43 @@ abstract interface class Payment {
 }
 
 // 신용카드 결제 구현체
-class CreditCardPayment implements IPaymentMethod {
+class CreditCardPayment implements Payment {
   @override
   void processPayment(double amount) {
-    print('$amount원 신용카드로 결제 처리 중...');
+    ...
   }
 }
 
 // 새로운 카카오페이 결제 구현체
-class KakaoPayPayment implements IPaymentMethod {
+class KakaoPayPayment implements Payment {
   @override
   void processPayment(double amount) {
-    print('$amount원 카카오페이로 결제 처리 중...');
+    ...
   }
 }
 
-// 결제 처리를 담당하는 클래스 (문제 발생 지점)
-class PaymentProcessorWithAbstraction {
-  // 인터페이스에 의존하는 것은 맞지만...
-  late IPaymentMethod _paymentMethod;
+class PaymentProcessor {
 
-  // 생성자 내부에서 구체적인 구현체를 '직접' 선택하고 생성
-  PaymentProcessorWithAbstraction(String methodType) {
-    if (methodType == 'creditCard') {
-      _paymentMethod = CreditCardPayment(); // 여기서 구체적인 구현체를 선택
-    } else if (methodType == 'kakaoPay') {
-      _paymentMethod = KakaoPayPayment(); // 여기서 구체적인 구현체를 선택
-    } else {
-      throw Exception('지원하지 않는 결제 방식입니다.');
-    }
-  }
+  const PaymentProcessor(this._payment);
+
+  final Payment _payment;
 
   void processOrderPayment(double amount) {
-    _paymentMethod.processPayment(amount);
+    _payment.processPayment(amount);
   }
 }
 
 void main() {
-  final creditCardProcessor = PaymentProcessorWithAbstraction('creditCard');
-  creditCardProcessor.processOrderPayment(100.0);
+  final Payment creditCard = CreditCardPayment();
+  final Payment kakaoPay = KakaoPayPayment();
 
-  final kakaoPayProcessor = PaymentProcessorWithAbstraction('kakaoPay');
-  kakaoPayProcessor.processOrderPayment(250.0);
-
-  // 새로운 결제 수단 (예: ApplePay) 추가 시, PaymentProcessorWithAbstraction 클래스 '수정' 필요
-  // final applePayProcessor = PaymentProcessorWithAbstraction('applePay'); // 이 시점에 PaymentProcessorWithAbstraction를 수정해야 함
+  final PaymentProcessor paymentProcessor = PaymentProcessor(creditCard);
 }
 
 ```
 
 **여전히 OCP 위반:**
-
+- 결제 수단이 변경되는 시점에, DI가 없어서 `main` 함수 내에서 
 - `ApplePayPayment`와 같은 새로운 결제 수단이 추가되면, `PaymentProcessorWithAbstraction`의 생성자 로직(`if/else` 문)을 **직접 수정**해야 합니다.
 - 결과적으로, `PaymentProcessorWithAbstraction`는 새로운 기능(새로운 결제 방식) 확장에 대해 폐쇄되어 있지 않고, 수정이 불가피합니다. 추상화를 도입했음에도 불구하고 DI가 없으면 OCP를 완전히 지킬 수 없는 이유입니다.
 
