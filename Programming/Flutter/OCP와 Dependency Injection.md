@@ -86,20 +86,35 @@ void main() {
   final Payment creditCard = CreditCardPayment();
   final Payment kakaoPay = KakaoPayPayment();
 
-  final PaymentProcessor paymentProcessor = PaymentProcessor(creditCard);
+  // 예를 들어, 사용자 입력에 따라 결제 수단을 선택해야 한다면:
+  String selectedMethod = 'creditCard'; 
+  Payment selectedPayment;
+
+  if (selectedMethod == 'creditCard') {
+    selectedPayment = creditCard;
+  } else (selectedMethod == 'kakaoPay') {
+    selectedPayment = kakaoPay;
+  } 
+
+  final PaymentProcessor paymentProcessor = PaymentProcessor(selectedPayment);
+  paymentProcessor.processOrderPayment(100.0);
+
+  // 만약 ApplePay가 추가된다면, 이 main 함수 내의 'if/else' 로직을 수정해야 한다
 }
 
 ```
 
 **여전히 OCP 위반:**
-- 결제 수단이 변경되는 시점에, DI가 없어서 `main` 함수 내에서 
-- `ApplePayPayment`와 같은 새로운 결제 수단이 추가되면, `PaymentProcessorWithAbstraction`의 생성자 로직(`if/else` 문)을 **직접 수정**해야 합니다.
-- 결과적으로, `PaymentProcessorWithAbstraction`는 새로운 기능(새로운 결제 방식) 확장에 대해 폐쇄되어 있지 않고, 수정이 불가피합니다. 추상화를 도입했음에도 불구하고 DI가 없으면 OCP를 완전히 지킬 수 없는 이유입니다.
+- `PaymentProcessor` 자체는 `Payment` 인터페이스에 의존하므로 OCP를 지키는 것처럼 보인다. 그러나 `main` 함수와 같이 `PaymentProcessor`를 사용하는 **클라이언트 코드에서 어떤 결제 수단을 사용할지 직접 `if/else`나 다른 분기 로직으로 선택하고 생성**하고 있다.
+- 결과적으로 애플페이처럼 새로운 결제 수단이 추가되면, **`main` 함수(또는 `PaymentProcessor`를 초기화하는 다른 상위 모듈)의 코드를 수정**해야 한다. 추상화를 도입했음에도 불구하고, 의존성 주입이 없으면 OCP를 완전히 지킬 수 없다. 확장 시 수정이 불가피한 부분이 발생하기 때문이다.
 
 
 ## 결론
-OCP는 소프트웨어의 유지보수성과 유연성을 극대화하기 위한 중요한 원칙입니다. 하지만 단순히 추상화(`interface` 또는 `abstract class`)를 도입하는 것만으로는 OCP를 완전히 지킬 수 없습니다. 클래스 내부에서 구체적인 구현체를 직접 생성하거나 선택하는 방식은 여전히 OCP를 위반하게 됩니다.
 
-**의존성 주입(DI)**은 클래스가 자신이 의존하는 객체의 구체적인 구현을 직접 알 필요 없이, 외부에서 필요한 의존성을 주입받도록 함으로써 **추상화에만 의존할 수 있게 만들어 줍니다.** 이로 인해 시스템의 구성 요소들이 **느슨하게 결합(Loose Coupling)**되고, 새로운 기능이 추가되더라도 기존 코드를 수정할 필요 없이 확장할 수 있게 됩니다.
+OCP는 소프트웨어의 유지보수성과 유연성을 극대화하기 위한 매우 중요한 원칙이다. 하지만 단순히 추상화(`interface` 또는 `abstract class`)를 도입하는 것만으로는 OCP를 완전히 지킬 수 없다. 클래스 내부에서 구체적인 구현체를 직접 생성하거나, 클라이언트 코드에서 특정 구현체를 직접 선택하여 연결하는 방식은 여전히 OCP를 위반하게 된다.
 
-결국, **OCP를 실질적으로 구현하고 유지하기 위해서는 의존성 주입이 선택이 아닌 필수적인 설계 원칙**이 되는 것입니다.
+**의존성 주입(DI)**은 클래스가 자신이 의존하는 객체의 구체적인 구현을 직접 알 필요 없이, **외부(상위 모듈)에서 필요한 의존성을 생성하여 주입받도록** 함으로써 이러한 문제를 해결한다. 이를 통해 클래스는 **추상화에만 의존**할 수 있게 된다.
+
+이로 인해 시스템의 구성 요소들이 **느슨하게 결합(Loose Coupling)**되고, 새로운 기능이 추가되더라도 **기존 코드를 수정할 필요 없이** 새로운 구현체를 주입하여 기능을 확장할 수 있게 된다.
+
+따라서, **OCP를 실질적으로 구현하고 유지하기 위해서는 의존성 주입이 선택이 아닌 필수적인 설계 원칙**이 된다. DI는 OCP를 가능하게 하는 핵심 메커니즘이라고 할 수 있다.
