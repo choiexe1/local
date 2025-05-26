@@ -54,3 +54,78 @@ dependencies {
     coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.4")
 }
 ```
+
+## LocalNotifier
+
+`flutter_local_notifications`를 추상화 한 클래스
+
+```dart
+class LocalNotifier {
+  static const String notificationIcon = '@mipmap/ic_launcher';
+  final notificationPlugin = FlutterLocalNotificationsPlugin();
+
+  bool _isInitialized = false;
+
+  bool get isInitialized => _isInitialized;
+
+  Future<void> initNotification() async {
+    if (_isInitialized) return;
+
+    const androidSettings = AndroidInitializationSettings(notificationIcon);
+
+    const initializeSetting = InitializationSettings(android: androidSettings);
+
+    await notificationPlugin.initialize(initializeSetting);
+    _isInitialized = true;
+  }
+
+  NotificationDetails notificationDetails() {
+    return const NotificationDetails(
+      android: AndroidNotificationDetails(
+        'daily_channel_id',
+        'Daily Notifications',
+        channelDescription: 'Daily Notification Channel',
+        importance: Importance.max,
+        priority: Priority.high,
+      ),
+    );
+  }
+
+  Future<void> showNotification({
+    int id = 0,
+    String? title,
+    String? body,
+  }) async {
+    return notificationPlugin.show(id, title, body, notificationDetails());
+  }
+}
+```
+
+## main
+
+```dart
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  final localNotifier = LocalNotifier();
+  await localNotifier.initNotification();
+
+  final appConfig = AppConfig.initialize(appName: '물머거', flavor: Flavor.dev);
+
+  runApp(App(appConfig: appConfig));
+}
+
+```
+
+## 일회성
+```dart
+ElevatedButton(
+	onPressed: () {
+		LocalNotifier().showNotification(
+			title: '물 먹을 시간',
+			body: '물 먹드세요',
+		);
+	},
+	child: const Text('Send Noti'),
+),
+```
