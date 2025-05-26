@@ -15,7 +15,7 @@
 그런데 이 앞서 설명한 OCP 원칙을 지키는 건 DI 없이 불가능하다. 
 
 ### DI 없이 OCP를 지킬 수 없는 이유
-플러터에서 `PaymentProcessor` 클래스가 있다고 가정해 봅시다. 이 클래스는 다양한 결제 방법을 처리해야 합니다. 초기에는 `CreditCardPayment`만 지원한다고 가정해 봅시다.
+`PaymentProcessor` 클래스가 있다고 가정한다. 이 클래스는 다양한 결제 방법을 처리해야 합니다. 초기에는 `CreditCardPayment`만 지원한다고 가정.
 
 #### 1. DI 없이 직접 구현체에 의존하는 경우 (OCP 위반)
 ```dart
