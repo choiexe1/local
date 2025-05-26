@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "SizedBox와 Container",
-      "path": "Programming/Flutter/SizedBox와 Container.md"
+      "basename": "Firebase Emulator",
+      "path": "Programming/Flutter/Firebase Emulator.md"
+    },
+    {
+      "basename": "flutter flavor",
+      "path": "Programming/Flutter/flutter flavor.md"
+    },
+    {
+      "basename": "빈 생명주기 콜백",
+      "path": "Programming/Private/스프링/기본/빈 생명주기 콜백.md"
+    },
+    {
+      "basename": "객체 지향 설계와 스프링",
+      "path": "Programming/Private/스프링/기본/객체 지향 설계와 스프링.md"
+    },
+    {
+      "basename": "간단 스프링 시큐리티 가이드",
+      "path": "Programming/Private/스프링 시큐리티/간단 스프링 시큐리티 가이드.md"
     },
     {
       "basename": "StatefulWidget과 StatelessWidget",
       "path": "Programming/Flutter/StatefulWidget과 StatelessWidget.md"
+    },
+    {
+      "basename": "SizedBox와 Container",
+      "path": "Programming/Flutter/SizedBox와 Container.md"
     },
     {
       "basename": "MVVM 아키텍쳐",
@@ -15,14 +35,6 @@
     {
       "basename": "mounted vs context.mounted",
       "path": "Programming/Flutter/mounted vs context.mounted.md"
-    },
-    {
-      "basename": "flutter flavor",
-      "path": "Programming/Flutter/flutter flavor.md"
-    },
-    {
-      "basename": "Firebase Emulator",
-      "path": "Programming/Flutter/Firebase Emulator.md"
     },
     {
       "basename": "build_runner Analysis options",
@@ -187,18 +199,6 @@
     {
       "basename": "aop-6",
       "path": "Attached/aop-6.png"
-    },
-    {
-      "basename": "aop-3",
-      "path": "Attached/aop-3.png"
-    },
-    {
-      "basename": "해시-알고리즘-1",
-      "path": "Attached/해시-알고리즘-1.png"
-    },
-    {
-      "basename": "중위순회",
-      "path": "Attached/중위순회.png"
     }
   ],
   "omittedPaths": [],
