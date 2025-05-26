@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "채용 공고",
+      "path": "채용 공고.md"
+    },
+    {
+      "basename": "읽을 것",
+      "path": "읽을 것.md"
+    },
+    {
+      "basename": "Class Diagram",
+      "path": "Programming/Diagram/Class Diagram.md"
+    },
+    {
+      "basename": "Freezed 패키지",
+      "path": "Programming/Dart/Freezed 패키지.md"
+    },
+    {
+      "basename": "static",
+      "path": "Programming/Dart/static.md"
+    },
+    {
+      "basename": "Dart Extension (Wrapper)",
+      "path": "Programming/Dart/Dart Extension (Wrapper).md"
+    },
+    {
+      "basename": "Dart 문법 기초",
+      "path": "Programming/Dart/Dart 문법 기초.md"
+    },
+    {
+      "basename": "함수형 프로그래밍",
+      "path": "Programming/Dart/함수형 프로그래밍.md"
+    },
+    {
+      "basename": "함수",
+      "path": "Programming/Dart/함수.md"
+    },
+    {
+      "basename": "추상 클래스와 인터페이스",
+      "path": "Programming/Dart/추상 클래스와 인터페이스.md"
+    },
+    {
+      "basename": "비동기 프로그래밍과 동시성, 병렬성",
+      "path": "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md"
+    },
+    {
+      "basename": "생성자",
+      "path": "Programming/Dart/생성자.md"
+    },
+    {
       "basename": "Firebase Emulator",
       "path": "Programming/Flutter/Firebase Emulator.md"
     },
@@ -57,14 +105,6 @@
       "path": "Programming/Flutter/OCP와 Dependency Injection.md"
     },
     {
-      "basename": "읽을 것",
-      "path": "읽을 것.md"
-    },
-    {
-      "basename": "채용 공고",
-      "path": "채용 공고.md"
-    },
-    {
       "basename": "2025-05-02",
       "path": "Daily/2025-05/2025-05-02.md"
     },
@@ -117,10 +157,6 @@
       "path": "Daily/2025-04/2025-04-21.md"
     },
     {
-      "basename": "할거",
-      "path": "할거.md"
-    },
-    {
       "basename": "2025-04-15",
       "path": "Daily/2025-04/2025-04-15.md"
     },
@@ -135,14 +171,6 @@
     {
       "basename": "유용한 패키지",
       "path": "Programming/Dart/유용한 패키지.md"
-    },
-    {
-      "basename": "생성자",
-      "path": "Programming/Dart/생성자.md"
-    },
-    {
-      "basename": "비동기 프로그래밍과 동시성, 병렬성",
-      "path": "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md"
     },
     {
       "basename": "2025-03-11",
@@ -167,38 +195,6 @@
     {
       "basename": "spring-basic-테스트-1",
       "path": "Attached/spring-basic-테스트-1.png"
-    },
-    {
-      "basename": "proxy-factory-6",
-      "path": "Attached/proxy-factory-6.png"
-    },
-    {
-      "basename": "proxy-factory-3",
-      "path": "Attached/proxy-factory-3.png"
-    },
-    {
-      "basename": "proxy-factory-1",
-      "path": "Attached/proxy-factory-1.png"
-    },
-    {
-      "basename": "proxy-14",
-      "path": "Attached/proxy-14.png"
-    },
-    {
-      "basename": "proxy-11",
-      "path": "Attached/proxy-11.png"
-    },
-    {
-      "basename": "bean-validation-1",
-      "path": "Attached/bean-validation-1.png"
-    },
-    {
-      "basename": "aop-2",
-      "path": "Attached/aop-2.png"
-    },
-    {
-      "basename": "aop-6",
-      "path": "Attached/aop-6.png"
     }
   ],
   "omittedPaths": [],

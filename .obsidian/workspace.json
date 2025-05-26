@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Flutter/Firebase Emulator.md",
+                "file": "읽을 것.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firebase Emulator"
+              "title": "읽을 것"
             }
           }
         ]
@@ -192,8 +192,21 @@
   },
   "active": "7857965e554f06c4",
   "lastOpenFiles": [
-    "Programming/Flutter/flutter flavor.md",
+    "채용 공고.md",
+    "할거.md",
+    "Programming/Diagram/Class Diagram.md",
+    "Programming/Dart/Freezed 패키지.md",
+    "Programming/Dart/static.md",
+    "Programming/Dart/Effective Dart - Async.md",
+    "Programming/Dart/Dart Extension (Wrapper).md",
+    "Programming/Dart/Dart 문법 기초.md",
+    "Programming/Dart/함수형 프로그래밍.md",
+    "Programming/Dart/함수.md",
+    "Programming/Dart/추상 클래스와 인터페이스.md",
+    "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md",
+    "Programming/Dart/생성자.md",
     "Programming/Flutter/Firebase Emulator.md",
+    "Programming/Flutter/flutter flavor.md",
     "Programming/Private/스프링/기본/빈 생명주기 콜백.md",
     "Programming/Private/스프링/기본/객체 지향 설계와 스프링.md",
     "Programming/Private/스프링 시큐리티/간단 스프링 시큐리티 가이드.md",
@@ -205,19 +218,6 @@
     "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
     "Programming/Flutter/플러터 빌드와 버전 코드.md",
     "Programming/Flutter/유용한 패키지.md",
-    "Programming/Flutter/OCP와 Dependency Injection.md",
-    "읽을 것.md",
-    "Programming/Flutter/아키텍쳐, 패턴.md",
-    "Programming/Flutter/유용한 위젯.md",
-    "채용 공고.md",
-    "Daily/2025-05/2025-05-02.md",
-    "Daily/2025-04/2025-04-25.md",
-    "Personal/갠프.md",
-    "Daily/2025-04/2025-04-24.md",
-    "Daily/2025-04/2025-04-11.md",
-    "Daily/2025-04/2025-04-08.md",
-    "Daily/2025-04/2025-04-09.md",
-    "Daily/2025-04/2025-04-04.md",
     "Daily/2025-05",
     "Attached/spring-basic-bean-scope-2.png",
     "Attached/spring-basic-테스트-1.png",
