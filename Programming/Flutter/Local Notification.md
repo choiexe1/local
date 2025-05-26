@@ -1,7 +1,8 @@
 #flutter 
 
-## Permission
-`app/src/main/AndroidManifest.xml`
+## AndroidManifest.xml
+`app/src/main/AndroidManifest.xml`에서의 설정 부분
+### Permission
 
 ```
 <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
@@ -14,7 +15,7 @@
 - `VIBRATE`: 앱이 기기를 진동하도록 설정
 - `ACCESS_NOTIFICATION_POLICY`: 앱이 방해 금지 설정을 읽거나 변경하도록 설정
 
-## Receiver
+### Receiver
 
 ```
 <receiver  
@@ -38,3 +39,18 @@ android:name="com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsR
 - `ScheduledNotificationBootReceiver`: 재부팅/앱 재설치/업데이트 및 특정 제조업체별 빠른 부팅 후 알림 일정 재조정`
 - `FlutterLocalNotificationsReceiver`: 알림 즉시 표시 기능
 
+
+## build.gradle.kts
+`android/app/build.gradle.kts`에서의 설정 부분
+
+```kotlin
+android {
+    compileOptions {
+        isCoreLibraryDesugaringEnabled = true
+    }
+}
+
+dependencies {
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.4")
+}
+```
