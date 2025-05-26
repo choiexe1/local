@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Flutter/유용한 패키지.md",
+                "file": "Programming/Flutter/SizedBox와 Container.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "유용한 패키지"
+              "title": "SizedBox와 Container"
             }
           }
         ]
@@ -192,17 +192,17 @@
   },
   "active": "7857965e554f06c4",
   "lastOpenFiles": [
-    "Programming/Flutter/플러터 빌드와 버전 코드.md",
-    "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
-    "Programming/Flutter/build_runner Analysis options.md",
-    "Programming/Flutter/Firebase Emulator.md",
-    "Programming/Flutter/flutter flavor.md",
-    "Programming/Flutter/mounted vs context.mounted.md",
+    "Programming/Flutter/StatefulWidget과 StatelessWidget.md",
     "Programming/Flutter/MVVM 아키텍쳐.md",
+    "Programming/Flutter/mounted vs context.mounted.md",
+    "Programming/Flutter/flutter flavor.md",
+    "Programming/Flutter/Firebase Emulator.md",
+    "Programming/Flutter/build_runner Analysis options.md",
+    "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
+    "Programming/Flutter/플러터 빌드와 버전 코드.md",
+    "Programming/Flutter/유용한 패키지.md",
     "Programming/Flutter/SizedBox와 Container.md",
     "Programming/Flutter/OCP와 Dependency Injection.md",
-    "Programming/Flutter/StatefulWidget과 StatelessWidget.md",
-    "Programming/Flutter/유용한 패키지.md",
     "읽을 것.md",
     "Programming/Flutter/아키텍쳐, 패턴.md",
     "Programming/Flutter/유용한 위젯.md",
