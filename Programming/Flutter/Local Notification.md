@@ -36,4 +36,5 @@ android:name="com.dexterous.flutterlocalnotifications.FlutterLocalNotificationsR
 ```
 - `ScheduledNotificationReceiver`: 예약된 알림의 트리거를 처리
 - `ScheduledNotificationBootReceiver`: 재부팅/앱 재설치/업데이트 및 특정 제조업체별 빠른 부팅 후 알림 일정 재조정`
-- `FlutterLocalNotificationsReceiver`: 알림 즉시 표시 기능 
+- `FlutterLocalNotificationsReceiver`: 알림 즉시 표시 기능
+
