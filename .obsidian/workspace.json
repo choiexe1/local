@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "aa7b6cdd1ddf2a9b",
+    "id": "dc0777b6e916cc97",
     "type": "split",
     "children": [
       {
-        "id": "00ffba4d7123b5a0",
+        "id": "81b2f46d859445be",
         "type": "tabs",
         "children": [
           {
-            "id": "7857965e554f06c4",
+            "id": "d156919eac4832bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Flutter/Local Notification.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Local Notification"
+              "title": "새 탭"
             }
           }
         ]
@@ -27,28 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f51a8eaf1c98698e",
+    "id": "3b81973280d232bd",
     "type": "split",
     "children": [
       {
-        "id": "67ae194348be2028",
+        "id": "07001a0e4e270d33",
         "type": "tabs",
         "children": [
           {
-            "id": "cecbee1d850a613f",
+            "id": "2070b7540ce09050",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
             }
           },
           {
-            "id": "6950a6e616e200b1",
+            "id": "817fd2fa948fbb38",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "85964f9a5639918c",
+            "id": "900e54f9bdc7f1dd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,33 +69,23 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
-          },
-          {
-            "id": "7ef7d9175a0207bc",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5024719238281
+    "width": 300
   },
   "right": {
-    "id": "6672983a5ddb5c32",
+    "id": "525ea932c0bbb878",
     "type": "split",
     "children": [
       {
-        "id": "b3de8e0ad1b49abe",
+        "id": "37ba23d163cc7c38",
         "type": "tabs",
         "children": [
           {
-            "id": "a2836215b41bfdac",
+            "id": "813642589c39a35d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -117,7 +103,7 @@
             }
           },
           {
-            "id": "941e8c86a49064a8",
+            "id": "bdae185a1c2df29b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,7 +116,7 @@
             }
           },
           {
-            "id": "39e71c7a14b22ee3",
+            "id": "58e09984cb1796d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,36 +131,24 @@
             }
           },
           {
-            "id": "8446ce1a3b10c30b",
+            "id": "040288952b590579",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-19 운영팀 회의록.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3-19 운영팀 회의록 의 개요"
-            }
-          },
-          {
-            "id": "b68c1c8599857077",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "title": "개요"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -190,53 +164,6 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7857965e554f06c4",
-  "lastOpenFiles": [
-    "채용 공고.md",
-    "Programming/Flutter/Local Notification.md",
-    "읽을 것.md",
-    "할거.md",
-    "Programming/Diagram/Class Diagram.md",
-    "Programming/Dart/Freezed 패키지.md",
-    "Programming/Dart/static.md",
-    "Programming/Dart/Effective Dart - Async.md",
-    "Programming/Dart/Dart Extension (Wrapper).md",
-    "Programming/Dart/Dart 문법 기초.md",
-    "Programming/Dart/함수형 프로그래밍.md",
-    "Programming/Dart/함수.md",
-    "Programming/Dart/추상 클래스와 인터페이스.md",
-    "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md",
-    "Programming/Dart/생성자.md",
-    "Programming/Flutter/Firebase Emulator.md",
-    "Programming/Flutter/flutter flavor.md",
-    "Programming/Private/스프링/기본/빈 생명주기 콜백.md",
-    "Programming/Private/스프링/기본/객체 지향 설계와 스프링.md",
-    "Programming/Private/스프링 시큐리티/간단 스프링 시큐리티 가이드.md",
-    "Programming/Flutter/StatefulWidget과 StatelessWidget.md",
-    "Programming/Flutter/SizedBox와 Container.md",
-    "Programming/Flutter/MVVM 아키텍쳐.md",
-    "Programming/Flutter/mounted vs context.mounted.md",
-    "Programming/Flutter/build_runner Analysis options.md",
-    "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md",
-    "Daily/2025-05",
-    "Attached/spring-basic-bean-scope-2.png",
-    "Attached/spring-basic-테스트-1.png",
-    "Attached/proxy-factory-6.png",
-    "Attached/proxy-factory-3.png",
-    "Attached/proxy-factory-1.png",
-    "Attached/proxy-14.png",
-    "Attached/proxy-11.png",
-    "Attached/bean-validation-1.png",
-    "Attached/aop-2.png",
-    "Attached/aop-6.png",
-    "Attached",
-    "Programming/Private/자바/중급 2편",
-    "Programming/Private/자바/중급 1편",
-    "Programming/Private/자바/기본",
-    "Programming/Private/스프링/고급",
-    "Programming/Private/스프링/입문",
-    "Programming/Private/스프링/기본",
-    "Programming/Private/스프링/MVC 2편",
-    "Programming/Private/스프링/MVC 1편"
-  ]
+  "active": "d156919eac4832bf",
+  "lastOpenFiles": []
 }
