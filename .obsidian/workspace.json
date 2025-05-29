@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문제 해결 능력과 AGI.md",
+                "file": "주니어 개발자가 생각하는 문제 해결 능력과 AGI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "문제 해결 능력과 AGI"
+              "title": "주니어 개발자가 생각하는 문제 해결 능력과 AGI"
             }
           }
         ],
@@ -189,7 +189,7 @@
   "active": "33547bed11e8c090",
   "lastOpenFiles": [
     "채용 공고.md",
-    "문제 해결 능력과 AGI.md",
+    "주니어 개발자가 생각하는 문제 해결 능력과 AGI.md",
     "읽을 것.md",
     "Programming/Flutter/Local Notification.md"
   ]
