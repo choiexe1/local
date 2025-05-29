@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Local Notification",
-      "path": "Programming/Flutter/Local Notification.md"
+      "basename": "문제 해결 능력과 AGI",
+      "path": "문제 해결 능력과 AGI.md"
     },
     {
       "basename": "채용 공고",
@@ -11,6 +11,10 @@
     {
       "basename": "읽을 것",
       "path": "읽을 것.md"
+    },
+    {
+      "basename": "Local Notification",
+      "path": "Programming/Flutter/Local Notification.md"
     },
     {
       "basename": "Class Diagram",
@@ -195,10 +199,6 @@
     {
       "basename": "spring-basic-bean-scope-2",
       "path": "Attached/spring-basic-bean-scope-2.png"
-    },
-    {
-      "basename": "spring-basic-테스트-1",
-      "path": "Attached/spring-basic-테스트-1.png"
     }
   ],
   "omittedPaths": [],
