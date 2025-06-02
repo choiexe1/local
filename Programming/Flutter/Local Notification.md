@@ -177,3 +177,18 @@ ElevatedButton(
 	child: const Text('Send Noti'),
 ),
 ```
+
+
+## 로컬 알림 응답 정의
+```dart
+await _notificationPlugin.initialize(
+      initializeSetting,
+      onDidReceiveNotificationResponse: (NotificationResponse res) {
+        print(res.actionId);
+      },
+      onDidReceiveBackgroundNotificationResponse: notificationTapBackground,
+    );
+```
+
+- onDidReceiveNotificationResponse: 알림 자체를 누를 때 작동
+- onDidReceiveBackgroudNotificationResponse: 알림 액션을 누를 때 작동

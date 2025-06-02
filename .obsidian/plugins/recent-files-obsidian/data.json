@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Local Notification",
+      "path": "Programming/Flutter/Local Notification.md"
+    },
+    {
       "basename": "주니어 개발자가 생각하는 문제 해결 능력과 AGI",
       "path": "주니어 개발자가 생각하는 문제 해결 능력과 AGI.md"
+    },
+    {
+      "basename": "무제",
+      "path": "무제.md"
     },
     {
       "basename": "채용 공고",
@@ -11,10 +19,6 @@
     {
       "basename": "읽을 것",
       "path": "읽을 것.md"
-    },
-    {
-      "basename": "Local Notification",
-      "path": "Programming/Flutter/Local Notification.md"
     },
     {
       "basename": "Class Diagram",
@@ -195,10 +199,6 @@
     {
       "basename": "해시 알고리즘",
       "path": "Programming/Private/자바/중급 2편/해시 알고리즘.md"
-    },
-    {
-      "basename": "spring-basic-bean-scope-2",
-      "path": "Attached/spring-basic-bean-scope-2.png"
     }
   ],
   "omittedPaths": [],
