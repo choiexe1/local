@@ -5,6 +5,10 @@
       "path": "Lectures/25년 1학기/컴퓨터의 이해/6강 소프트웨어와 정보시스템.md"
     },
     {
+      "basename": "4강 컴퓨터의 입출력",
+      "path": "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md"
+    },
+    {
       "basename": "중간과제물",
       "path": "Lectures/25년 1학기/세계의 정치와 경제/중간과제물.md"
     },
@@ -13,20 +17,16 @@
       "path": "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md"
     },
     {
+      "basename": "5강 보조기억장치와 데이터 저장",
+      "path": "Lectures/25년 1학기/컴퓨터의 이해/5강 보조기억장치와 데이터 저장.md"
+    },
+    {
       "basename": "채용 공고",
       "path": "채용 공고.md"
     },
     {
       "basename": "주니어 개발자가 생각하는 문제 해결 능력과 AGI",
       "path": "Personal/주니어 개발자가 생각하는 문제 해결 능력과 AGI.md"
-    },
-    {
-      "basename": "5강 보조기억장치와 데이터 저장",
-      "path": "Lectures/25년 1학기/컴퓨터의 이해/5강 보조기억장치와 데이터 저장.md"
-    },
-    {
-      "basename": "4강 컴퓨터의 입출력",
-      "path": "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md"
     },
     {
       "basename": "Local Notification",
