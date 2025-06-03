@@ -192,3 +192,12 @@ await _notificationPlugin.initialize(
 
 - onDidReceiveNotificationResponse: 알림 자체를 누를 때 작동
 - onDidReceiveBackgroudNotificationResponse: 알림 액션을 누를 때 작동
+
+
+## onDidReceiveBackgroudNotificationResponse
+
+이건 별도의 Isolate 환경에서 실행되는 함수가 들어가야 함, 따라서 메인 스레드? 프로세스의 메모리에는 접근 불가능하므로 Stream으로 연결해도 데이터 전송이 안됨
+
+따라서 sharedPreferences같은 외부적인? 간접적인 통신을 해야함.
+
+예: 백그라운드때 누르면 저장을 했다가 나중에 켤때 함수를 작동 시킨다던지 등
