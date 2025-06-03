@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lectures/25년 1학기/컴퓨터의 이해/6강 소프트웨어와 정보시스템.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Flutter/Local Notification.md",
+                "file": "Lectures/25년 1학기/컴퓨터의 이해/6강 소프트웨어와 정보시스템.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Local Notification 의 백링크"
+              "title": "6강 소프트웨어와 정보시스템 의 백링크"
             }
           },
           {
@@ -142,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Flutter/Local Notification.md",
+                "file": "Lectures/25년 1학기/컴퓨터의 이해/6강 소프트웨어와 정보시스템.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Local Notification 의 개요"
+              "title": "6강 소프트웨어와 정보시스템 의 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
