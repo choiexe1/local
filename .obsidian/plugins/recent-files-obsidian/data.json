@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "5강 보조기억장치와 데이터 저장",
+      "path": "Lectures/25년 1학기/컴퓨터의 이해/5강 보조기억장치와 데이터 저장.md"
+    },
+    {
+      "basename": "4강 컴퓨터의 입출력",
+      "path": "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md"
+    },
+    {
       "basename": "Local Notification",
       "path": "Programming/Flutter/Local Notification.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2025-04-10",
       "path": "Daily/2025-04/2025-04-10.md"
-    },
-    {
-      "basename": "해시 알고리즘 2",
-      "path": "Programming/Private/자바/중급 2편/해시 알고리즘 2.md"
-    },
-    {
-      "basename": "해시 알고리즘",
-      "path": "Programming/Private/자바/중급 2편/해시 알고리즘.md"
     }
   ],
   "omittedPaths": [],
