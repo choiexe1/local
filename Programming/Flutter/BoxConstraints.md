@@ -7,7 +7,11 @@
 - 최소 높이
 - 최대 높이
 
-BoxConstraints를 이해하기 위해서는 플러터의 핵심 규칙인 "Constraints go down. Sizes go up. Parent sets position."를 이해하는 것이 먼저다.
+제약 조건을 이해하기 위해서는 다음의 플러터 핵심 규칙을 이해하는 것이 먼저다.
+
+> Constraints go down. Sizes go up. Parent sets position.
+ 제약 조건은 아래로, 크기는 위로, 부모는 위치를 지정한다.
+
 
 ## Constraints go down. Sizes go up. Parent sets position.
 
@@ -28,4 +32,11 @@ BoxConstraints를 이해하기 위해서는 플러터의 핵심 규칙인 "Const
 일반적으로 제약 조건 처리 방식에 따라 다음과 같은 세 가지 종류의 박스가 있다.
 
 - 가능한 한 크게 확장하려는 박스: 자식 위젯이 없고, 너비가 지정되지 않은 `Container`, `ListView`에서 사용되는 박스
-- 
+- 자식과 같은 크기가 되려는 박스: `Transform` 및 `Opacity`에서 사용되는 박스
+- 특정 크기가 되려는 박스: 예를 들어 `Image`, `Text`에서 사용되는 박스
+
+이 외에도 `Column`, `Row`와 같은 유연한 박스는 주어진 제약 조건에 따라 다르게 동작한다.
+
+### Tight 
+정확한 크기를 제공하는 제약 조건으로 최소 너비 및 최대 너비, 최소 높이 및 최대 크기가 서로 동일한 제약 조건이다. 자식이 없는 `Container`의 경우 화면과 정확히 같은 크기만큼 확장하려고 하는데 이는 Tight한 제약 조건을 전달하는 방식이다.
+
