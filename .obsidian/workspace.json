@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "81b2f46d859445be",
+        "id": "66cd075935d1a2ae",
         "type": "tabs",
         "children": [
           {
-            "id": "b5f46a63a903b47a",
+            "id": "eafbee27cf68f33d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/고도엔진과 소프트웨어 개발.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "고도엔진과 소프트웨어 개발"
+              "title": "새 탭"
             }
           }
         ]
@@ -172,10 +168,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b5f46a63a903b47a",
+  "active": "eafbee27cf68f33d",
   "lastOpenFiles": [
-    "Lectures/25년 1학기/컴퓨터의 이해/7강 데이터베이스.md",
     "Personal/고도엔진과 소프트웨어 개발.md",
+    "Lectures/25년 1학기/컴퓨터의 이해/7강 데이터베이스.md",
     "채용 공고.md",
     "Lectures/25년 1학기/컴퓨터의 이해/6강 소프트웨어와 정보시스템.md",
     "Lectures/25년 1학기/컴퓨터의 이해/5강 보조기억장치와 데이터 저장.md",
