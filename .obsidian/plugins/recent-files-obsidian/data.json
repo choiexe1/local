@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Local Notification",
+      "path": "Programming/Flutter/Local Notification.md"
+    },
+    {
       "basename": "BoxConstraints",
       "path": "Programming/Flutter/BoxConstraints.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "주니어 개발자가 생각하는 문제 해결 능력과 AGI",
       "path": "Personal/주니어 개발자가 생각하는 문제 해결 능력과 AGI.md"
-    },
-    {
-      "basename": "Local Notification",
-      "path": "Programming/Flutter/Local Notification.md"
     },
     {
       "basename": "Class Diagram",
