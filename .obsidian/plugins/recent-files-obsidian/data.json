@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Camera 패키지의 이슈들",
+      "path": "Programming/Flutter/Camera 패키지의 이슈들.md"
+    },
+    {
       "basename": "Firebase Emulator",
       "path": "Programming/Flutter/Firebase Emulator.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2025-04-14",
       "path": "Daily/2025-04/2025-04-14.md"
-    },
-    {
-      "basename": "직렬화 (Serialization)",
-      "path": "Programming/Dart/직렬화 (Serialization).md"
     }
   ],
   "omittedPaths": [],

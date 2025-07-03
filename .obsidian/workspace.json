@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Flutter/Firebase Emulator.md",
+                "file": "Programming/Flutter/Camera 패키지의 이슈들.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firebase Emulator"
+              "title": "Camera 패키지의 이슈들"
             }
           }
         ]
@@ -174,6 +174,8 @@
   },
   "active": "eafbee27cf68f33d",
   "lastOpenFiles": [
+    "Programming/Flutter/Firebase Emulator.md",
+    "Programming/Flutter/Camera 패키지의 이슈들.md",
     "Programming/Flutter/Local Notification.md",
     "Programming/Flutter/mounted vs context.mounted.md",
     "Programming/Flutter/BoxConstraints.md",
