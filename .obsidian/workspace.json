@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Flutter/Camera 패키지 플랫폼별 이슈 정리.md",
-                "mode": "preview",
+                "file": "Programming/Flutter/didChangeAppLifecycleState.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Camera 패키지 플랫폼별 이슈 정리"
+              "title": "didChangeAppLifecycleState"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "eafbee27cf68f33d",
   "lastOpenFiles": [
-    "Programming/Flutter/Firebase Emulator.md",
     "Programming/Flutter/Camera 패키지 플랫폼별 이슈 정리.md",
+    "Programming/Flutter/didChangeAppLifecycleState.md",
+    "Programming/Flutter/Firebase Emulator.md",
     "Programming/Flutter/Local Notification.md",
     "Programming/Flutter/mounted vs context.mounted.md",
     "Programming/Flutter/BoxConstraints.md",
