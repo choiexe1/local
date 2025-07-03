@@ -62,8 +62,14 @@ class _MyLifecycleObserverState extends State<MyLifecycleObserver>
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-      body: Center(child: Text('버튼을 눌러 앱을 백그라운드로')),
+      body: Center(child: Text('기기의 홈 버튼을 눌러 앱을 백그라운드로')),
     );
   }
 }
 ```
+
+## 주요 사용 사례
+- 리소스 관리: 앱이 `paused` 상태일 때 비디오, 오디오, 애니메이션 등을 중지하고 `resumed` 상태일 때 다시 시작하여 배터리와 시스템 리소스 절약하기
+- 데이터 저장: 앱이 백그라운드로 전환될 때(paused) 사용자의 작업 내용을 저장하여 데이터 유실을 방지
+- 상태 업데이트: 앱이 다시 `resumed` 상태가 되었을 때 서버로부터 최신 데이터를 가져오거나 네트워크 연결을 다시 설정
+- 카메라/마이크 제어: 앱이 `paused` 상태일 때 카메라나 마이크 같은 하드웨어 리소스를 해제
