@@ -5,6 +5,14 @@
       "path": "Programming/Blockchain/Blockchain Core Concept.md"
     },
     {
+      "basename": "노드와 연결, 연결 리스트",
+      "path": "Programming/Private/자바/중급 2편/노드와 연결, 연결 리스트.md"
+    },
+    {
+      "basename": "2025-03-21",
+      "path": "Daily/2025-03/2025-03-21.md"
+    },
+    {
       "basename": "Web3 개요",
       "path": "Programming/Blockchain/Web3 개요.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2025-04-22",
       "path": "Daily/2025-04/2025-04-22.md"
-    },
-    {
-      "basename": "커밋 컨벤션",
-      "path": "Programming/Git/커밋 컨벤션.md"
-    },
-    {
-      "basename": "2025-04-16",
-      "path": "Daily/2025-04/2025-04-16.md"
     }
   ],
   "omittedPaths": [],
