@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Web3",
-      "path": "Programming/Blockchain/Web3.md"
+      "basename": "Blockchain Core Concept",
+      "path": "Programming/Blockchain/Blockchain Core Concept.md"
+    },
+    {
+      "basename": "Web3 개요",
+      "path": "Programming/Blockchain/Web3 개요.md"
     },
     {
       "basename": "유용한 패키지",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-04-16",
       "path": "Daily/2025-04/2025-04-16.md"
-    },
-    {
-      "basename": "2025-04-21",
-      "path": "Daily/2025-04/2025-04-21.md"
     }
   ],
   "omittedPaths": [],

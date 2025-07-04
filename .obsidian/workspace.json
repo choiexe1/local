@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Blockchain/Web3.md",
-                "mode": "preview",
+                "file": "Programming/Blockchain/Blockchain Core Concept.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web3"
+              "title": "Blockchain Core Concept"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "eafbee27cf68f33d",
   "lastOpenFiles": [
+    "Programming/Blockchain/Web3 개요.md",
+    "Programming/Blockchain/Blockchain Core Concept.md",
     "Programming/Flutter/유용한 패키지.md",
-    "Programming/Blockchain/Web3.md",
     "Programming/Blockchain",
     "Programming/Flutter/didChangeAppLifecycleState.md",
     "Programming/Flutter/Camera 패키지 플랫폼별 이슈 정리.md",
