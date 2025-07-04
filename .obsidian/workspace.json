@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Flutter/didChangeAppLifecycleState.md",
+                "file": "Programming/Blockchain/Web3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "didChangeAppLifecycleState"
+              "title": "Web3"
             }
           }
         ]
@@ -174,8 +174,11 @@
   },
   "active": "eafbee27cf68f33d",
   "lastOpenFiles": [
-    "Programming/Flutter/Camera 패키지 플랫폼별 이슈 정리.md",
+    "Programming/Flutter/유용한 패키지.md",
+    "Programming/Blockchain/Web3.md",
+    "Programming/Blockchain",
     "Programming/Flutter/didChangeAppLifecycleState.md",
+    "Programming/Flutter/Camera 패키지 플랫폼별 이슈 정리.md",
     "Programming/Flutter/Firebase Emulator.md",
     "Programming/Flutter/Local Notification.md",
     "Programming/Flutter/mounted vs context.mounted.md",
