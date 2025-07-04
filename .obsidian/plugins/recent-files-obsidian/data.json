@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Blockchain Core Concept",
-      "path": "Programming/Blockchain/Blockchain Core Concept.md"
+      "basename": "코인과 토큰의 주요 차이점",
+      "path": "Programming/Blockchain/코인과 토큰의 주요 차이점.md"
     },
     {
       "basename": "블록체인 시스템의 보상 체계",
       "path": "Programming/Blockchain/블록체인 시스템의 보상 체계.md"
+    },
+    {
+      "basename": "Blockchain Core Concept",
+      "path": "Programming/Blockchain/Blockchain Core Concept.md"
     },
     {
       "basename": "커리어 포트폴리오",
@@ -195,10 +199,6 @@
     {
       "basename": "2025-04-24",
       "path": "Daily/2025-04/2025-04-24.md"
-    },
-    {
-      "basename": "2025-04-11",
-      "path": "Daily/2025-04/2025-04-11.md"
     }
   ],
   "omittedPaths": [],
