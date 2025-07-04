@@ -23,7 +23,8 @@ class _MyLifecycleObserverState extends State<MyLifecycleObserver>
   @override
   void initState() {
     super.initState();
-    // Observer를 등록합니다.
+		
+    // Observer를 등록
     WidgetsBinding.instance.addObserver(this);
     print("initState: Observer registered.");
   }
