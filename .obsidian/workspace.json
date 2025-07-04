@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Blockchain/Blockchain Core Concept.md",
+                "file": "Programming/Blockchain/Web3 개요.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blockchain Core Concept"
+              "title": "Web3 개요"
             }
           }
         ]
@@ -174,9 +174,9 @@
   },
   "active": "eafbee27cf68f33d",
   "lastOpenFiles": [
+    "Programming/Blockchain/Blockchain Core Concept.md",
     "Programming/Blockchain/코인과 토큰의 주요 차이점.md",
     "Programming/Blockchain/블록체인 시스템의 보상 체계.md",
-    "Programming/Blockchain/Blockchain Core Concept.md",
     "Personal/커리어 포트폴리오.md",
     "Personal/n8n.md",
     "Personal/zed 세팅.md",
