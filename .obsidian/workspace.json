@@ -174,8 +174,9 @@
   },
   "active": "eafbee27cf68f33d",
   "lastOpenFiles": [
-    "Programming/Blockchain/Web3 개요.md",
+    "Programming/Flutter/GetX 프레임워크.md",
     "Programming/Blockchain/Blockchain Core Concept.md",
+    "Programming/Blockchain/Web3 개요.md",
     "Programming/Blockchain/블록체인 시스템의 보상 체계.md",
     "Programming/Blockchain/코인과 토큰의 주요 차이점.md",
     "Personal/커리어 포트폴리오.md",
@@ -199,7 +200,6 @@
     "Programming/Flutter/mounted vs context.mounted.md",
     "Programming/Flutter/BoxConstraints.md",
     "Lectures/25년 1학기/컴퓨터의 이해/7강 데이터베이스.md",
-    "채용 공고.md",
-    "Lectures/25년 1학기/컴퓨터의 이해/6강 소프트웨어와 정보시스템.md"
+    "채용 공고.md"
   ]
 }
