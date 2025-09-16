@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "함수형 프로그래밍",
+      "path": "Programming/Dart/함수형 프로그래밍.md"
+    },
+    {
+      "basename": "테스트 메서드",
+      "path": "Programming/Dart/테스트 메서드.md"
+    },
+    {
+      "basename": "파일 조작, 다양한 파일 형식",
+      "path": "Programming/Dart/파일 조작, 다양한 파일 형식.md"
+    },
+    {
+      "basename": "static",
+      "path": "Programming/Dart/static.md"
+    },
+    {
+      "basename": "index",
+      "path": "Programming/Private/스프링/index.md"
+    },
+    {
+      "basename": "고도엔진과 소프트웨어 개발",
+      "path": "Personal/고도엔진과 소프트웨어 개발.md"
+    },
+    {
+      "basename": "transaction-13",
+      "path": "Attached/transaction-13.png"
+    },
+    {
+      "basename": "spring-start-aop-3",
+      "path": "Attached/spring-start-aop-3.png"
+    },
+    {
+      "basename": "spring-start-01",
+      "path": "Attached/spring-start-01.png"
+    },
+    {
+      "basename": "spring-mvc1-servlet-2",
+      "path": "Attached/spring-mvc1-servlet-2.png"
+    },
+    {
+      "basename": "spring-interceptor-2",
+      "path": "Attached/spring-interceptor-2.png"
+    },
+    {
+      "basename": "proxy-factory-4",
+      "path": "Attached/proxy-factory-4.png"
+    },
+    {
+      "basename": "proxy-12",
+      "path": "Attached/proxy-12.png"
+    },
+    {
+      "basename": "pointcut-designater-1",
+      "path": "Attached/pointcut-designater-1.png"
+    },
+    {
       "basename": "Blockchain Core Concept",
       "path": "Programming/Blockchain/Blockchain Core Concept.md"
     },
@@ -35,10 +91,6 @@
     {
       "basename": "주니어 개발자가 생각하는 문제 해결 능력과 AGI",
       "path": "Personal/주니어 개발자가 생각하는 문제 해결 능력과 AGI.md"
-    },
-    {
-      "basename": "고도엔진과 소프트웨어 개발",
-      "path": "Personal/고도엔진과 소프트웨어 개발.md"
     },
     {
       "basename": "과제",
@@ -113,20 +165,12 @@
       "path": "Programming/Dart/Freezed 패키지.md"
     },
     {
-      "basename": "static",
-      "path": "Programming/Dart/static.md"
-    },
-    {
       "basename": "Dart Extension (Wrapper)",
       "path": "Programming/Dart/Dart Extension (Wrapper).md"
     },
     {
       "basename": "Dart 문법 기초",
       "path": "Programming/Dart/Dart 문법 기초.md"
-    },
-    {
-      "basename": "함수형 프로그래밍",
-      "path": "Programming/Dart/함수형 프로그래밍.md"
     },
     {
       "basename": "함수",
@@ -155,46 +199,6 @@
     {
       "basename": "객체 지향 설계와 스프링",
       "path": "Programming/Private/스프링/기본/객체 지향 설계와 스프링.md"
-    },
-    {
-      "basename": "간단 스프링 시큐리티 가이드",
-      "path": "Programming/Private/스프링 시큐리티/간단 스프링 시큐리티 가이드.md"
-    },
-    {
-      "basename": "StatefulWidget과 StatelessWidget",
-      "path": "Programming/Flutter/StatefulWidget과 StatelessWidget.md"
-    },
-    {
-      "basename": "SizedBox와 Container",
-      "path": "Programming/Flutter/SizedBox와 Container.md"
-    },
-    {
-      "basename": "MVVM 아키텍쳐",
-      "path": "Programming/Flutter/MVVM 아키텍쳐.md"
-    },
-    {
-      "basename": "build_runner Analysis options",
-      "path": "Programming/Flutter/build_runner Analysis options.md"
-    },
-    {
-      "basename": "플러터 예제 어플리케이션 구조 분석",
-      "path": "Programming/Flutter/플러터 예제 어플리케이션 구조 분석.md"
-    },
-    {
-      "basename": "플러터 빌드와 버전 코드",
-      "path": "Programming/Flutter/플러터 빌드와 버전 코드.md"
-    },
-    {
-      "basename": "OCP와 Dependency Injection",
-      "path": "Programming/Flutter/OCP와 Dependency Injection.md"
-    },
-    {
-      "basename": "2025-05-02",
-      "path": "Daily/2025-05/2025-05-02.md"
-    },
-    {
-      "basename": "2025-04-25",
-      "path": "Daily/2025-04/2025-04-25.md"
     }
   ],
   "omittedPaths": [],

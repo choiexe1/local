@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Blockchain/Blockchain Core Concept.md",
-                "mode": "preview",
+                "file": "Programming/Dart/함수형 프로그래밍.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blockchain Core Concept"
+              "title": "함수형 프로그래밍"
+            }
+          },
+          {
+            "id": "04b34aa81394c90f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.10"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -172,10 +186,23 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "eafbee27cf68f33d",
+  "active": "04b34aa81394c90f",
   "lastOpenFiles": [
-    "Programming/Flutter/GetX 프레임워크.md",
+    "Programming/Dart/테스트 메서드.md",
+    "Programming/Dart/파일 조작, 다양한 파일 형식.md",
+    "Programming/Dart/static.md",
+    "Programming/Private/스프링/index.md",
+    "Personal/고도엔진과 소프트웨어 개발.md",
+    "Attached/transaction-13.png",
+    "Attached/spring-start-aop-3.png",
+    "Attached/spring-start-01.png",
+    "Attached/spring-mvc1-servlet-2.png",
+    "Attached/spring-interceptor-2.png",
+    "Attached/proxy-factory-4.png",
+    "Attached/proxy-12.png",
+    "Attached/pointcut-designater-1.png",
     "Programming/Blockchain/Blockchain Core Concept.md",
+    "Programming/Flutter/GetX 프레임워크.md",
     "Programming/Blockchain/Web3 개요.md",
     "Programming/Blockchain/블록체인 시스템의 보상 체계.md",
     "Programming/Blockchain/코인과 토큰의 주요 차이점.md",
@@ -184,7 +211,6 @@
     "Personal/zed 세팅.md",
     "Personal/Flutter 관련 아티클 모음.md",
     "Personal/주니어 개발자가 생각하는 문제 해결 능력과 AGI.md",
-    "Personal/고도엔진과 소프트웨어 개발.md",
     "Personal/갠프.md",
     "Personal/과제.md",
     "Programming/Diagram/Class Diagram.md",
@@ -196,10 +222,6 @@
     "Programming/Flutter/didChangeAppLifecycleState.md",
     "Programming/Flutter/Camera 패키지 플랫폼별 이슈 정리.md",
     "Programming/Flutter/Firebase Emulator.md",
-    "Programming/Flutter/Local Notification.md",
-    "Programming/Flutter/mounted vs context.mounted.md",
-    "Programming/Flutter/BoxConstraints.md",
-    "Lectures/25년 1학기/컴퓨터의 이해/7강 데이터베이스.md",
-    "채용 공고.md"
+    "Programming/Flutter/Local Notification.md"
   ]
 }
