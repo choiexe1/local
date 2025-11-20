@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "04b34aa81394c90f",
+            "id": "a583211fa2e4dbe2",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.9.10"
+                "currentVersion": "1.9.12"
               },
               "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.10"
+              "title": "릴리즈 노트 1.9.12"
             }
           }
         ],
@@ -186,7 +186,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "04b34aa81394c90f",
+  "active": "a583211fa2e4dbe2",
   "lastOpenFiles": [
     "Programming/Dart/테스트 메서드.md",
     "Programming/Dart/파일 조작, 다양한 파일 형식.md",
