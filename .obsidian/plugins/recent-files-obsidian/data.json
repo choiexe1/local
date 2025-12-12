@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "E-KYC",
+      "path": "Personal/E-KYC.md"
+    },
+    {
       "basename": "함수형 프로그래밍",
       "path": "Programming/Dart/함수형 프로그래밍.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "빈 생명주기 콜백",
       "path": "Programming/Private/스프링/기본/빈 생명주기 콜백.md"
-    },
-    {
-      "basename": "객체 지향 설계와 스프링",
-      "path": "Programming/Private/스프링/기본/객체 지향 설계와 스프링.md"
     }
   ],
   "omittedPaths": [],
