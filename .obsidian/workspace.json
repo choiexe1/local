@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "66cd075935d1a2ae",
+        "id": "05cf2de2b02ffea8",
         "type": "tabs",
         "children": [
           {
-            "id": "eafbee27cf68f33d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Dart/함수형 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "함수형 프로그래밍"
-            }
-          },
-          {
-            "id": "a583211fa2e4dbe2",
+            "id": "8c7adac31724c915",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.9.12"
+                "currentVersion": "1.10.3"
               },
               "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.9.12"
+              "title": "릴리즈 노트 1.10.3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,8 +171,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a583211fa2e4dbe2",
+  "active": "8c7adac31724c915",
   "lastOpenFiles": [
+    "Programming/Dart/함수형 프로그래밍.md",
     "Programming/Dart/테스트 메서드.md",
     "Programming/Dart/파일 조작, 다양한 파일 형식.md",
     "Programming/Dart/static.md",
@@ -221,7 +207,6 @@
     "Programming/Blockchain",
     "Programming/Flutter/didChangeAppLifecycleState.md",
     "Programming/Flutter/Camera 패키지 플랫폼별 이슈 정리.md",
-    "Programming/Flutter/Firebase Emulator.md",
-    "Programming/Flutter/Local Notification.md"
+    "Programming/Flutter/Firebase Emulator.md"
   ]
 }
