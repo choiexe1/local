@@ -46,4 +46,21 @@
 # 높은 학습률로 시작
 - 일반적인 학습의 경우, 낮은 Epoch에서부터 학습률이 0.001부터 0.01로 천천히 증가 (Warm Up)한다.
 - 사전 학습된 모델로 전이 학습(Transfer Learning)을 하게 될 때는 높은 학습률로 시작하는 것이 도움이 될 수 있다.
-- YOLO는 `warmup_epochs=0`과 `lr0=0.01`
+
+```python
+model.train(
+	data='korean_id.yaml', 
+	epochs=100, 
+	warmup_epochs=0, # warmup 비활성화 
+	lr0=0.01, # 처음부터 높은 학습률 
+	pretrained=True # 사전 학습 가중치 사용 
+)
+```
+
+> [!tip] Why?
+> - 모델이 이미 기본적인 특징 추출을 학습(Pretrained)했기 때문 
+> - 낮은 학습률로 시작하면 너무 느리게 적응함
+> - 이미 똑똑한 모델이므로, 빠르게 새 데이터에 맞출 수 있음
+
+# 이미지 타일링
+- 해상도가 높은 이미지를 작은 해상도로 변환하면 

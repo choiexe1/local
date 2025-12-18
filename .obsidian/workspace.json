@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/YOLO 모델 평가.md",
+                "file": "Personal/YOLO 모델 평가와 미세 조정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YOLO 모델 평가"
+              "title": "YOLO 모델 평가와 미세 조정"
             }
           }
         ]
@@ -175,7 +175,7 @@
   },
   "active": "e3f31d79be77f62f",
   "lastOpenFiles": [
-    "Personal/YOLO 모델 평가.md",
+    "Personal/YOLO 모델 평가와 미세 조정.md",
     "Personal/E-KYC.md",
     "Programming/Dart/함수형 프로그래밍.md",
     "Programming/Dart/테스트 메서드.md",
