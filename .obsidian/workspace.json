@@ -11,10 +11,14 @@
             "id": "e3f31d79be77f62f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal/모델 평가.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "모델 평가"
             }
           }
         ]
@@ -171,6 +175,7 @@
   },
   "active": "e3f31d79be77f62f",
   "lastOpenFiles": [
+    "Personal/모델 평가.md",
     "Personal/E-KYC.md",
     "Programming/Dart/함수형 프로그래밍.md",
     "Programming/Dart/테스트 메서드.md",
@@ -204,7 +209,6 @@
     "Daily/2025-03/2025-03-21.md",
     "Programming/Flutter/유용한 패키지.md",
     "Programming/Blockchain",
-    "Programming/Flutter/didChangeAppLifecycleState.md",
-    "Programming/Flutter/Camera 패키지 플랫폼별 이슈 정리.md"
+    "Programming/Flutter/didChangeAppLifecycleState.md"
   ]
 }

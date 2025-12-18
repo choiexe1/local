@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "모델 평가",
+      "path": "Personal/모델 평가.md"
+    },
+    {
       "basename": "E-KYC",
       "path": "Personal/E-KYC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "flutter flavor",
       "path": "Programming/Flutter/flutter flavor.md"
-    },
-    {
-      "basename": "빈 생명주기 콜백",
-      "path": "Programming/Private/스프링/기본/빈 생명주기 콜백.md"
     }
   ],
   "omittedPaths": [],
