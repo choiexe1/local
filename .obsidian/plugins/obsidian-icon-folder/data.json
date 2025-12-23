@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBadgeDollarSign",
       "LiPictureInPicture2",
       "LiSwatchBook",
       "🧰",
-      "LiBug",
-      "LiAsteriskSquare"
+      "LiBug"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Daily": "LiBookText",
   "Personal": "LiAsteriskSquare",
   "Trouble Shooting": "LiBug",
-  "Attached": "LiPictureInPicture2"
+  "Attached": "LiPictureInPicture2",
+  "Organization": "LiBadgeDollarSign"
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/2025-12-23 회의.md",
-                "mode": "source",
+                "file": "Organization/회의/2025-12-23 SMBPIE GLOBAL 회의.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-23 회의"
+              "title": "2025-12-23 SMBPIE GLOBAL 회의"
             }
           }
         ]
@@ -175,20 +175,30 @@
   },
   "active": "ec6f9cfbce0da9a6",
   "lastOpenFiles": [
-    "Daily/2025-04/2025-04-11.md",
-    "Personal/2025-12-23 회의.md",
-    "Personal/YOLO 모델 평가와 미세 조정.md",
-    "Personal/n8n.md",
-    "Personal/Flutter 관련 아티클 모음.md",
-    "Personal/커리어 포트폴리오.md",
+    "Organization/회의",
+    "Organization",
     "Personal/문제 해결 능력과 AGI.md",
-    "Programming/Blockchain/블록체인 시스템의 보상 체계.md",
-    "Personal/zed 세팅.md",
     "Personal/E-KYC.md",
+    "Personal/커리어 포트폴리오.md",
+    "Personal/Flutter 관련 아티클 모음.md",
+    "Personal/n8n.md",
+    "Programming/Blockchain/코인과 토큰의 주요 차이점.md",
+    "Programming/Blockchain/Blockchain Core Concept.md",
+    "Programming/Blockchain/Web3 개요.md",
+    "Programming/Dart/함수.md",
+    "Programming/Dart/추상 클래스와 인터페이스.md",
+    "Programming/Dart/테스트 메서드.md",
+    "Programming/Dart/직렬화 (Serialization).md",
+    "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md",
+    "Programming/Dart/생성자.md",
+    "Programming/Blockchain/블록체인 시스템의 보상 체계.md",
+    "Organization/회의/2025-12-23 SMBPIE GLOBAL 회의.md",
+    "Daily/2025-04/2025-04-11.md",
+    "Personal/YOLO 모델 평가와 미세 조정.md",
+    "Personal/zed 세팅.md",
     "Personal/고도엔진과 소프트웨어 개발.md",
     "Personal/과제.md",
     "Programming/Dart/함수형 프로그래밍.md",
-    "Programming/Dart/테스트 메서드.md",
     "Programming/Dart/파일 조작, 다양한 파일 형식.md",
     "Programming/Dart/static.md",
     "Programming/Private/스프링/index.md",
@@ -200,15 +210,6 @@
     "Attached/proxy-factory-4.png",
     "Attached/proxy-12.png",
     "Attached/pointcut-designater-1.png",
-    "Programming/Blockchain/Blockchain Core Concept.md",
-    "Programming/Flutter/GetX 프레임워크.md",
-    "Programming/Blockchain/Web3 개요.md",
-    "Programming/Blockchain/코인과 토큰의 주요 차이점.md",
-    "Personal/갠프.md",
-    "Programming/Diagram/Class Diagram.md",
-    "Programming/Blockchain/Blockchain Network.md",
-    "Programming/Private/자바/중급 2편/노드와 연결, 연결 리스트.md",
-    "Daily/2025-03/2025-03-21.md",
     "Programming/Blockchain"
   ]
 }
