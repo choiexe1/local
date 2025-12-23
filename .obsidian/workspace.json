@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/YOLO 모델 평가와 미세 조정.md",
+                "file": "Personal/2025-12-23 회의.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YOLO 모델 평가와 미세 조정"
+              "title": "2025-12-23 회의"
             }
           }
         ]
@@ -173,13 +173,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2070b7540ce09050",
+  "active": "36ce6c6da6b9a7ff",
   "lastOpenFiles": [
+    "Personal/YOLO 모델 평가와 미세 조정.md",
+    "Personal/2025-12-23 회의.md",
     "Personal/n8n.md",
     "Personal/Flutter 관련 아티클 모음.md",
     "Personal/커리어 포트폴리오.md",
     "Personal/문제 해결 능력과 AGI.md",
-    "Personal/YOLO 모델 평가와 미세 조정.md",
     "Programming/Blockchain/블록체인 시스템의 보상 체계.md",
     "Personal/zed 세팅.md",
     "Personal/E-KYC.md",
@@ -208,7 +209,6 @@
     "Programming/Private/자바/중급 2편/노드와 연결, 연결 리스트.md",
     "Daily/2025-03/2025-03-21.md",
     "Programming/Flutter/유용한 패키지.md",
-    "Programming/Blockchain",
-    "Programming/Flutter/didChangeAppLifecycleState.md"
+    "Programming/Blockchain"
   ]
 }
