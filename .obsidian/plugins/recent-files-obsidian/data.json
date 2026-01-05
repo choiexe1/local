@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "암호화폐 거래소 도메인 지식 학습",
+      "path": "Personal/암호화폐 거래소 도메인 지식 학습.md"
+    },
+    {
       "basename": "2025-12-23 SMBPIE GLOBAL 회의",
       "path": "Organization/회의/2025-12-23 SMBPIE GLOBAL 회의.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Freezed 패키지",
       "path": "Programming/Dart/Freezed 패키지.md"
-    },
-    {
-      "basename": "Dart Extension (Wrapper)",
-      "path": "Programming/Dart/Dart Extension (Wrapper).md"
     }
   ],
   "omittedPaths": [],
