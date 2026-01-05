@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/zed 세팅.md",
+                "file": "Personal/YOLO 모델 평가와 미세 조정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zed 세팅"
+              "title": "YOLO 모델 평가와 미세 조정"
             }
           }
         ]
@@ -175,12 +175,14 @@
   },
   "active": "ec6f9cfbce0da9a6",
   "lastOpenFiles": [
-    "Personal/YOLO 모델 평가와 미세 조정.md",
-    "Personal/Flutter 관련 아티클 모음.md",
-    "Personal/n8n.md",
+    "Personal/고도엔진과 소프트웨어 개발.md",
     "Personal/E-KYC.md",
-    "Personal/커리어 포트폴리오.md",
     "Personal/문제 해결 능력과 AGI.md",
+    "Personal/커리어 포트폴리오.md",
+    "Personal/n8n.md",
+    "Personal/Flutter 관련 아티클 모음.md",
+    "Personal/YOLO 모델 평가와 미세 조정.md",
+    "Personal/zed 세팅.md",
     "Organization/회의/2025-12-23 SMBPIE GLOBAL 회의.md",
     "Personal/암호화폐 거래소 도메인 지식 학습.md",
     "Organization/회의",
@@ -196,8 +198,6 @@
     "Programming/Dart/생성자.md",
     "Programming/Blockchain/블록체인 시스템의 보상 체계.md",
     "Daily/2025-04/2025-04-11.md",
-    "Personal/zed 세팅.md",
-    "Personal/고도엔진과 소프트웨어 개발.md",
     "Personal/과제.md",
     "Programming/Dart/함수형 프로그래밍.md",
     "Programming/Dart/파일 조작, 다양한 파일 형식.md",

@@ -1,32 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "zed 세팅",
-      "path": "Personal/zed 세팅.md"
-    },
-    {
       "basename": "YOLO 모델 평가와 미세 조정",
       "path": "Personal/YOLO 모델 평가와 미세 조정.md"
     },
     {
-      "basename": "Flutter 관련 아티클 모음",
-      "path": "Personal/Flutter 관련 아티클 모음.md"
-    },
-    {
-      "basename": "n8n",
-      "path": "Personal/n8n.md"
+      "basename": "고도엔진과 소프트웨어 개발",
+      "path": "Personal/고도엔진과 소프트웨어 개발.md"
     },
     {
       "basename": "E-KYC",
       "path": "Personal/E-KYC.md"
     },
     {
+      "basename": "문제 해결 능력과 AGI",
+      "path": "Personal/문제 해결 능력과 AGI.md"
+    },
+    {
       "basename": "커리어 포트폴리오",
       "path": "Personal/커리어 포트폴리오.md"
     },
     {
-      "basename": "문제 해결 능력과 AGI",
-      "path": "Personal/문제 해결 능력과 AGI.md"
+      "basename": "n8n",
+      "path": "Personal/n8n.md"
+    },
+    {
+      "basename": "Flutter 관련 아티클 모음",
+      "path": "Personal/Flutter 관련 아티클 모음.md"
+    },
+    {
+      "basename": "zed 세팅",
+      "path": "Personal/zed 세팅.md"
     },
     {
       "basename": "2025-12-23 SMBPIE GLOBAL 회의",
@@ -75,10 +79,6 @@
     {
       "basename": "2025-04-11",
       "path": "Daily/2025-04/2025-04-11.md"
-    },
-    {
-      "basename": "고도엔진과 소프트웨어 개발",
-      "path": "Personal/고도엔진과 소프트웨어 개발.md"
     },
     {
       "basename": "함수형 프로그래밍",
