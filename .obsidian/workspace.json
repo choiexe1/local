@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "회의"
             }
+          },
+          {
+            "id": "c9a3e218a005e59b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +187,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "98143f4e9fac1b5e",
+  "active": "c9a3e218a005e59b",
   "lastOpenFiles": [
     "Personal/YOLO 모델 평가와 미세 조정.md",
     "회의.md",
