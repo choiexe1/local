@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "요청 컨텍스트 확장 기능 정리",
+      "path": "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md"
+    },
+    {
+      "basename": "요청 라이프사이클",
+      "path": "Programming/ElysiaJS/요청 라이프사이클.md"
+    },
+    {
       "basename": "회의",
       "path": "회의.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "중간과제물",
       "path": "Lectures/25년 1학기/세계의 정치와 경제/중간과제물.md"
-    },
-    {
-      "basename": "2강 세계화의 역사와 현실",
-      "path": "Lectures/25년 1학기/세계의 정치와 경제/2강 세계화의 역사와 현실.md"
-    },
-    {
-      "basename": "Freezed 패키지",
-      "path": "Programming/Dart/Freezed 패키지.md"
     }
   ],
   "omittedPaths": [],

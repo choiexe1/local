@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회의.md",
+                "file": "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "회의"
-            }
-          },
-          {
-            "id": "c9a3e218a005e59b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.11.4"
+              "title": "요청 컨텍스트 확장 기능 정리"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "525ea932c0bbb878",
@@ -187,10 +173,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c9a3e218a005e59b",
+  "active": "98143f4e9fac1b5e",
   "lastOpenFiles": [
-    "Personal/YOLO 모델 평가와 미세 조정.md",
+    "Programming/ElysiaJS/요청 라이프사이클.md",
+    "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md",
     "회의.md",
+    "Programming/ElysiaJS",
+    "Personal/YOLO 모델 평가와 미세 조정.md",
     "Personal/고도엔진과 소프트웨어 개발.md",
     "Personal/E-KYC.md",
     "Personal/문제 해결 능력과 AGI.md",
@@ -215,8 +204,6 @@
     "Daily/2025-04/2025-04-11.md",
     "Personal/과제.md",
     "Programming/Dart/함수형 프로그래밍.md",
-    "Programming/Dart/파일 조작, 다양한 파일 형식.md",
-    "Programming/Dart/static.md",
     "Attached/transaction-13.png",
     "Attached/spring-start-aop-3.png",
     "Attached/spring-start-01.png",
