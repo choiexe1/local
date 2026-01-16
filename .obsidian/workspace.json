@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md",
-                "mode": "source",
+                "file": "1.16 호ㅣ의.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "요청 컨텍스트 확장 기능 정리"
+              "title": "1.16 호ㅣ의"
             }
           }
         ]
@@ -175,9 +175,10 @@
   },
   "active": "98143f4e9fac1b5e",
   "lastOpenFiles": [
-    "Programming/ElysiaJS/요청 라이프사이클.md",
-    "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md",
     "회의.md",
+    "1.16 호ㅣ의.md",
+    "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md",
+    "Programming/ElysiaJS/요청 라이프사이클.md",
     "Programming/ElysiaJS",
     "Personal/YOLO 모델 평가와 미세 조정.md",
     "Personal/고도엔진과 소프트웨어 개발.md",
@@ -203,7 +204,6 @@
     "Programming/Blockchain/블록체인 시스템의 보상 체계.md",
     "Daily/2025-04/2025-04-11.md",
     "Personal/과제.md",
-    "Programming/Dart/함수형 프로그래밍.md",
     "Attached/transaction-13.png",
     "Attached/spring-start-aop-3.png",
     "Attached/spring-start-01.png",
