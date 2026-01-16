@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "1.16 회의",
-      "path": "1.16 회의.md"
-    },
-    {
-      "basename": "회의",
-      "path": "회의.md"
+      "basename": "2026-01-16",
+      "path": "Daily/2026-01/2026-01-16.md"
     },
     {
       "basename": "요청 컨텍스트 확장 기능 정리",
@@ -195,10 +191,6 @@
     {
       "basename": "5강 보조기억장치와 데이터 저장",
       "path": "Lectures/25년 1학기/컴퓨터의 이해/5강 보조기억장치와 데이터 저장.md"
-    },
-    {
-      "basename": "4강 컴퓨터의 입출력",
-      "path": "Lectures/25년 1학기/컴퓨터의 이해/4강 컴퓨터의 입출력.md"
     }
   ],
   "omittedPaths": [],

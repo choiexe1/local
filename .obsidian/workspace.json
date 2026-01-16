@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ca3ebad5788dd83",
+        "id": "add9b626dcb7930e",
         "type": "tabs",
         "children": [
           {
-            "id": "98143f4e9fac1b5e",
+            "id": "2c38ef3066b2e9c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.16 회의.md",
+                "file": "Daily/2026-01/2026-01-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.16 회의"
+              "title": "2026-01-16"
             }
           }
         ]
@@ -173,10 +173,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "98143f4e9fac1b5e",
+  "active": "2c38ef3066b2e9c6",
   "lastOpenFiles": [
-    "회의.md",
     "1.16 회의.md",
+    "회의.md",
+    "Daily/2026-01/2026-01-16.md",
+    "Daily/2026-01",
     "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md",
     "Programming/ElysiaJS/요청 라이프사이클.md",
     "Programming/ElysiaJS",
@@ -202,8 +204,6 @@
     "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md",
     "Programming/Dart/생성자.md",
     "Programming/Blockchain/블록체인 시스템의 보상 체계.md",
-    "Daily/2025-04/2025-04-11.md",
-    "Personal/과제.md",
     "Attached/transaction-13.png",
     "Attached/spring-start-aop-3.png",
     "Attached/spring-start-01.png",
