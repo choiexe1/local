@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회의.md",
+                "file": "1.16 회의.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "회의"
+              "title": "1.16 회의"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "98143f4e9fac1b5e",
   "lastOpenFiles": [
-    "1.16 회의.md",
     "회의.md",
+    "1.16 회의.md",
     "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md",
     "Programming/ElysiaJS/요청 라이프사이클.md",
     "Programming/ElysiaJS",
