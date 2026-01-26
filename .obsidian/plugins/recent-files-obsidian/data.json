@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Overview",
+      "path": "Business/SignaLab/Overview.md"
+    },
+    {
+      "basename": "BM",
+      "path": "Business/SignaLab/BM.md"
+    },
+    {
       "basename": "2026-01-26",
       "path": "Daily/2026-01/2026-01-26.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "7강 데이터베이스",
       "path": "Lectures/25년 1학기/컴퓨터의 이해/7강 데이터베이스.md"
-    },
-    {
-      "basename": "6강 소프트웨어와 정보시스템",
-      "path": "Lectures/25년 1학기/컴퓨터의 이해/6강 소프트웨어와 정보시스템.md"
-    },
-    {
-      "basename": "5강 보조기억장치와 데이터 저장",
-      "path": "Lectures/25년 1학기/컴퓨터의 이해/5강 보조기억장치와 데이터 저장.md"
     }
   ],
   "omittedPaths": [],
