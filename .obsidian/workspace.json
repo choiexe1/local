@@ -173,8 +173,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2c38ef3066b2e9c6",
+  "active": "2070b7540ce09050",
   "lastOpenFiles": [
+    "Business/SignaLab",
+    "Business",
     "Daily/2026-01/2026-01-22.md",
     "Daily/2026-01/2026-01-26.md",
     "Daily/2026-01/2026-01-16.md",
@@ -204,7 +206,6 @@
     "Programming/Dart/테스트 메서드.md",
     "Programming/Dart/직렬화 (Serialization).md",
     "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md",
-    "Programming/Dart/생성자.md",
     "Attached/transaction-13.png",
     "Attached/spring-start-aop-3.png",
     "Attached/spring-start-01.png",
