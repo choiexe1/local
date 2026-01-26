@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2026-01-22"
             }
+          },
+          {
+            "id": "7419b33e30c9b9f0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2c38ef3066b2e9c6",
+  "active": "7419b33e30c9b9f0",
   "lastOpenFiles": [
     "Daily/2026-01/2026-01-22.md",
     "Daily/2026-01/2026-01-16.md",
