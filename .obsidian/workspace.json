@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/SignaLab/Overview.md",
+                "file": "Business/SignaLab/BM.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "BM"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "2c38ef3066b2e9c6",
   "lastOpenFiles": [
-    "Business/SignaLab/BM.md",
     "Business/SignaLab/Overview.md",
+    "Business/SignaLab/BM.md",
     "Daily/2026-01/2026-01-26.md",
     "Business/SignaLab",
     "Business",
