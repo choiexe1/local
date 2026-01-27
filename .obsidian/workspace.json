@@ -11,10 +11,14 @@
             "id": "f68d0a218e11d347",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-01/2026-01-27.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2026-01-27"
             }
           }
         ]
@@ -171,6 +175,7 @@
   },
   "active": "2070b7540ce09050",
   "lastOpenFiles": [
+    "Programming/Blockchain/Web3 개요.md",
     "Programming/Blockchain/Blockchain Core Concept.md",
     "Programming/Blockchain/코인과 토큰의 주요 차이점.md",
     "Personal/YOLO 모델 평가와 미세 조정.md",
@@ -200,7 +205,6 @@
     "1.16 회의.md",
     "회의.md",
     "Daily/2026-01",
-    "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md",
     "Programming/ElysiaJS",
     "Organization/회의",
     "Organization",
