@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "de7028089de5fa31",
+        "id": "ff90d6927b783628",
         "type": "tabs",
         "children": [
           {
-            "id": "2a89f8795073e889",
+            "id": "be7acec2411be727",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Private/자바/중급 1편/중첩 클래스와 내부 클래스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "중첩 클래스와 내부 클래스"
             }
           }
         ]
@@ -169,8 +173,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2a89f8795073e889",
+  "active": "be7acec2411be727",
   "lastOpenFiles": [
+    "Programming/Private/스프링/고급/동적 프록시 기술.md",
+    "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md",
+    "Programming/Flutter/OCP와 Dependency Injection.md",
+    "Programming/Private/스프링/고급/로그 추적기.md",
+    "Programming/Private/스프링/고급/쓰레드 로컬과 동시성 문제.md",
+    "Programming/Private/자바/기본/상속과 메서드 오버라이딩.md",
+    "Programming/Private/자바/중급 1편/중첩 클래스와 내부 클래스.md",
+    "해시 함수.md",
+    "Programming/Private/자바/기본/스택 Stack.md",
+    "Programming/Blockchain/블록체인 시스템의 보상 체계.md",
+    "Programming/Private/자바 DB/DB 2편/예외와 트랜잭션 커밋, 롤백.md",
+    "Programming/Private/자바/기본/기본 타입과 참조형 타입.md",
+    "Programming/Private/자바/중급 1편/Wrapper 클래스.md",
     "Daily/2026-01/2026-01-27.md",
     "Daily/2026-01/2026-01-26.md",
     "Business/SignaLab/Overview.md",
@@ -189,20 +206,8 @@
     "Programming/ElysiaJS",
     "Personal/YOLO 모델 평가와 미세 조정.md",
     "Personal/고도엔진과 소프트웨어 개발.md",
-    "Personal/E-KYC.md",
-    "Personal/문제 해결 능력과 AGI.md",
-    "Personal/커리어 포트폴리오.md",
-    "Personal/n8n.md",
-    "Personal/Flutter 관련 아티클 모음.md",
-    "Personal/zed 세팅.md",
-    "Organization/회의/2025-12-23 SMBPIE GLOBAL 회의.md",
-    "Personal/암호화폐 거래소 도메인 지식 학습.md",
     "Organization/회의",
     "Organization",
-    "Programming/Blockchain/코인과 토큰의 주요 차이점.md",
-    "Programming/Blockchain/Blockchain Core Concept.md",
-    "Programming/Blockchain/Web3 개요.md",
-    "Programming/Dart/함수.md",
     "Attached/transaction-13.png",
     "Attached/spring-start-aop-3.png",
     "Attached/spring-start-01.png",

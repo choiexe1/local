@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "중첩 클래스와 내부 클래스",
+      "path": "Programming/Private/자바/중급 1편/중첩 클래스와 내부 클래스.md"
+    },
+    {
+      "basename": "동적 프록시 기술",
+      "path": "Programming/Private/스프링/고급/동적 프록시 기술.md"
+    },
+    {
+      "basename": "비동기 프로그래밍과 동시성, 병렬성",
+      "path": "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md"
+    },
+    {
+      "basename": "OCP와 Dependency Injection",
+      "path": "Programming/Flutter/OCP와 Dependency Injection.md"
+    },
+    {
+      "basename": "로그 추적기",
+      "path": "Programming/Private/스프링/고급/로그 추적기.md"
+    },
+    {
+      "basename": "쓰레드 로컬과 동시성 문제",
+      "path": "Programming/Private/스프링/고급/쓰레드 로컬과 동시성 문제.md"
+    },
+    {
+      "basename": "상속과 메서드 오버라이딩",
+      "path": "Programming/Private/자바/기본/상속과 메서드 오버라이딩.md"
+    },
+    {
+      "basename": "해시 함수",
+      "path": "해시 함수.md"
+    },
+    {
+      "basename": "스택 Stack",
+      "path": "Programming/Private/자바/기본/스택 Stack.md"
+    },
+    {
+      "basename": "블록체인 시스템의 보상 체계",
+      "path": "Programming/Blockchain/블록체인 시스템의 보상 체계.md"
+    },
+    {
+      "basename": "예외와 트랜잭션 커밋, 롤백",
+      "path": "Programming/Private/자바 DB/DB 2편/예외와 트랜잭션 커밋, 롤백.md"
+    },
+    {
+      "basename": "기본 타입과 참조형 타입",
+      "path": "Programming/Private/자바/기본/기본 타입과 참조형 타입.md"
+    },
+    {
+      "basename": "Wrapper 클래스",
+      "path": "Programming/Private/자바/중급 1편/Wrapper 클래스.md"
+    },
+    {
       "basename": "2026-01-27",
       "path": "Daily/2026-01/2026-01-27.md"
     },
@@ -97,16 +149,8 @@
       "path": "Programming/Dart/직렬화 (Serialization).md"
     },
     {
-      "basename": "비동기 프로그래밍과 동시성, 병렬성",
-      "path": "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md"
-    },
-    {
       "basename": "생성자",
       "path": "Programming/Dart/생성자.md"
-    },
-    {
-      "basename": "블록체인 시스템의 보상 체계",
-      "path": "Programming/Blockchain/블록체인 시스템의 보상 체계.md"
     },
     {
       "basename": "2025-04-11",
@@ -155,50 +199,6 @@
     {
       "basename": "proxy-12",
       "path": "Attached/proxy-12.png"
-    },
-    {
-      "basename": "pointcut-designater-1",
-      "path": "Attached/pointcut-designater-1.png"
-    },
-    {
-      "basename": "Class Diagram",
-      "path": "Programming/Diagram/Class Diagram.md"
-    },
-    {
-      "basename": "노드와 연결, 연결 리스트",
-      "path": "Programming/Private/자바/중급 2편/노드와 연결, 연결 리스트.md"
-    },
-    {
-      "basename": "2025-03-21",
-      "path": "Daily/2025-03/2025-03-21.md"
-    },
-    {
-      "basename": "유용한 패키지",
-      "path": "Programming/Flutter/유용한 패키지.md"
-    },
-    {
-      "basename": "didChangeAppLifecycleState",
-      "path": "Programming/Flutter/didChangeAppLifecycleState.md"
-    },
-    {
-      "basename": "Camera 패키지 플랫폼별 이슈 정리",
-      "path": "Programming/Flutter/Camera 패키지 플랫폼별 이슈 정리.md"
-    },
-    {
-      "basename": "Firebase Emulator",
-      "path": "Programming/Flutter/Firebase Emulator.md"
-    },
-    {
-      "basename": "Local Notification",
-      "path": "Programming/Flutter/Local Notification.md"
-    },
-    {
-      "basename": "mounted vs context.mounted",
-      "path": "Programming/Flutter/mounted vs context.mounted.md"
-    },
-    {
-      "basename": "BoxConstraints",
-      "path": "Programming/Flutter/BoxConstraints.md"
     }
   ],
   "omittedPaths": [],
