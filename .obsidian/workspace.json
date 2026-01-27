@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Daily/2026-01/2026-01-27.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -173,7 +173,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2070b7540ce09050",
+  "active": "f68d0a218e11d347",
   "lastOpenFiles": [
     "Programming/Blockchain/Web3 개요.md",
     "Programming/Blockchain/Blockchain Core Concept.md",
