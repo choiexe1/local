@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ff90d6927b783628",
+        "id": "4becb5cf647f8033",
         "type": "tabs",
         "children": [
           {
-            "id": "be7acec2411be727",
+            "id": "f68d0a218e11d347",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Private/자바/중급 1편/중첩 클래스와 내부 클래스.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "중첩 클래스와 내부 클래스"
+              "title": "새 탭"
             }
           }
         ]
@@ -173,15 +169,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "be7acec2411be727",
+  "active": "2070b7540ce09050",
   "lastOpenFiles": [
+    "Programming/Blockchain/Blockchain Core Concept.md",
+    "Programming/Blockchain/코인과 토큰의 주요 차이점.md",
+    "Personal/YOLO 모델 평가와 미세 조정.md",
+    "Programming/Private/자바/중급 1편/중첩 클래스와 내부 클래스.md",
     "Programming/Private/스프링/고급/동적 프록시 기술.md",
     "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md",
     "Programming/Flutter/OCP와 Dependency Injection.md",
     "Programming/Private/스프링/고급/로그 추적기.md",
     "Programming/Private/스프링/고급/쓰레드 로컬과 동시성 문제.md",
     "Programming/Private/자바/기본/상속과 메서드 오버라이딩.md",
-    "Programming/Private/자바/중급 1편/중첩 클래스와 내부 클래스.md",
     "해시 함수.md",
     "Programming/Private/자바/기본/스택 Stack.md",
     "Programming/Blockchain/블록체인 시스템의 보상 체계.md",
@@ -202,10 +201,7 @@
     "회의.md",
     "Daily/2026-01",
     "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md",
-    "Programming/ElysiaJS/요청 라이프사이클.md",
     "Programming/ElysiaJS",
-    "Personal/YOLO 모델 평가와 미세 조정.md",
-    "Personal/고도엔진과 소프트웨어 개발.md",
     "Organization/회의",
     "Organization",
     "Attached/transaction-13.png",

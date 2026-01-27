@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Web3 개요",
+      "path": "Programming/Blockchain/Web3 개요.md"
+    },
+    {
+      "basename": "Blockchain Core Concept",
+      "path": "Programming/Blockchain/Blockchain Core Concept.md"
+    },
+    {
+      "basename": "코인과 토큰의 주요 차이점",
+      "path": "Programming/Blockchain/코인과 토큰의 주요 차이점.md"
+    },
+    {
+      "basename": "YOLO 모델 평가와 미세 조정",
+      "path": "Personal/YOLO 모델 평가와 미세 조정.md"
+    },
+    {
       "basename": "중첩 클래스와 내부 클래스",
       "path": "Programming/Private/자바/중급 1편/중첩 클래스와 내부 클래스.md"
     },
@@ -85,10 +101,6 @@
       "path": "Programming/ElysiaJS/요청 라이프사이클.md"
     },
     {
-      "basename": "YOLO 모델 평가와 미세 조정",
-      "path": "Personal/YOLO 모델 평가와 미세 조정.md"
-    },
-    {
       "basename": "고도엔진과 소프트웨어 개발",
       "path": "Personal/고도엔진과 소프트웨어 개발.md"
     },
@@ -119,18 +131,6 @@
     {
       "basename": "2025-12-23 SMBPIE GLOBAL 회의",
       "path": "Organization/회의/2025-12-23 SMBPIE GLOBAL 회의.md"
-    },
-    {
-      "basename": "코인과 토큰의 주요 차이점",
-      "path": "Programming/Blockchain/코인과 토큰의 주요 차이점.md"
-    },
-    {
-      "basename": "Blockchain Core Concept",
-      "path": "Programming/Blockchain/Blockchain Core Concept.md"
-    },
-    {
-      "basename": "Web3 개요",
-      "path": "Programming/Blockchain/Web3 개요.md"
     },
     {
       "basename": "함수",
