@@ -1,5 +1,7 @@
 # SignaLab
 
+![[Pasted image 20260127124854.png]]
+
 SEC EDGAR 공시 모니터링 + 숏스퀴즈 시그널 탐지 서비스
 
 ## 프로젝트 개요

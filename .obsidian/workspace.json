@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03e89346651641a9",
+        "id": "de7028089de5fa31",
         "type": "tabs",
         "children": [
           {
-            "id": "f3d298270f660ccf",
+            "id": "2a89f8795073e889",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-01/2026-01-27.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-01-27"
+              "title": "새 탭"
             }
           }
         ]
@@ -173,9 +169,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f3d298270f660ccf",
+  "active": "2a89f8795073e889",
   "lastOpenFiles": [
     "Business/SignaLab/Overview.md",
+    "Attached/Pasted image 20260127124854.png",
     "Daily/2026-01/2026-01-27.md",
     "Business/SignaLab/BM.md",
     "README.md",
@@ -206,7 +203,6 @@
     "Programming/Blockchain/Blockchain Core Concept.md",
     "Programming/Blockchain/Web3 개요.md",
     "Programming/Dart/함수.md",
-    "Programming/Dart/추상 클래스와 인터페이스.md",
     "Attached/transaction-13.png",
     "Attached/spring-start-aop-3.png",
     "Attached/spring-start-01.png",
