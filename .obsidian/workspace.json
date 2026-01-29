@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69acad1a979412f8",
+        "id": "3a0c4a2bfd74a98d",
         "type": "tabs",
         "children": [
           {
-            "id": "46f62e8d1bf6ba61",
+            "id": "31652bd20b999ea6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business/SignaLab/Overview.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "새 탭"
             }
           }
         ]
@@ -173,11 +169,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "46f62e8d1bf6ba61",
+  "active": "31652bd20b999ea6",
   "lastOpenFiles": [
+    "Business/SignaLab/BM.md",
+    "Business/SignaLab/Overview.md",
     "Daily/2026-01/2026-01-28.md",
     "Daily/2026-01/2026-01-27.md",
-    "Business/SignaLab/Overview.md",
     "Programming/Blockchain/Web3 개요.md",
     "Programming/Blockchain/Blockchain Core Concept.md",
     "Programming/Blockchain/코인과 토큰의 주요 차이점.md",
@@ -197,7 +194,6 @@
     "Programming/Private/자바/중급 1편/Wrapper 클래스.md",
     "Daily/2026-01/2026-01-26.md",
     "Attached/Pasted image 20260127124854.png",
-    "Business/SignaLab/BM.md",
     "README.md",
     "Business/SignaLab",
     "Business",
