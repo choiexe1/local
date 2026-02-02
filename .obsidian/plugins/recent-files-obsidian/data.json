@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-02",
+      "path": "Daily/2026-01/2026-02-02.md"
+    },
+    {
       "basename": "2026-01-30",
       "path": "Daily/2026-01/2026-01-30.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "spring-interceptor-2",
       "path": "Attached/spring-interceptor-2.png"
-    },
-    {
-      "basename": "proxy-factory-4",
-      "path": "Attached/proxy-factory-4.png"
     }
   ],
   "omittedPaths": [],

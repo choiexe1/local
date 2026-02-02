@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01/2026-01-30.md",
+                "file": "Daily/2026-01/2026-02-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-30"
+              "title": "2026-02-02"
             }
           }
         ]
@@ -176,6 +176,7 @@
   "active": "31652bd20b999ea6",
   "lastOpenFiles": [
     "Daily/2026-01/2026-01-30.md",
+    "Daily/2026-01/2026-02-02.md",
     "해시 함수.md",
     "Business/SignaLab/BM.md",
     "Business/SignaLab/Overview.md",
@@ -203,7 +204,6 @@
     "Business/SignaLab",
     "Business",
     "Daily/2026-01/2026-01-22.md",
-    "Daily/2026-01/2026-01-16.md",
     "Daily/2026-01",
     "Programming/ElysiaJS",
     "Organization/회의",
