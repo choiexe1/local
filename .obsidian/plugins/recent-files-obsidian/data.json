@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "무제",
+      "path": "Personal/무제.md"
+    },
+    {
       "basename": "2026-02-02",
       "path": "Daily/2026-01/2026-02-02.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "spring-start-01",
       "path": "Attached/spring-start-01.png"
-    },
-    {
-      "basename": "spring-mvc1-servlet-2",
-      "path": "Attached/spring-mvc1-servlet-2.png"
     }
   ],
   "omittedPaths": [],
