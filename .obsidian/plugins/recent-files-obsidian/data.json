@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "금융 시장 메타의 변화",
-      "path": "Personal/금융 시장 메타의 변화.md"
+      "basename": "2026-01-16",
+      "path": "Daily/2026-01/2026-01-16.md"
+    },
+    {
+      "basename": "2026-01-22",
+      "path": "Daily/2026-01/2026-01-22.md"
     },
     {
       "basename": "2026-02-02",
@@ -11,6 +15,14 @@
     {
       "basename": "2026-01-30",
       "path": "Daily/2026-01/2026-01-30.md"
+    },
+    {
+      "basename": "무제",
+      "path": "Personal/무제.md"
+    },
+    {
+      "basename": "금융 시장 메타의 변화",
+      "path": "Personal/금융 시장 메타의 변화.md"
     },
     {
       "basename": "자바의 셋 자료구조",
@@ -101,14 +113,6 @@
       "path": "Daily/2026-01/2026-01-26.md"
     },
     {
-      "basename": "2026-01-22",
-      "path": "Daily/2026-01/2026-01-22.md"
-    },
-    {
-      "basename": "2026-01-16",
-      "path": "Daily/2026-01/2026-01-16.md"
-    },
-    {
       "basename": "요청 컨텍스트 확장 기능 정리",
       "path": "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "spring-start-aop-3",
       "path": "Attached/spring-start-aop-3.png"
-    },
-    {
-      "basename": "spring-start-01",
-      "path": "Attached/spring-start-01.png"
     }
   ],
   "omittedPaths": [],
