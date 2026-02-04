@@ -11,12 +11,10 @@
             "id": "90a820d2ab2f1112",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Attached/variable-lifetime.png"
-              },
-              "icon": "lucide-image",
-              "title": "variable-lifetime"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -171,8 +169,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "90a820d2ab2f1112",
+  "active": "2070b7540ce09050",
   "lastOpenFiles": [
+    "Attached/tx-1.png",
+    "Attached/uncheck-exception-1.png",
+    "Attached/variable-lifetime.png",
     "Attached/동작환경.png",
     "Attached/binary-search-tree-example-01.png",
     "Attached/queue.png",
@@ -181,9 +182,6 @@
     "Attached/request-mapping-handler-adapter.png",
     "Attached/session-2.png",
     "Attached/session-1.png",
-    "Attached/sort-1.png",
-    "Attached/sort-2.png",
-    "Attached/sort-3.png",
     "Business/SignaLab/BM.md",
     "Daily/2025-03/2025-03-11.md",
     "Daily/2026-01/2026-02-02.md",
