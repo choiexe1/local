@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Personal/커리어 포트폴리오.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "커리어 포트폴리오"
             }
           }
         ]
@@ -173,10 +173,18 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "90a820d2ab2f1112",
+  "active": "2070b7540ce09050",
   "lastOpenFiles": [
-    "무제.md",
+    "MOC",
+    "Notes",
+    "Inbox",
+    "Personal/zed 세팅.md",
+    "Personal/YOLO 모델 평가와 미세 조정.md",
+    "Personal/Flutter 관련 아티클 모음.md",
+    "Personal/n8n.md",
     "index.md",
+    "Personal/E-KYC.md",
+    "무제.md",
     "Attached/variable-lifetime.png",
     "Attached/tx-1.png",
     "Attached/uncheck-exception-1.png",
@@ -205,13 +213,7 @@
     "Programming/Blockchain/Web3 개요.md",
     "Programming/Blockchain/Blockchain Core Concept.md",
     "Programming/Blockchain/코인과 토큰의 주요 차이점.md",
-    "Personal/YOLO 모델 평가와 미세 조정.md",
     "Programming/Private/자바/중급 1편/중첩 클래스와 내부 클래스.md",
-    "Programming/Private/스프링/고급/동적 프록시 기술.md",
-    "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md",
-    "Programming/Flutter/OCP와 Dependency Injection.md",
-    "Programming/Private/스프링/고급/로그 추적기.md",
-    "Programming/Private/스프링/고급/쓰레드 로컬과 동시성 문제.md",
     "Business/SignaLab",
     "Business",
     "Daily/2026-01",

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "커리어 포트폴리오",
+      "path": "Personal/커리어 포트폴리오.md"
+    },
+    {
+      "basename": "zed 세팅",
+      "path": "Personal/zed 세팅.md"
+    },
+    {
+      "basename": "YOLO 모델 평가와 미세 조정",
+      "path": "Personal/YOLO 모델 평가와 미세 조정.md"
+    },
+    {
+      "basename": "Flutter 관련 아티클 모음",
+      "path": "Personal/Flutter 관련 아티클 모음.md"
+    },
+    {
       "basename": "index",
       "path": "index.md"
     }
