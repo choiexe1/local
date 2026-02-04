@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-01-16",
-      "path": "Daily/2026-01/2026-01-16.md"
+      "basename": "variable-lifetime",
+      "path": "Attached/variable-lifetime.png"
     },
     {
-      "basename": "2026-01-22",
-      "path": "Daily/2026-01/2026-01-22.md"
+      "basename": "동작환경",
+      "path": "Attached/동작환경.png"
     },
     {
-      "basename": "2026-02-02",
-      "path": "Daily/2026-01/2026-02-02.md"
+      "basename": "binary-search-tree-example-01",
+      "path": "Attached/binary-search-tree-example-01.png"
     },
     {
-      "basename": "2026-01-30",
-      "path": "Daily/2026-01/2026-01-30.md"
+      "basename": "queue",
+      "path": "Attached/queue.png"
     },
     {
-      "basename": "무제",
-      "path": "Personal/무제.md"
+      "basename": "rehashing",
+      "path": "Attached/rehashing.png"
     },
     {
-      "basename": "금융 시장 메타의 변화",
-      "path": "Personal/금융 시장 메타의 변화.md"
+      "basename": "queue-data-struture",
+      "path": "Attached/queue-data-struture.png"
     },
     {
-      "basename": "자바의 셋 자료구조",
-      "path": "Programming/Private/자바/중급 2편/자바의 셋 자료구조.md"
+      "basename": "request-mapping-handler-adapter",
+      "path": "Attached/request-mapping-handler-adapter.png"
     },
     {
-      "basename": "BM",
-      "path": "Business/SignaLab/BM.md"
+      "basename": "session-2",
+      "path": "Attached/session-2.png"
     },
     {
-      "basename": "Overview",
-      "path": "Business/SignaLab/Overview.md"
+      "basename": "session-1",
+      "path": "Attached/session-1.png"
     },
     {
-      "basename": "2026-01-28",
-      "path": "Daily/2026-01/2026-01-28.md"
+      "basename": "sort-1",
+      "path": "Attached/sort-1.png"
     },
     {
-      "basename": "2026-01-27",
-      "path": "Daily/2026-01/2026-01-27.md"
+      "basename": "sort-2",
+      "path": "Attached/sort-2.png"
     },
     {
-      "basename": "Web3 개요",
-      "path": "Programming/Blockchain/Web3 개요.md"
+      "basename": "sort-3",
+      "path": "Attached/sort-3.png"
     },
     {
-      "basename": "Blockchain Core Concept",
-      "path": "Programming/Blockchain/Blockchain Core Concept.md"
+      "basename": "spring-basic-테스트-1",
+      "path": "Attached/spring-basic-테스트-1.png"
     },
     {
-      "basename": "코인과 토큰의 주요 차이점",
-      "path": "Programming/Blockchain/코인과 토큰의 주요 차이점.md"
+      "basename": "spring-mvc1-springmvc-structure",
+      "path": "Attached/spring-mvc1-springmvc-structure.png"
     },
     {
-      "basename": "YOLO 모델 평가와 미세 조정",
-      "path": "Personal/YOLO 모델 평가와 미세 조정.md"
+      "basename": "spring-mvc1-servlet-1",
+      "path": "Attached/spring-mvc1-servlet-1.png"
     },
     {
-      "basename": "중첩 클래스와 내부 클래스",
-      "path": "Programming/Private/자바/중급 1편/중첩 클래스와 내부 클래스.md"
+      "basename": "spring-data-jpa-2",
+      "path": "Attached/spring-data-jpa-2.png"
     },
     {
-      "basename": "동적 프록시 기술",
-      "path": "Programming/Private/스프링/고급/동적 프록시 기술.md"
+      "basename": "spring-start-aop-2",
+      "path": "Attached/spring-start-aop-2.png"
     },
     {
-      "basename": "비동기 프로그래밍과 동시성, 병렬성",
-      "path": "Programming/Dart/비동기 프로그래밍과 동시성, 병렬성.md"
+      "basename": "spring-start-aop-1",
+      "path": "Attached/spring-start-aop-1.png"
     },
     {
-      "basename": "OCP와 Dependency Injection",
-      "path": "Programming/Flutter/OCP와 Dependency Injection.md"
-    },
-    {
-      "basename": "로그 추적기",
-      "path": "Programming/Private/스프링/고급/로그 추적기.md"
-    },
-    {
-      "basename": "쓰레드 로컬과 동시성 문제",
-      "path": "Programming/Private/스프링/고급/쓰레드 로컬과 동시성 문제.md"
-    },
-    {
-      "basename": "상속과 메서드 오버라이딩",
-      "path": "Programming/Private/자바/기본/상속과 메서드 오버라이딩.md"
-    },
-    {
-      "basename": "스택 Stack",
-      "path": "Programming/Private/자바/기본/스택 Stack.md"
-    },
-    {
-      "basename": "블록체인 시스템의 보상 체계",
-      "path": "Programming/Blockchain/블록체인 시스템의 보상 체계.md"
-    },
-    {
-      "basename": "예외와 트랜잭션 커밋, 롤백",
-      "path": "Programming/Private/자바 DB/DB 2편/예외와 트랜잭션 커밋, 롤백.md"
-    },
-    {
-      "basename": "기본 타입과 참조형 타입",
-      "path": "Programming/Private/자바/기본/기본 타입과 참조형 타입.md"
-    },
-    {
-      "basename": "Wrapper 클래스",
-      "path": "Programming/Private/자바/중급 1편/Wrapper 클래스.md"
-    },
-    {
-      "basename": "2026-01-26",
-      "path": "Daily/2026-01/2026-01-26.md"
-    },
-    {
-      "basename": "요청 컨텍스트 확장 기능 정리",
-      "path": "Programming/ElysiaJS/요청 컨텍스트 확장 기능 정리.md"
-    },
-    {
-      "basename": "요청 라이프사이클",
-      "path": "Programming/ElysiaJS/요청 라이프사이클.md"
-    },
-    {
-      "basename": "고도엔진과 소프트웨어 개발",
-      "path": "Personal/고도엔진과 소프트웨어 개발.md"
-    },
-    {
-      "basename": "E-KYC",
-      "path": "Personal/E-KYC.md"
-    },
-    {
-      "basename": "문제 해결 능력과 AGI",
-      "path": "Personal/문제 해결 능력과 AGI.md"
-    },
-    {
-      "basename": "커리어 포트폴리오",
-      "path": "Personal/커리어 포트폴리오.md"
-    },
-    {
-      "basename": "n8n",
-      "path": "Personal/n8n.md"
-    },
-    {
-      "basename": "Flutter 관련 아티클 모음",
-      "path": "Personal/Flutter 관련 아티클 모음.md"
-    },
-    {
-      "basename": "zed 세팅",
-      "path": "Personal/zed 세팅.md"
-    },
-    {
-      "basename": "함수",
-      "path": "Programming/Dart/함수.md"
-    },
-    {
-      "basename": "추상 클래스와 인터페이스",
-      "path": "Programming/Dart/추상 클래스와 인터페이스.md"
-    },
-    {
-      "basename": "테스트 메서드",
-      "path": "Programming/Dart/테스트 메서드.md"
-    },
-    {
-      "basename": "직렬화 (Serialization)",
-      "path": "Programming/Dart/직렬화 (Serialization).md"
-    },
-    {
-      "basename": "생성자",
-      "path": "Programming/Dart/생성자.md"
-    },
-    {
-      "basename": "2025-04-11",
-      "path": "Daily/2025-04/2025-04-11.md"
-    },
-    {
-      "basename": "함수형 프로그래밍",
-      "path": "Programming/Dart/함수형 프로그래밍.md"
-    },
-    {
-      "basename": "파일 조작, 다양한 파일 형식",
-      "path": "Programming/Dart/파일 조작, 다양한 파일 형식.md"
-    },
-    {
-      "basename": "static",
-      "path": "Programming/Dart/static.md"
-    },
-    {
-      "basename": "index",
-      "path": "Programming/Private/스프링/index.md"
-    },
-    {
-      "basename": "transaction-13",
-      "path": "Attached/transaction-13.png"
+      "basename": "spring-start-2",
+      "path": "Attached/spring-start-2.png"
     },
     {
       "basename": "spring-start-aop-3",
       "path": "Attached/spring-start-aop-3.png"
+    },
+    {
+      "basename": "spring-transaction-propagation-1",
+      "path": "Attached/spring-transaction-propagation-1.png"
+    },
+    {
+      "basename": "spring-transaction-propagation-2",
+      "path": "Attached/spring-transaction-propagation-2.png"
+    },
+    {
+      "basename": "spring-transaction-propagation-3",
+      "path": "Attached/spring-transaction-propagation-3.png"
+    },
+    {
+      "basename": "spring-transaction-propagation-5",
+      "path": "Attached/spring-transaction-propagation-5.png"
+    },
+    {
+      "basename": "spring-transaction-propagation-7",
+      "path": "Attached/spring-transaction-propagation-7.png"
+    },
+    {
+      "basename": "strategy-1",
+      "path": "Attached/strategy-1.png"
+    },
+    {
+      "basename": "thread-local-1",
+      "path": "Attached/thread-local-1.png"
+    },
+    {
+      "basename": "template-method-1",
+      "path": "Attached/template-method-1.png"
+    },
+    {
+      "basename": "thread-local-2",
+      "path": "Attached/thread-local-2.png"
+    },
+    {
+      "basename": "transaction-2",
+      "path": "Attached/transaction-2.png"
+    },
+    {
+      "basename": "transaction-8",
+      "path": "Attached/transaction-8.png"
+    },
+    {
+      "basename": "transaction-12",
+      "path": "Attached/transaction-12.png"
+    },
+    {
+      "basename": "transaction-14",
+      "path": "Attached/transaction-14.png"
+    },
+    {
+      "basename": "transaction-aop-1",
+      "path": "Attached/transaction-aop-1.png"
+    },
+    {
+      "basename": "transaction-exception-1",
+      "path": "Attached/transaction-exception-1.png"
+    },
+    {
+      "basename": "transaction-aop-3",
+      "path": "Attached/transaction-aop-3.png"
+    },
+    {
+      "basename": "transaction-aop-2",
+      "path": "Attached/transaction-aop-2.png"
+    },
+    {
+      "basename": "transaction-test-1",
+      "path": "Attached/transaction-test-1.png"
+    },
+    {
+      "basename": "tree-structure-implements",
+      "path": "Attached/tree-structure-implements.png"
+    },
+    {
+      "basename": "tx-1",
+      "path": "Attached/tx-1.png"
+    },
+    {
+      "basename": "uncheck-exception-1",
+      "path": "Attached/uncheck-exception-1.png"
+    },
+    {
+      "basename": "체크예외의_부담1",
+      "path": "Attached/체크예외의_부담1.png"
+    },
+    {
+      "basename": "체크예외의_부담",
+      "path": "Attached/체크예외의_부담.png"
+    },
+    {
+      "basename": "컴파일타임_의존관계",
+      "path": "Attached/컴파일타임_의존관계.png"
+    },
+    {
+      "basename": "지역클래스",
+      "path": "Attached/지역클래스.png"
+    },
+    {
+      "basename": "자바의_리스트",
+      "path": "Attached/자바의_리스트.png"
+    },
+    {
+      "basename": "자바_이중_연결_리스트",
+      "path": "Attached/자바_이중_연결_리스트.png"
+    },
+    {
+      "basename": "자바-set",
+      "path": "Attached/자바-set.png"
+    },
+    {
+      "basename": "예외처리",
+      "path": "Attached/예외처리.png"
+    },
+    {
+      "basename": "예외-계층화1",
+      "path": "Attached/예외-계층화1.png"
     }
   ],
   "omittedPaths": [],

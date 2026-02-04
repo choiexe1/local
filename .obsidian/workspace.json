@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7c9a987bc6d59bbd",
+        "id": "3e71117093ae1ef5",
         "type": "tabs",
         "children": [
           {
-            "id": "19b8258138324b14",
+            "id": "90a820d2ab2f1112",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Daily/2026-01/2026-01-16.md",
-                "mode": "source",
-                "source": false
+                "file": "Attached/variable-lifetime.png"
               },
-              "icon": "lucide-file",
-              "title": "2026-01-16"
+              "icon": "lucide-image",
+              "title": "variable-lifetime"
             }
           }
         ]
@@ -173,19 +171,31 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2070b7540ce09050",
+  "active": "90a820d2ab2f1112",
   "lastOpenFiles": [
+    "Attached/동작환경.png",
+    "Attached/binary-search-tree-example-01.png",
+    "Attached/queue.png",
+    "Attached/rehashing.png",
+    "Attached/queue-data-struture.png",
+    "Attached/request-mapping-handler-adapter.png",
+    "Attached/session-2.png",
+    "Attached/session-1.png",
+    "Attached/sort-1.png",
+    "Attached/sort-2.png",
+    "Attached/sort-3.png",
+    "Business/SignaLab/BM.md",
+    "Daily/2025-03/2025-03-11.md",
+    "Daily/2026-01/2026-02-02.md",
+    "Daily/2026-01/2026-01-16.md",
     "Work",
     "Organization/회의/2025-12-23 SMBPIE GLOBAL 회의.md",
-    "Daily/2026-01/2026-01-16.md",
     "Daily/2026-01/2026-01-22.md",
-    "Daily/2026-01/2026-02-02.md",
     "Daily/2026-01/2026-01-30.md",
     "Personal/무제.md",
     "Personal/금융 시장 메타의 변화.md",
     "Programming/Private/자바/중급 2편/자바의 셋 자료구조.md",
     "해시 함수.md",
-    "Business/SignaLab/BM.md",
     "Business/SignaLab/Overview.md",
     "Daily/2026-01/2026-01-28.md",
     "Daily/2026-01/2026-01-27.md",
@@ -200,22 +210,12 @@
     "Programming/Private/스프링/고급/로그 추적기.md",
     "Programming/Private/스프링/고급/쓰레드 로컬과 동시성 문제.md",
     "Programming/Private/자바/기본/상속과 메서드 오버라이딩.md",
-    "Programming/Private/자바/기본/스택 Stack.md",
-    "Attached/Pasted image 20260127124854.png",
     "Business/SignaLab",
     "Business",
     "Daily/2026-01",
     "Programming/ElysiaJS",
     "Organization/회의",
     "Organization",
-    "Attached/transaction-13.png",
-    "Attached/spring-start-aop-3.png",
-    "Attached/spring-start-01.png",
-    "Attached/spring-mvc1-servlet-2.png",
-    "Attached/spring-interceptor-2.png",
-    "Attached/proxy-factory-4.png",
-    "Attached/proxy-12.png",
-    "Attached/pointcut-designater-1.png",
     "Programming/Blockchain"
   ]
 }
